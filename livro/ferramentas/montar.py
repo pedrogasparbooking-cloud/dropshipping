@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Monta o livro a partir dos capítulos.
 
-Lê a ordem e as Partes de bastidores/roteiro.json, junta a nota prévia e os
-capítulos num único manuscrito.md e gera o EPUB, o HTML e o PDF.
+Lê a ordem e as Partes de bastidores/roteiro.json, junta os capítulos e o
+posfácio num único manuscrito.md e gera o EPUB, o HTML e o PDF.
 
 Uso:  python3 livro/ferramentas/montar.py [--sem-pdf]
 """
@@ -52,12 +52,6 @@ def main():
         "",
     ]
 
-    nota = LIVRO / "00-o-que-poderia-e-deveria-fazer.md"
-    if nota.exists():
-        corpo = nota.read_text(encoding="utf-8").strip()
-        corpo = re.sub(r"^# .*\n", "", corpo, count=1)
-        partes += ["# Nota prévia — O que poderias (e deverias) fazer", "", descer_titulos(corpo), ""]
-
     parte_atual, total, em_falta = None, 0, []
     for c in caps:
         f = CAP / c["ficheiro"]
@@ -80,6 +74,15 @@ def main():
 
     if em_falta:
         print("AVISO: capítulos em falta:", ", ".join(em_falta), file=sys.stderr)
+
+    # O ensaio que responde à pergunta de partida fecha o livro, como posfácio.
+    posfacio = LIVRO / "00-o-que-poderia-e-deveria-fazer.md"
+    if posfacio.exists():
+        corpo = posfacio.read_text(encoding="utf-8").strip()
+        m = re.match(r"^# (.*)\n", corpo)
+        titulo_posfacio = m.group(1).strip() if m else "Se fosses tu"
+        corpo = corpo[m.end():] if m else corpo
+        partes += [f"# Posfácio — {titulo_posfacio}", "", descer_titulos(corpo), ""]
 
     SAIDA.mkdir(exist_ok=True)
     manuscrito = SAIDA / "manuscrito.md"

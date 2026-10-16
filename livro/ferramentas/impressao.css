@@ -73,3 +73,7 @@ pre code { font-size: inherit; }
 
 blockquote { margin: 1em 1.5em; font-style: italic; }
 ul, ol { margin: .6em 0 .6em 1.2em; }
+
+/* Epígrafe logo a seguir ao título do Prólogo. */
+h1 + blockquote { margin: 0 3em 3em; text-align: center; font-size: .92em; color: #444; }
+h1 + blockquote p { text-align: center; text-indent: 0; }
