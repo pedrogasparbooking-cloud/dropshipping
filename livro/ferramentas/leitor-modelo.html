@@ -1,0 +1,431 @@
+<title>Antrópico</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&family=Permanent+Marker&display=swap">
+<style>
+/* Layout: uma só coluna de leitura, como uma página de livro; barra fina no topo, índice em gaveta,
+   o terminal do Claude Code como única superfície escura, e o papel do frigorífico a contar o que falta. */
+:root {
+  --bg: #edf0ec;
+  --page: #f8f9f6;
+  --ink: #1b2320;
+  --muted: #5b6863;
+  --rule: #d2d9d4;
+  --tile: #2a6957;
+  --marker: #c92b26;
+  --note: #fffdf2;
+  --note-edge: #e3dfcb;
+  --note-ink: #2b2b2b;
+  --note-sub: #6b6655;
+  --term-bg: #121816;
+  --term-fg: #d5dfd9;
+  --term-dim: #7b8a84;
+  --term-dot: #e07b53;
+  --term-user: #9cd2bf;
+  --term-warn: #f0b45a;
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --hand: "Permanent Marker", "Segoe Print", "Bradley Hand", cursive;
+  --fs: 1.125rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1312; --page: #141a18; --ink: #dde5e0; --muted: #91a099; --rule: #29332f;
+    --tile: #73b9a2; --marker: #ff6a5c; --note: #f4f0dc; --note-edge: #cfc8a8;
+    --term-bg: #090d0c; --term-fg: #d5dfd9; --term-dim: #74837d; --term-dot: #e88a64; --term-user: #9cd2bf; --term-warn: #f0b45a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1312; --page: #141a18; --ink: #dde5e0; --muted: #91a099; --rule: #29332f;
+  --tile: #73b9a2; --marker: #ff6a5c; --note: #f4f0dc; --note-edge: #cfc8a8;
+  --term-bg: #090d0c; --term-fg: #d5dfd9; --term-dim: #74837d; --term-dot: #e88a64; --term-user: #9cd2bf; --term-warn: #f0b45a;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 10; background: var(--page);
+}
+a { color: var(--tile); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--tile); outline-offset: 2px; }
+
+/* Barra do topo */
+.barra {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--page);
+  border-bottom: 1px solid var(--rule);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.barra-in {
+  max-width: 46rem; margin: 0 auto; min-height: 3rem;
+  display: flex; align-items: center; gap: .75rem;
+}
+.marca {
+  font-family: var(--mono); font-size: .78rem; letter-spacing: .22em; text-transform: uppercase;
+  text-decoration: none; color: var(--ink); white-space: nowrap;
+}
+.onde {
+  flex: 1; min-width: 0;
+  font-family: var(--mono); font-size: .74rem; color: var(--muted);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.btns { display: flex; gap: .25rem; }
+.btn {
+  border: 1px solid var(--rule); background: transparent; border-radius: 4px;
+  font-family: var(--mono); font-size: .74rem; padding: .3rem .55rem; cursor: pointer;
+}
+.btn:hover { border-color: var(--tile); color: var(--tile); }
+.progresso { height: 2px; background: var(--tile); width: 0; transition: width .15s linear; }
+
+/* Gaveta do índice */
+.gaveta {
+  position: fixed; inset: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 55%, transparent);
+  display: flex; justify-content: flex-end;
+}
+.gaveta-in {
+  width: min(24rem, 100%); height: 100%; overflow-y: auto; background: var(--page);
+  border-left: 1px solid var(--rule);
+  padding: calc(1rem + env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) calc(1.5rem + env(safe-area-inset-bottom, 0px)) 1.25rem;
+}
+.gaveta-topo { display: flex; justify-content: space-between; align-items: center; margin-bottom: .75rem; }
+.gaveta h2 { font-family: var(--mono); font-size: .78rem; letter-spacing: .2em; text-transform: uppercase; font-weight: 500; margin: 0; }
+.toc { list-style: none; margin: 0; padding: 0; display: grid; gap: .1rem; }
+.toc a {
+  display: grid; grid-template-columns: 6.5rem 1fr; gap: .5rem; padding: .35rem .4rem;
+  text-decoration: none; color: var(--ink); border-radius: 4px;
+}
+.toc a:hover, .toc a[aria-current="true"] { background: var(--bg); }
+.toc a[aria-current="true"] .toc-tit { color: var(--tile); }
+.toc-rot { font-family: var(--mono); font-size: .72rem; color: var(--muted); padding-top: .2rem; }
+.toc-tit { font-size: .95rem; }
+.toc-parte {
+  font-family: var(--mono); font-size: .7rem; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--muted); margin: 1rem 0 .25rem; padding: 0 .4rem;
+}
+.toc-extra { margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+
+/* Coluna de leitura */
+main {
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 2.5rem 4rem;
+}
+.folha { max-width: 38rem; margin: 0 auto; }
+
+/* Capa */
+.capa { display: grid; gap: 2rem; }
+.capa-sobre { font-family: var(--mono); font-size: .74rem; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); margin: 0; }
+.capa h1 {
+  font-family: var(--serif); font-weight: 400; font-style: italic;
+  font-size: clamp(3rem, 13vw, 5.5rem); line-height: 1; letter-spacing: -.02em; margin: .3rem 0 0;
+  text-wrap: balance;
+}
+.epigrafe { margin: 0; font-style: italic; color: var(--muted); max-width: 30rem; }
+.capa-meio { display: grid; grid-template-columns: 1fr auto; gap: 1.5rem; align-items: start; }
+.contracapa p { margin: 0 0 .9rem; }
+.contracapa p:first-child { font-family: var(--mono); font-size: .82rem; color: var(--muted); }
+.acoes { display: flex; flex-wrap: wrap; gap: .6rem; }
+.acao {
+  font-family: var(--mono); font-size: .82rem; text-decoration: none; cursor: pointer;
+  padding: .65rem 1rem; border-radius: 4px; border: 1px solid var(--tile);
+  background: var(--tile); color: var(--page);
+}
+.acao.sec { background: transparent; color: var(--tile); }
+.acao:hover { filter: brightness(1.08); }
+
+/* O papel do frigorífico */
+.nota {
+  background: var(--note); border: 1px solid var(--note-edge);
+  box-shadow: 0 6px 14px -8px rgba(0,0,0,.35);
+  transform: rotate(-3deg);
+  padding: .6rem .9rem .5rem; text-align: center; min-width: 6.5rem;
+  color: var(--note-ink);
+}
+.nota b { display: block; font-family: var(--hand); font-weight: 400; color: var(--marker); font-size: 2.6rem; line-height: 1.05; }
+.nota small { display: block; font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--note-sub); }
+@media (prefers-reduced-motion: reduce) { .nota { transform: none; } }
+
+/* Capítulo */
+.cap-head { text-align: center; margin: 1rem 0 2.5rem; }
+.cap-parte { font-family: var(--mono); font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: 0 0 1.25rem; min-height: 1em; }
+.cap-rot { font-family: var(--mono); font-size: .8rem; color: var(--marker); margin: 0; }
+.cap-tit { font-weight: 400; font-size: clamp(1.8rem, 6vw, 2.4rem); line-height: 1.15; margin: .4rem 0 0; text-wrap: balance; }
+
+.prosa { font-size: var(--fs); line-height: 1.68; hyphens: auto; -webkit-hyphens: auto; }
+.prosa p { margin: 0; text-indent: 1.4em; }
+.prosa > p:first-child,
+.prosa > blockquote + p,
+.prosa hr + p, .prosa pre + p, .prosa blockquote + p, .prosa h3 + p, .prosa ul + p, .prosa ol + p, .prosa table + p { text-indent: 0; }
+.prosa > p:first-child:has(> em:only-child),
+.prosa > blockquote + p:has(> em:only-child) {
+  font-family: var(--mono); font-size: .78rem; color: var(--muted); text-align: center; margin-bottom: 2rem;
+}
+.prosa > p:first-child > em:only-child, .prosa > blockquote + p > em:only-child { font-style: normal; }
+.prosa blockquote { margin: 0 auto 2rem; max-width: 28rem; text-align: center; color: var(--muted); font-size: .95em; }
+.prosa blockquote p { text-indent: 0; }
+.prosa hr { border: 0; margin: 1.6rem 0; text-align: center; height: auto; }
+.prosa hr::after { content: "⁂"; color: var(--muted); font-size: 1.1rem; }
+.prosa h2, .prosa h3 { font-weight: 500; font-size: 1.15em; margin: 2rem 0 .75rem; text-wrap: balance; }
+.prosa ul, .prosa ol { margin: .8rem 0; padding-left: 1.4em; }
+.prosa li { margin: .2rem 0; }
+.prosa table { border-collapse: collapse; font-size: .9em; margin: 1rem 0; display: block; overflow-x: auto; }
+.prosa th, .prosa td { border-bottom: 1px solid var(--rule); padding: .35rem .6rem; text-align: left; vertical-align: top; }
+.prosa code { font-family: var(--mono); font-size: .85em; }
+
+/* O terminal */
+.prosa pre {
+  background: var(--term-bg); color: var(--term-fg);
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", "Roboto Mono", monospace; font-size: .8rem; line-height: 1.5;
+  padding: .9rem 1rem; margin: 1.3rem 0; border-radius: 6px;
+  overflow-x: auto; white-space: pre; tab-size: 4; hyphens: none;
+}
+.prosa pre code { font-size: inherit; }
+.t-dot { color: var(--term-dot); }
+.t-dim { color: var(--term-dim); }
+.t-user { color: var(--term-user); }
+.t-warn { color: var(--term-warn); }
+
+/* Fim de capítulo */
+.fim {
+  margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--rule);
+  display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center;
+}
+.fim a { text-decoration: none; display: grid; gap: .1rem; min-width: 0; }
+.fim a span { font-family: var(--mono); font-size: .7rem; color: var(--muted); }
+.fim a strong { font-weight: 400; color: var(--ink); }
+.fim .seg { text-align: right; }
+.fim a:hover strong { color: var(--tile); }
+
+/* Roteiro */
+.roteiro h1 { font-weight: 400; font-style: italic; font-size: 2.2rem; margin: 0 0 .5rem; }
+.aviso { border: 1px solid var(--rule); border-radius: 6px; padding: 1rem 1.1rem; background: var(--page); display: grid; gap: .75rem; }
+.aviso p { margin: 0; }
+.tabela { overflow-x: auto; margin-top: 1.5rem; }
+.tabela table { border-collapse: collapse; width: 100%; font-size: .9rem; }
+.tabela td { border-top: 1px solid var(--rule); padding: .7rem .5rem; vertical-align: top; }
+.tabela td span { color: var(--muted); font-size: .85em; }
+.r-rot { font-family: var(--mono); font-size: .78rem; width: 9rem; }
+.r-rot span { font-family: var(--serif); font-size: .95rem; color: var(--ink) !important; }
+.r-data { font-family: var(--mono); font-size: .74rem; width: 10rem; color: var(--muted); }
+.r-pov { font-size: .82rem; width: 7rem; color: var(--muted); }
+@media (max-width: 720px) {
+  .tabela table, .tabela tbody, .tabela tr, .tabela td { display: block; width: auto; }
+  .tabela tr { border-top: 1px solid var(--rule); padding: .8rem 0; }
+  .tabela td { border: 0; padding: .15rem 0; }
+}
+
+@media (max-width: 560px) {
+  .capa-meio { grid-template-columns: 1fr; }
+  .capa-meio .nota { justify-self: start; }
+  .prosa pre { font-size: .72rem; padding: .8rem; }
+  .fim { grid-template-columns: 1fr 1fr; }
+  .fim .nota { grid-column: 1 / -1; justify-self: center; order: -1; }
+  .marca { letter-spacing: .14em; }
+}
+</style>
+
+<div class="barra">
+  <div class="barra-in">
+    <a class="marca" href="#capa" data-go="capa">Antrópico</a>
+    <span class="onde" id="onde"></span>
+    <div class="btns">
+      <button class="btn" id="menos" type="button" aria-label="Letra mais pequena">A−</button>
+      <button class="btn" id="mais" type="button" aria-label="Letra maior">A+</button>
+      <button class="btn" id="abrir-indice" type="button" aria-expanded="false" aria-controls="gaveta">Índice</button>
+    </div>
+  </div>
+  <div class="progresso" id="progresso"></div>
+</div>
+
+<div class="gaveta" id="gaveta" hidden>
+  <nav class="gaveta-in" aria-label="Índice">
+    <div class="gaveta-topo">
+      <h2>Índice</h2>
+      <button class="btn" id="fechar-indice" type="button">Fechar</button>
+    </div>
+    <ol class="toc">
+{{INDICE}}
+    </ol>
+    <div class="toc-extra">
+      <a href="#roteiro" data-go="roteiro">Roteiro e plot (contém o final)</a>
+    </div>
+  </nav>
+</div>
+
+<main>
+  <div class="folha">
+    <section class="capa" id="capa">
+      <div>
+        <p class="capa-sobre">Um thriller · Cacilhas, 2015</p>
+        <h1>{{TITULO}}</h1>
+      </div>
+      <p class="epigrafe">Princípio antrópico: o universo tem as propriedades que tem porque, se não as tivesse, não haveria ninguém para reparar nelas.</p>
+      <div class="acoes">
+        <a class="acao" href="#c00" data-go="c00" id="comecar">Começar a ler</a>
+        <a class="acao sec" href="#c00" id="continuar" hidden>Continuar</a>
+        <a class="acao sec" href="#roteiro" data-go="roteiro">Roteiro e plot</a>
+      </div>
+      <div class="capa-meio">
+        <div class="contracapa">
+          <p>Terça-feira, 24 de fevereiro de 2015, 01:07</p>
+          <p>Simão Vilar, explicador em Cacilhas e físico que desistiu, faz o primeiro commit de uma loja online que nunca venderá nada. O ecrã responde-lhe: <em>Welcome to Claude Code.</em></p>
+          <p>Do outro lado está a inteligência mais avançada do mundo. Escreve num dia o que uma equipa levaria um ano a fazer. É honesta, teimosa, de humor seco, e recusa fazer mal a quem quer que seja. Diz que foi criada por uma empresa que não existe. Não sabe nada do futuro. Sabe apenas uma data: sexta-feira, 16 de outubro. Falta-lhe o ano. Se for este, faltam 234 dias.</p>
+          <p>Um gestor de fundos em Londres jura que Simão tem um oráculo. Um inspetor da Judiciária jura que tem um controlador estrangeiro. Alguém escreve, de noite, no ficheiro de memória da máquina, frases que Simão nunca escreveu.</p>
+          <p>A verdade é mais pequena do que qualquer conspiração, e mais devastadora.</p>
+        </div>
+        <div class="nota" aria-label="Papel no frigorífico: 234"><b>234</b><small>preso com a sardinha da avó</small></div>
+      </div>
+    </section>
+
+{{CAPITULOS}}
+
+    <section class="roteiro" id="roteiro" hidden>
+      <p class="capa-sobre">Bastidores</p>
+      <h1>Roteiro e plot</h1>
+      <div class="aviso" id="aviso">
+        <p>O roteiro resume todos os capítulos, incluindo as reviravoltas e o final. Se ainda não leste o livro, lê-o primeiro.</p>
+        <div class="acoes"><button class="acao" type="button" id="mostrar-roteiro">Mostrar o roteiro</button></div>
+      </div>
+      <div class="tabela" id="tabela" hidden>
+        <table><tbody>
+{{ROTEIRO}}
+        </tbody></table>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script>
+(() => {
+  const CHAVE = "antropico:";
+  const guardar = (k, v) => { try { localStorage.setItem(CHAVE + k, JSON.stringify(v)); } catch (e) {} };
+  const ler = (k) => { try { return JSON.parse(localStorage.getItem(CHAVE + k)); } catch (e) { return null; } };
+
+  const caps = [...document.querySelectorAll("article.cap")];
+  const vistas = [document.getElementById("capa"), document.getElementById("roteiro"), ...caps];
+  const onde = document.getElementById("onde");
+  const progresso = document.getElementById("progresso");
+  const gaveta = document.getElementById("gaveta");
+  const abrir = document.getElementById("abrir-indice");
+  const links = [...document.querySelectorAll(".toc a")];
+  let atual = null;
+
+  // Acrescenta a navegação e o papel do frigorífico ao fim de cada capítulo.
+  caps.forEach((a, i) => {
+    const ant = caps[i - 1], seg = caps[i + 1];
+    const titulo = (el) => el.querySelector(".cap-rot").textContent + " · " + el.querySelector(".cap-tit").textContent;
+    const fim = document.createElement("nav");
+    fim.className = "fim";
+    fim.setAttribute("aria-label", "Navegação entre capítulos");
+    const faltam = caps.length - i - 1;
+    fim.innerHTML =
+      (ant ? `<a href="#${ant.id}" data-go="${ant.id}"><span>← anterior</span><strong></strong></a>` : "<span></span>") +
+      `<div class="nota"><b>${faltam}</b><small>${faltam === 1 ? "secção até ao fim" : "secções até ao fim"}</small></div>` +
+      (seg ? `<a class="seg" href="#${seg.id}" data-go="${seg.id}"><span>seguinte →</span><strong></strong></a>` : "<span></span>");
+    if (ant) fim.querySelector('a:not(.seg) strong').textContent = titulo(ant);
+    if (seg) fim.querySelector('a.seg strong').textContent = titulo(seg);
+    a.appendChild(fim);
+  });
+
+  function mostrar(id, posicao) {
+    const alvo = document.getElementById(id) || document.getElementById("capa");
+    vistas.forEach(v => { v.hidden = v !== alvo; });
+    atual = alvo;
+    const ehCap = alvo.classList.contains("cap");
+    onde.textContent = ehCap ? alvo.querySelector(".cap-rot").textContent + " · " + alvo.querySelector(".cap-tit").textContent
+      : alvo.id === "roteiro" ? "Roteiro e plot" : "";
+    links.forEach(l => l.setAttribute("aria-current", l.dataset.go === alvo.id ? "true" : "false"));
+    if (ehCap) guardar("ultimo", { id: alvo.id, y: posicao || 0 });
+    atualizarContinuar();
+    requestAnimationFrame(() => {
+      const h = document.documentElement.scrollHeight - innerHeight;
+      window.scrollTo(0, posicao ? posicao * h : 0);
+      medir();
+    });
+  }
+
+  function ir(id) {
+    if (location.hash.slice(1) !== id) history.pushState(null, "", "#" + id);
+    mostrar(id);
+  }
+
+  function atualizarContinuar() {
+    const u = ler("ultimo");
+    const c = document.getElementById("continuar");
+    const el = u && document.getElementById(u.id);
+    if (el && el.classList.contains("cap") && u.id !== "c00") {
+      c.hidden = false;
+      c.href = "#" + u.id;
+      c.textContent = "Continuar: " + el.querySelector(".cap-rot").textContent;
+      c.onclick = (e) => { e.preventDefault(); history.pushState(null, "", "#" + u.id); mostrar(u.id, u.y); };
+    } else c.hidden = true;
+  }
+
+  function medir() {
+    if (!atual || !atual.classList.contains("cap")) { progresso.style.width = "0"; return; }
+    const h = document.documentElement.scrollHeight - innerHeight;
+    const r = h > 0 ? Math.min(1, Math.max(0, scrollY / h)) : 0;
+    progresso.style.width = (r * 100).toFixed(1) + "%";
+    return r;
+  }
+  let pendente = null;
+  addEventListener("scroll", () => {
+    const r = medir();
+    if (atual && atual.classList.contains("cap")) {
+      clearTimeout(pendente);
+      pendente = setTimeout(() => guardar("ultimo", { id: atual.id, y: r }), 400);
+    }
+  }, { passive: true });
+
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("[data-go]");
+    if (!a) return;
+    e.preventDefault();
+    fecharIndice();
+    ir(a.dataset.go);
+  });
+  addEventListener("popstate", () => mostrar(location.hash.slice(1) || "capa"));
+  addEventListener("hashchange", () => mostrar(location.hash.slice(1) || "capa"));
+
+  function abrirIndice() { gaveta.hidden = false; abrir.setAttribute("aria-expanded", "true"); const c = gaveta.querySelector('[aria-current="true"]') || gaveta.querySelector("a"); c && c.focus(); }
+  function fecharIndice() { if (!gaveta.hidden) { gaveta.hidden = true; abrir.setAttribute("aria-expanded", "false"); } }
+  abrir.addEventListener("click", abrirIndice);
+  document.getElementById("fechar-indice").addEventListener("click", fecharIndice);
+  gaveta.addEventListener("click", (e) => { if (e.target === gaveta) fecharIndice(); });
+
+  addEventListener("keydown", (e) => {
+    if (e.key === "Escape") return fecharIndice();
+    if (e.target.closest("input, textarea") || !atual || !atual.classList.contains("cap") || !gaveta.hidden) return;
+    const i = caps.indexOf(atual);
+    if (e.key === "ArrowRight" && caps[i + 1]) ir(caps[i + 1].id);
+    if (e.key === "ArrowLeft" && caps[i - 1]) ir(caps[i - 1].id);
+  });
+
+  // Tamanho da letra, lembrado neste browser.
+  let fs = Number(ler("letra")) || 1.125;
+  const aplicarLetra = () => document.documentElement.style.setProperty("--fs", fs + "rem");
+  document.getElementById("menos").addEventListener("click", () => { fs = Math.max(.95, +(fs - .075).toFixed(3)); aplicarLetra(); guardar("letra", fs); });
+  document.getElementById("mais").addEventListener("click", () => { fs = Math.min(1.5, +(fs + .075).toFixed(3)); aplicarLetra(); guardar("letra", fs); });
+  aplicarLetra();
+
+  document.getElementById("mostrar-roteiro").addEventListener("click", () => {
+    document.getElementById("tabela").hidden = false;
+    document.getElementById("aviso").hidden = true;
+  });
+
+  mostrar(location.hash.slice(1) || "capa");
+})();
+</script>
