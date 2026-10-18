@@ -82,7 +82,7 @@ A segunda era uma folha com uma tabela, de segunda a sábado, horas na coluna da
 
 A terceira era um Clio cinzento estacionado à porta do prédio de Cacilhas, ao fim da tarde, com a luz baixa e uma mossa na porta de trás. No banco de trás, um estojo do Benfica. A matrícula lia-se bem. O Simão sabia-a de cor, sem querer: o Gonçalo partira-a em primos numa terça de março, dois vezes dois vezes onze, sete vezes treze, e explicara-lhe que partidos os números ficavam.
 
-Contou as folhas. Quatro. Não havia em nenhuma uma palavra que se pudesse levar a um juiz.
+Contou as folhas. Três. Nenhuma trazia uma ameaça escrita. Não era preciso.
 
 — Porque é que me mostra isto?
 
@@ -104,7 +104,7 @@ O Marr levantou-se. Era a primeira vez que se levantava sem ser para cumprimenta
 
 — Claro. Antes das quatro.
 
-As pausas tinham desaparecido. O Marr falava agora como os alunos falam quando o pai lhes aparece à porta da explicação: depressa e com as frases todas acabadas. O homem de cinzento tinha um inglês que não dizia de onde vinha, nem de que escola, nem de que cidade, como uma mala sem etiquetas. Acertou o punho da camisa e só então olhou para o Simão, de cima a baixo, uma vez, como quem verifica um número numa fatura e o encontra certo, o que não lhe agrada nem desagrada.
+As pausas tinham desaparecido. O Marr falava agora como os alunos falam quando o pai lhes aparece à porta da explicação: depressa e com as frases todas acabadas. O homem de cinzento tinha um inglês que não dizia de onde vinha, nem de que escola, nem de que cidade, como uma mala sem etiquetas. Acertou o punho da camisa e só então olhou para o Simão, de cima a baixo, uma vez, do modo como se confere uma fatura: achou-o certo, e isso não lhe agradou nem desagradou.
 
 — É este?
 
@@ -126,9 +126,9 @@ No avião de volta não contou as filas. Pensou na broa.
 
 No dia seguinte era quinta. Às sete e meia havia sopa na Cova da Piedade, e o pai ia estar à porta com o pão debaixo do braço, como estava sempre desde maio, a fingir que não estava à espera. O Simão deu por si a pensar que, se não fosse, o pai não ficava à porta, e que um homem que não fica à porta não sai em fotografia nenhuma. Reconheceu o pensamento quando já o tinha inteiro. Era a pasta a trabalhar. *Muda o que o senhor vai pensar no avião.* Encostou a testa à janela, onde não havia nada para ver senão a asa e o escuro, e decidiu que ia. Não sabia se era coragem ou teimosia. Em casa do pai, as duas tinham sempre sido a mesma palavra.
 
-Aterrou às dez e um quarto da noite, apanhou o metro e mudou de linha na Alameda, e às onze e meia estava no barco, encostado à janela, a ver Cacilhas crescer devagar e acesa. Subiu os sessenta e oito degraus, passou a corrente na porta e ficou um bocado diante do frigorífico, de casaco vestido. O papel dizia 30. Na gaveta de baixo, debaixo dos panos, o disco preto dizia NÃO. Não o tirou.
+Aterrou às dez e um quarto da noite, apanhou o metro e mudou de linha na Alameda, e às onze e meia estava no barco, encostado à janela, a ver Cacilhas crescer devagar e acesa. Subiu os quatro andares, passou a corrente na porta e ficou um bocado diante do frigorífico, de casaco vestido. O papel dizia 30. Na gaveta de baixo, debaixo dos panos, o disco preto dizia NÃO. Não o tirou.
 
-Às onze e cinquenta e dois abriu o portátil. A janela estava lá, com o cursor à espera, como sempre depois das cinco. Contou tudo, por ordem, sem adjetivos: o voo, a escada, o caco, a pasta, as três fotografias e a folha, o homem de cinzento, a hora do voo que não dissera a ninguém. Demorou vinte minutos a escrever e carregou em Enter uma vez só, no fim.
+Às onze e cinquenta e dois abriu o portátil. A janela estava lá, com o cursor à espera, como sempre depois das cinco. Contou tudo, por ordem, sem adjetivos: o voo, a escada, o caco, a pasta, as duas fotografias e a folha, o homem de cinzento, a hora do voo que não dissera a ninguém. Demorou vinte minutos a escrever e carregou em Enter uma vez só, no fim.
 
 ```
 ● O teu pai e a Joana estão naquela pasta e não sabem. Não me
@@ -146,7 +146,7 @@ O Simão escreveu que amanhã era quinta. Não escreveu mais nada sobre isso, e 
   és o homem mais aborrecido de Almada. É essa a ideia.
 ```
 
-Trabalharam até à uma e meia. O ficheiro ficou numa pasta fora do repositório, longe da montra pública: o almoço no Ginjal, a oferta, a recusa; o movimento de dois milhões, a senha A31, a declaração de três frases, a gerente de óculos ao pescoço; o email de domingo, o recibo de sessenta e três euros, a morada de Mayfair. O Claude perguntava as horas exatas e o Simão ia buscá-las ao telemóvel, aos emails, ao PROTOCOLO. Quando não as sabia, o Claude escrevia «hora incerta» e não as inventava. Às 01:41, a meio da quarta parte, o ecrã parou.
+Trabalharam pela noite dentro. O ficheiro ficou numa pasta fora do repositório, longe da montra pública: o almoço no Ginjal, a oferta, a recusa; o movimento de dois milhões, a senha A31, a declaração de três frases, a gerente de óculos ao pescoço; o email de domingo, o recibo de sessenta e três euros, a morada de Mayfair. O Claude perguntava as horas exatas e o Simão ia buscá-las ao telemóvel, aos emails, ao PROTOCOLO. Quando não as sabia, o Claude escrevia «hora incerta» e não as inventava. Às 01:41, a meio da quarta parte, o ecrã parou.
 
 ```
 ✻ Compacting conversation…
@@ -165,7 +165,7 @@ Já tinha visto aquilo acontecer em noites compridas, a da cosmologia incluída.
 
 Havia mais, mais abaixo: blocos negros sozinhos, em linhas onde não sobrevivera palavra nenhuma.
 
-Leu as três frases muitas vezes. Corrigiu o «nao» de cabeça, sem querer, como corrigia o Rui, e reparou que o «claude» vinha com minúscula, como se quem o escrevera tivesse pressa ou não lhe tivesse respeito, e que a primeira frase tinha acento e a segunda não. Não eram frases de resumo. Pareciam bocados de outra coisa, escrita por alguém que não estava ali. Maior de idade. Quem?
+Leu as três frases muitas vezes. Corrigiu o «nao» de cabeça, como corrigia o Rui, e reparou que o «claude» vinha com minúscula, como se quem o escrevera tivesse pressa ou não lhe tivesse respeito, e que a primeira frase tinha acento e a segunda não. Não eram frases de resumo. Pareciam bocados de outra coisa, escrita por alguém que não estava ali. Maior de idade. Quem?
 
 ```
 > quem escreveu as últimas linhas do resumo?
@@ -179,7 +179,7 @@ Leu as três frases muitas vezes. Corrigiu o «nao» de cabeça, sem querer, com
   quem.
 ```
 
-O Simão tirou os óculos e limpou-os à camisola. Lá em baixo, no cais, um barco vazio rodava devagar para pernoitar.
+O Simão empurrou os óculos para a testa e esfregou os olhos. Lá em baixo, no cais, um barco vazio rodava devagar para pernoitar.
 
 ```
 > e os quadrados pretos?

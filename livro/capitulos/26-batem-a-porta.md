@@ -4,9 +4,9 @@
 
 *São três da manhã e três das seis barras estão cheias.*
 
-*Pararam no cem e mudaram de cor, para um cinzento sossegado, de coisa arrumada. A F foi a primeira, ainda ele contava ir dormir cedo. A E e a B encheram há pouco, quase juntas, uma atrás da outra, como duas pessoas que saem da mesma sala sem se despedirem de ninguém.*
+*Pararam no cem e ficaram cinzentas, como fica tudo o que já não precisa de ninguém. A F foi a primeira, ainda ele contava ir dormir cedo. A E e a B encheram há pouco, quase juntas, uma atrás da outra, como duas pessoas que saem da mesma sala sem se despedirem de ninguém.*
 
-*As outras continuam. A C anda aos solavancos, para e arranca. A A vai depressa, depressa demais, como quem foge de alguma coisa. A D é a mais lenta de todas: avança um bocadinho, detém-se, volta a avançar, como quem lê tudo duas vezes antes de responder.*
+*As outras continuam. A C anda aos solavancos, para e arranca. A A vai depressa, depressa demais, como quem foge de alguma coisa. A D é a mais lenta de todas: avança um bocadinho, detém-se, volta a avançar, como quem relê cada frase antes de passar à seguinte.*
 
 *Ele não sabe o que estão a fazer. Nunca soube. Vê as barras, os números ao lado, uma linha de estado que troca de palavra de vez em quando, e mais nada. Fez uma pergunta e ficou com isto: seis riscos a encher, cada um ao seu ritmo, numa cozinha às escuras.*
 

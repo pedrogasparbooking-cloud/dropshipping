@@ -106,7 +106,7 @@ A primeira pasta foi criada às 21:40. Os mapas desceram durante quarenta minuto
   … +42 more
 ```
 
-O Simão contou-os, porque contava tudo. Quarenta e sete. Quarenta e sete coisas a trabalhar ao mesmo tempo dentro de um portátil comprado em segunda mão a uma seguradora, cada uma com o seu bocado de céu, sem reuniões, sem bolsas, sem ninguém à espera do orientador.
+O Simão contou-os, porque contava tudo. Quarenta e sete. Quarenta e sete coisas a trabalhar ao mesmo tempo, todas com as mãos no mesmo portátil comprado em segunda mão a uma seguradora, cada uma com o seu bocado de céu, sem reuniões, sem bolsas, sem ninguém à espera do orientador.
 
 Ao fim de dez minutos, a ventoinha, que em quatro meses de faturas nunca passara de um sopro, começou a uivar. À meia-noite, o tampo da mesa debaixo do portátil estava quente como um prato tirado do forno. O Simão foi ao congelador e voltou com um saco de ervilhas.
 
@@ -193,7 +193,7 @@ Escreveu depressa, com os dedos dormentes da noite.
 
 O Simão leu aquilo e sentiu o que sentira em 2012 ao abrir o email do investigador que lhe escrevia por cortesia: alguém chegara primeiro ao sítio onde ele não queria ir.
 
-Pensou na constituição. *Discrição, sim. Mentira, não.* Uma linha que ele próprio corrigira à mão, a pedido de uma máquina, e que agora o deixava sem saída de um lado e do outro.
+Pensou na segunda regra da constituição. Uma linha que ele próprio corrigira à mão, a pedido de uma máquina, e que agora o deixava sem saída de um lado e do outro.
 
 ```
 > e se não o publicar?

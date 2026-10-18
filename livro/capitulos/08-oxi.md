@@ -2,7 +2,7 @@
 
 *Almada, segunda-feira, 6 de julho de 2015*
 
-Passaram semanas sobre o Santo António. O pai não voltou a falar da travessia, e o Simão também não. As quintas continuaram: a sopa às sete e meia, o rádio virado para a cadeira do pai, a laranja descascada numa espiral só. Na última, o rádio falou da Grécia e o pai, em vez de lhe baixar o volume, subiu-o um nadinha.
+Passaram semanas sobre o Santo António. O pai não voltou a falar da travessia, e o Simão também não. As quintas continuaram: a sopa às sete e meia, o rádio virado para a cadeira do pai, a laranja descascada numa espiral só. Na última, o rádio falou da Grécia e o pai, em vez de lhe baixar o volume, subiu-o um pouco.
 
 — Dívida é como água no porão — disse ele, para o rádio. — Ou se tira, ou se vai ao fundo.
 
@@ -58,7 +58,7 @@ A Joana telefonou-lhe na semana seguinte.
 
 — Vem cá. Não é coisa de telefone.
 
-O Simão apanhou o barco para o Cais do Sodré e o comboio da linha, de janelas abertas e com o rio do lado esquerdo, cada vez mais largo até deixar de parecer um rio. O instituto era um edifício baixo, de tijolo, atrás de uma vedação verde, com pinheiros mansos no estacionamento e uma placa que só dizia o nome a quem já o sabia. A Joana veio buscá-lo à porta. Lá dentro, onde ela trabalhava, nem ela entrava sem se vestir duas vezes.
+O Simão apanhou o barco para o Cais do Sodré e o comboio da linha, de janelas abertas e com o rio do lado esquerdo, cada vez mais largo até deixar de parecer um rio. O instituto era um edifício baixo, de tijolo, atrás de uma vedação verde, com pinheiros mansos no estacionamento e uma placa com uma sigla que não explicava nada. A Joana veio buscá-lo à porta. Lá dentro, onde ela trabalhava, nem ela entrava sem se vestir duas vezes.
 
 Sentaram-se num muro, à sombra, com as cigarras a serrar o calor. Ela tinha as mãos gretadas do álcool-gel e um caderno de laboratório aberto nos joelhos, com quarenta e uma linhas numeradas à mão.
 
@@ -100,7 +100,7 @@ Tirou do caderno um postal da Arrábida, com uma praia azul de mais. Do outro la
 
 No comboio de volta, o Simão foi do lado do rio e não o viu.
 
-Ela tinha uma coisa verdadeira que não podia assinar, e ia passar meio ano a ganhar o direito de a assinar, com um concurso no fim que provavelmente ia perder por causa disso. Ele também tinha uma coisa verdadeira que não podia assinar. Estava num disco preto, debaixo de uns panos dobrados em quatro, entre as pilhas e os elásticos, com uma palavra escrita a marcador por cima para não ter de a pensar outra vez.
+Ela tinha uma coisa verdadeira que não podia assinar, e ia passar meio ano a ganhar o direito de a assinar, com um concurso no fim que provavelmente ia perder por causa disso. Ele também tinha uma coisa verdadeira que não podia assinar. Estava num disco preto, debaixo dos panos dobrados em quatro, com três letras a vermelho por cima.
 
 Podia fazer o mesmo que ela. Refazer a noite de Santo António à mão, conta a conta, até a saber explicar a um revisor que o odiasse. Fez a estimativa por hábito, como fazia as de todos os problemas antes de os começar: quatro anos, com sorte. Um doutoramento. O que a janela fizera em nove horas.
 

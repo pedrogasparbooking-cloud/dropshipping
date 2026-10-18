@@ -159,6 +159,7 @@ main {
 @media (prefers-reduced-motion: reduce) { .nota { transform: none; } }
 
 /* Capítulo */
+.cap { scroll-margin-top: 6rem; }
 .cap-head { text-align: center; margin: 1rem 0 2.5rem; }
 .cap-parte { font-family: var(--mono); font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: 0 0 1.25rem; min-height: 1em; }
 .cap-rot { font-family: var(--mono); font-size: .8rem; color: var(--marker); margin: 0; }
@@ -350,11 +351,13 @@ main {
     links.forEach(l => l.setAttribute("aria-current", l.dataset.go === alvo.id ? "true" : "false"));
     if (ehCap) guardar("ultimo", { id: alvo.id, y: posicao || 0 });
     atualizarContinuar();
-    requestAnimationFrame(() => {
+    const rolar = () => {
       const h = document.documentElement.scrollHeight - innerHeight;
       window.scrollTo(0, posicao ? posicao * h : 0);
       medir();
-    });
+    };
+    requestAnimationFrame(rolar);
+    setTimeout(rolar, 60);
   }
 
   function ir(id) {

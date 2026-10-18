@@ -10,7 +10,7 @@ A Nell Ashworth leu «debaixo dos panos» três vezes até perceber que não era
 
 Ao sábado, a sala dos ecrãs ficava às moscas. Os mercados estavam fechados, os monitores mostravam ainda os números de sexta, parados, sem ninguém para os ler, e o óstraco apanhava na vitrina a pouca luz que vinha da rua. Ela pousou o chá ao lado do teclado, onde havia de arrefecer antes do segundo gole, como todos os chás dela, e ligou o disco a um portátil que nunca estivera ligado a rede nenhuma.
 
-Esperava um caderno de operações. Passara a noite de sexta a imaginá-lo, como se imagina a cara de uma voz que só se ouviu ao telefone: uma lista de contactos com nomes trocados, horários, um endereço fora de Portugal. Nove meses de padrões apontavam para lá. Uma parede às cinco da tarde. Um modelo que não existia. Um método que ninguém publicara. Alguém, em algum sítio, dava aquilo ao homem de Cacilhas, e quem recebe uma coisa assim guarda sempre, num sítio qualquer, o caminho até quem lha dá.
+Esperava um caderno de operações. Passara a noite de sexta a imaginá-lo, como se imagina a cara de uma voz que só se ouviu ao telefone: uma lista de contactos com nomes trocados, horários, um endereço fora de Portugal. Dez meses de padrões apontavam para lá. Uma parede às cinco da tarde. Um modelo que não existia. Um método que ninguém publicara. Alguém, em algum sítio, dava aquilo ao homem de Cacilhas, e quem recebe uma coisa assim guarda sempre, num sítio qualquer, o caminho até quem lha dá.
 
 Encontrou o código da loja, que sabia de cor. Encontrou trezentas e tal fichas de exercícios digitalizadas tortas, de frações a forças, corrigidas a vermelho com uma letra pequena e paciente. Encontrou uma folha de cálculo com dívidas que cabiam numa página. Não encontrou um email, uma conversa guardada, um número de telefone.
 
@@ -74,7 +74,7 @@ O Marr sentou-se ao lado dela e leu durante vinte minutos sem dizer nada, a pass
 
 O Marr não achou graça. Ela achou, e bebeu o chá frio para não se notar. Reparou noutra coisa, que guardou: no diário, o Claude apostava, e perdia, e ficava escrito que perdera. Em todos os anos de escutas, nunca ouvira um controlador apostar com o agente, quanto mais perder por escrito.
 
-A segunda paragem foi em fevereiro. «Inventei uma. Acertei. Agora quer outra.» O Marr ficou muito tempo nessa linha. A Nell viu-lhe a mão esquerda fechar-se sobre a direita, em cima da mesa, e abrir-se logo a seguir.
+A segunda paragem foi em fevereiro. «Inventei uma. Acertei. Agora quer outra.» O Marr demorou-se nessa linha. A Nell viu-lhe a mão esquerda fechar-se sobre a direita, em cima da mesa, e abrir-se logo a seguir.
 
 — Aqui está.
 
@@ -92,7 +92,7 @@ Antes de fechar o ficheiro, copiou para o caderno quadriculado uma linha em que 
 
 * * *
 
-O segundo disco trazia uma fotografia. Quem o copiara fotografara primeiro o original, à luz de um telemóvel, antes de o devolver aos panos: um disco preto, barato, com uma palavra escrita a marcador vermelho, em maiúsculas carregadas.
+A cópia do segundo disco trazia uma fotografia. Quem o copiara fotografara primeiro o original, à luz de um telemóvel, antes de o devolver aos panos: um disco preto, barato, com uma palavra escrita a marcador vermelho, em maiúsculas carregadas.
 
 NÃO.
 
@@ -192,7 +192,7 @@ Outra.
 
 A Nell percebeu as três sem a coluna da tradução. Do lado de lá, a pessoa com chave não disse nada que se ouvisse. Houve só, uma vez, o barulho de uma cadeira a arrastar no chão.
 
-— Escreve-as quando puder — disse o Bastos, outra vez em inglês. — Uma de cada vez.
+— Escreve-as quando puder — disse o Bastos, ainda em português, para o lado. — Uma de cada vez.
 
 — Que as escreva bem. Com os acentos todos — disse o Marr. — Vi as fichas dele. O homem corrige a ortografia a toda a gente. — Sorriu para o telefone. — Gosto da segunda. É lisonjeira. Está bem assim.
 
@@ -206,7 +206,7 @@ Em Bermondsey, nessa noite, puxou a caixa de debaixo da cama. Não a abriu. Não
 
 Agora tinha outra, e era pior.
 
-Desta vez tinha razão. Um homem fazia o trabalho de uma equipa, e ela vira-o primeiro, num histograma, em maio. Desde então, por causa do que ela vira, um homem de Marselha pusera dois milhões na conta de um explicador, fotografara a porta de um velho numa quinta-feira, mandara abrir uma gaveta de panos de loiça. E agora ia escrever-lhe no diário, com acentos, que desconfiasse da única pessoa que se sentava à mesa do pai dele. E se tivesse razão, e ter razão fosse pior do que estar louca?
+Desta vez tinha razão. Um homem fazia o trabalho de uma equipa, e ela vira-o primeiro, num histograma, em maio. Desde então, por causa do que ela vira, um homem de Marselha pusera dois milhões na conta de um explicador, fotografara a porta de um velho numa quinta-feira, mandara abrir uma gaveta de panos de loiça. E agora ia escrever-lhe no diário, com acentos, que desconfiasse da mulher que se sentara à mesa do pai dele no Natal. E se tivesse razão, e ter razão fosse pior do que estar louca?
 
 Foi buscar o casaco ao cabide. No bolso, ao lado do caderno, estava o cartão que um polícia português lhe dera em novembro através do vidro de um carro, com o canto mole de quatro meses de bolso. *A senhora também não sabe o que ele é.* Não sabia. Sabia o que lhe iam fazer.
 

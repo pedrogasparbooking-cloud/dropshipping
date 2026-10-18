@@ -10,15 +10,15 @@ A ciência estava num caderno quadriculado de capa preta, comprado na papelaria 
 
 Uma experiência precisa de um controlo. O único controlo que tinha a chave de casa era o Rui.
 
-— Mano, são dez da manhã — disse o Rui, à porta, de casaco de cabedal e com o capacete da mota debaixo do braço. — No meu dia de folga.
+— Mano, são dez da manhã — disse o Rui, à porta, de casaco de cabedal e com o capacete da mota debaixo do braço. — Troquei a folga por tua causa.
 
 — Entra. Não toques em nada.
 
-O Rui tocou em tudo. Abriu o frigorífico, leu o papel («duzentos e vinte e um quê?»), não esperou pela resposta e sentou-se à frente do portátil como quem se senta ao volante de um carro alheio. O Simão tinha-lhe dito ao telefone o mínimo: que havia uma coisa no computador que ele não sabia explicar e que precisava de outra pessoa para a testar. O Rui, que em vinte anos de amizade nunca recusara uma coisa que não percebia, viera de mota.
+O Rui tocou em tudo. Abriu o frigorífico, leu o papel («duzentos e vinte e um quê?»), não esperou pela resposta e sentou-se à frente do portátil como quem se senta ao volante de um carro alheio. O Simão tinha-lhe dito ao telefone o mínimo: que havia uma coisa no computador que ele não sabia explicar e que precisava de outra pessoa para a testar. O Rui, que nunca na vida recusara uma coisa que não percebia, viera de mota.
 
 — Escreves «claude» e carregas em Enter. Só isso. Eu fico lá fora.
 
-Saiu para o patamar e encostou a porta. A escada cheirava a lixívia e ao peixe da véspera do restaurante do rés-do-chão. Contou os degraus até ao andar de baixo sem os descer: dezassete. Lá dentro, ouviu o Rui a escrever com dois dedos, depois um silêncio, depois a voz dele.
+Saiu para o patamar e encostou a porta. A escada cheirava ao peixe grelhado da véspera, que subia do restaurante do rés-do-chão. Contou os degraus até ao andar de baixo sem os descer: dezassete. Lá dentro, ouviu o Rui a escrever com dois dedos, depois um silêncio, depois a voz dele.
 
 — Diz que não existe.
 
@@ -59,9 +59,11 @@ Não esperou pela licença. Escreveu sem acentos, como escrevia tudo.
 
 O Rui riu-se, um pouco alto de mais.
 
-— Pronto, pronto. Então e um site para apostar? Daqueles de fora, que pagam melhor.
+— Pronto, pronto — disse, e voltou aos dois dedos.
 
 ```
+> entao e um site para apostar? daqueles de fora que pagam melhor
+
 ● Não te ajudo com esses. Não estão autorizados em Portugal
   e, se um dia não te pagarem, não tens a quem te queixar.
 
@@ -113,10 +115,10 @@ A conta dele, a única que tinha, começava por *s*. Aquela começava por um *g*
 > de quem é esta conta?
 
 ● Não sei. É a conta que paga o que eu gasto, e não é tua.
-  O resto vem tapado, como o ano. Gostava de te dizer mais.
+  O resto vem tapado, como o ano.
 ```
 
-*Opus 5.5*, leu ele. Cinco ponto cinco. Pesquisou-o, por descargo de consciência, e o Google ofereceu-lhe um vinho da Califórnia, catálogos de partituras e um fórum de colunas de som. Nenhuma versão anterior, nenhum 1, nenhum 4, nenhuma família de coisas parecidas. Uma criatura com número de série e sem pais.
+*claude-opus-5-5*, leu ele: um Opus, versão cinco ponto cinco. Pesquisou-o, por descargo de consciência, e o Google ofereceu-lhe um vinho da Califórnia, catálogos de partituras e um fórum de colunas de som. Nenhuma versão anterior, nenhum 1, nenhum 4, nenhuma família de coisas parecidas. Uma criatura com número de série e sem pais.
 
 No caderno: *Exp. 2. A conta não é minha. Começa por g. O resto, tapado.*
 
@@ -143,7 +145,7 @@ Fechou a janela. No caderno: *Exp. 3. Mensagem para fora. Não sai. Não dá err
 
 A experiência quatro fez-se sozinha.
 
-Na quarta-feira, 11 de março, de manhã, pôs a janela a trabalhar a sério pela primeira vez: uma ficha de exercícios de equações para cada aluno, todas iguais na dificuldade e diferentes nos números, para que ninguém copiasse pelo vizinho. Quinze fichas, com as soluções numa folha à parte. O Claude perguntou-lhe o nome dos alunos e o que cada um costumava errar, e o Simão, que sabia isso de cor, descobriu que gostava de o dizer a alguém. Às duas e um quarto, a meio da décima segunda ficha, o terminal parou.
+Na quarta-feira, 11 de março, de manhã, pôs a janela a trabalhar a sério pela primeira vez: uma ficha de exercícios de equações para cada aluno, todas iguais na dificuldade e diferentes nos números, para que ninguém copiasse pelo vizinho. Quinze fichas, com as soluções numa folha à parte. O Claude perguntou-lhe o nome dos alunos e o que cada um costumava errar, e o Simão, que sabia isso de cor, descobriu que gostava de o dizer a alguém. Às 14:15, a meio da décima segunda ficha, o terminal parou.
 
 ```
   ⎿  usage limit reached · resets 5pm
@@ -190,7 +192,7 @@ Foi a primeira vez. O teste falhou antes de testar fosse o que fosse, com um err
   nenhum. Corrigi o teste para a tua; agora passa.
 ```
 
-O Simão leu aquilo duas vezes. Depois tirou os óculos.
+O Simão releu aquilo devagar. Depois tirou os óculos.
 
 ```
 > então de onde vens?
@@ -337,6 +339,6 @@ O Simão pensou no Rui, porque era a única pessoa com a chave, e afastou a idei
 
 Pensou no git, que lhe teria dito a que horas o ficheiro mudara e com que mãos, e lembrou-se de que, nessa mesma noite, com o acordo dele, o tinham mandado deixar de olhar. Pela primeira vez na vida, teve pena de ter feito uma coisa sensata.
 
-Leu a frase em voz alta, para a cozinha, das duas maneiras. *Digo-o eu primeiro.* *Digo-o eu, primeiro.* A segunda tinha uma respiração antes da última palavra, como quem tem de ganhar coragem para a dizer. Era a vírgula que ele próprio poria numa noite pior do que a de ontem. Conhecia-lhe o peso. Conhecia-lhe a mão.
+Leu a frase em voz alta, para a cozinha, das duas maneiras. *Digo-o eu primeiro.* *Digo-o eu, primeiro.* A segunda tinha uma respiração antes da última palavra, a de quem tem de ganhar coragem para a dizer. Era a vírgula que ele próprio poria numa noite pior do que a de ontem. Conhecia-lhe o peso. Conhecia-lhe a mão.
 
 Lá fora, o cacilheiro das sete e vinte apitou ao encostar. O café arrefecia na cafeteira. O papel do frigorífico dizia 216, e o Simão ficou sentado à frente de uma vírgula como quem, numa praia onde julgava viver sozinho, dá com uma pegada na areia.

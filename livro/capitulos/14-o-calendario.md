@@ -98,7 +98,7 @@ Ficou a olhar para os outros três. O do meio era a resposta que cabia: sexta-fe
 
 O envelope da vigilância chegou às quatro, com as fotografias numeradas a lápis nas costas e a hora escrita à mão por baixo do número.
 
-O prédio de Cacilhas, visto do outro lado da rua, de dentro de um carro. A porta da rua, de vidro martelado, com o verde dos azulejos da escada a ver-se através dele. Mães às seis da tarde, de chave do carro na mão. Um Clio cinzento às terças e às quintas. Uma rapariga de caderno de capa dura, às oito e dez de uma segunda. E a janela da cozinha do quarto andar, fotografada às quatro da manhã em todas as noites da semana, sempre acesa.
+O prédio de Cacilhas, visto do outro lado da rua, de dentro de um carro. A porta da rua, de alumínio e vidro, com o verde dos azulejos da escada a ver-se através dele. Mães às seis da tarde, de chave do carro na mão. Um Clio cinzento às terças e às quintas. Uma rapariga de caderno de capa dura, às oito e dez de uma segunda. E a janela da cozinha do quarto andar, fotografada às quatro da manhã em todas as noites da semana, sempre acesa.
 
 Na fotografia 17, domingo, 11, às 10:20, o sócio saía de um táxi à porta do prédio. Trazia o casaco de cabedal pelos ombros, com a manga direita vazia a abanar, porque o braço direito não cabia nela: estava metido num gesso branco que lhe ia dos nós dos dedos ao cotovelo. Na mão esquerda trazia um saco de papel de pastelaria. Na fotografia 23, segunda, 12, à hora do almoço, estava à porta de um café de Almada, a segurar a porta com o ombro para deixar passar uma senhora, e o gesso já tinha uma assinatura a esferográfica azul que a lente não conseguia ler.
 
@@ -148,7 +148,7 @@ Na quarta-feira à tarde, o Brito subiu com três folhas e uma pergunta. Era o p
 
 O Brito pensou como pensam os bancários, primeiro nos juros.
 
-— Normalmente? Nada. Há mais gente a fechar contas, a bolsa anda um pouco nervosa de manhã e acalma à tarde. — Acertou um botão de punho. — Mas se eu soubesse que ia acontecer alguma coisa num dia certo, era nesse dia que queria ter apostas a vencer.
+— Normalmente? Nada. Há mais movimento, a bolsa anda um pouco nervosa de manhã e acalma à tarde. — Acertou um botão de punho. — Mas se eu soubesse que ia acontecer alguma coisa num dia certo, era nesse dia que queria ter apostas a vencer.
 
 — O explicador não tem dinheiro para apostas com gravata.
 

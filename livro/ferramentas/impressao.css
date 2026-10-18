@@ -57,7 +57,7 @@ hr::after { content: "⁂"; font-size: 1.1em; color: #666; }
 
 pre {
   font-family: "DejaVu Sans Mono", "Liberation Mono", monospace;
-  font-size: .78em;
+  font-size: .72em;
   line-height: 1.4;
   background: #f3f1ec;
   border-left: 3px solid #c96442;

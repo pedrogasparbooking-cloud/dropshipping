@@ -6,7 +6,7 @@
 
 A primeira pancada chegou às 05:12. Ele soube a hora exata porque estava a olhar para o canto do ecrã.
 
-Não eram os nós dos dedos de um vizinho. Era uma mão aberta e pesada, a bater na madeira como quem já sabe que do outro lado há alguém acordado. O primeiro cacilheiro ainda não tinha passado. Do outro lado do vidro da cozinha, o rio era uma chapa cinzenta e Lisboa continuava acesa, a desbotar, à espera de que alguém lhe desligasse as luzes.
+Não eram os nós dos dedos de um vizinho. Era uma mão aberta e pesada, a bater na madeira como quem já sabe que lá dentro há alguém acordado. O primeiro cacilheiro ainda não tinha passado. Do outro lado do vidro da cozinha, o rio era uma chapa cinzenta e Lisboa continuava acesa, a desbotar, à espera de que alguém lhe desligasse as luzes.
 
 Estava sentado àquela mesa desde as onze da noite. Os óculos escorregados no nariz, a camisola com que dormia quando dormia, os dedos com as manchas de marcador vermelho que nunca saíam de todo. Ao lado do portátil, uma chávena de café frio desde as três. Na cadeira em frente, a mochila aberta, à espera de um computador que havia três meses não lhe saía das costas.
 
@@ -72,13 +72,13 @@ Os dois pontos ficaram a piscar à frente do cursor. Atrás dele, a porta estalo
 
 *Olha para a prateleira, para o portátil velho, como se ele pudesse ter uma opinião sobre o assunto. Não tem. Há anos que não tem opinião sobre nada.*
 
-*Então puxa para si o outro computador, o novo, e abre-o. A luz azulada sobe-lhe pela cara. Escreve depressa, sem maiúsculas e sem acentos, como quem escreve para não ter de pensar no que não enviou; engana-se numa palavra e não volta atrás para a corrigir. É uma pergunta comprida. Não a relê.*
+*Então puxa para si o outro computador, o novo, e abre-o. A luz azulada sobe-lhe pela cara. Escreve depressa, sem maiúsculas e sem acentos, para não ter de pensar no que não enviou; engana-se numa palavra e não volta atrás para a corrigir. É uma pergunta comprida. Não a relê.*
 
 *Carrega em Enter.*
 
 *Durante um segundo não acontece nada. Depois aparecem no ecrã seis barras finas, umas por baixo das outras, marcadas de A a F. Todas vazias. Ao lado de cada uma, um zero.*
 
-*Ele fica a olhar para elas como quem espera que lhe digam alguma coisa.*
+*Ele fica a olhar para elas, à espera de que lhe digam alguma coisa.*
 
 *A barra A estremece primeiro. Depois a D, depois as outras, cada uma ao seu ritmo, como seis pessoas a acordar na mesma casa sem saberem umas das outras.*
 

@@ -34,7 +34,7 @@ A caneta parou.
 
 — Sem ano. O Simão pôs um papel no frigorífico a contar os dias que faltavam. Começou nos duzentos e trinta e quatro.
 
-O Galvão chupou o rebuçado de mentol até ele se partir. Na agenda que tinha em casa, por cima dos anos de casamento, estava escrito a caneta *Sexta, 16 — Cacilhas*, e numa página mais à frente, na mesma letra, havia quatro anos em coluna, 2009, 2015, 2020, 2026, sem nenhum sublinhado, porque ele não soubera qual sublinhar.
+O Galvão chupou o rebuçado de mentol até ele se partir. Na agenda do ano anterior, que guardava em casa, por cima dos anos de casamento, estava escrito a caneta *Sexta, 16 — Cacilhas*, e numa página mais à frente, na mesma letra, havia quatro anos em coluna, 2009, 2015, 2020, 2026, sem nenhum sublinhado, porque ele não soubera qual sublinhar.
 
 O resto veio mais depressa. Uma dívida a uns homens de Corroios. A mão, que não fora de mota nenhuma. Um homem de Oeiras chamado Bastos, que tinha uma empresa de segurança e comprara a dívida inteira. A data vendida ao Bastos no dia das eleições, embelezada com uma interpretação que o Rui inventara para valer mais. Em março, uma porta aberta com uma chave que era dele havia anos, dois discos copiados, tudo devolvido a uma gaveta, debaixo dos panos da loiça.
 
@@ -64,7 +64,7 @@ Perguntou-lhe quem era o Marr. Um homem de Londres, com dinheiro, que queria o c
 
 — Porque ele não é espião, nem é nada. — O Rui procurou a palavra com a mão boa. — É um explicador com uma coisa em casa que ninguém percebe. E eu escrevi aquilo do senhor. O senhor é polícia. Pensei que, se alguém lhe fosse dizer, era melhor ser eu.
 
-Às sete menos um quarto, o Rui leu o auto inteiro, linha a linha, com o dedo. Assinou com a direita, devagar, com a caneta presa entre dedos que não fechavam, e a assinatura saiu-lhe de outra pessoa.
+Às sete menos um quarto, o Rui leu o auto inteiro, linha a linha, com o dedo. Assinou com a direita, com a caneta presa entre dedos que não fechavam, e a assinatura saiu-lhe de outra pessoa.
 
 Depois de ele sair, o Galvão ficou sozinho com as folhas amarelas.
 
@@ -72,7 +72,7 @@ Conhecera dezenas de apostadores em trinta anos de casa. Todos tinham um sistema
 
 *Delírio?*
 
-Ficou a olhar para o ponto de interrogação. Não se lembrava de quando escrevera o último a caneta. Quem faz palavras cruzadas a lápis já está a contar errar; quem põe um ponto de interrogação a caneta, pensou, está a contar ter de voltar ali.
+Ficou a olhar para o ponto de interrogação. Não se lembrava de quando escrevera o último a caneta. Nas palavras cruzadas, a caneta era para as certezas. Quem põe um ponto de interrogação a caneta, pensou, está a contar ter de voltar ali.
 
 O auto foi para o processo, com a assinatura torta. A folha amarela, dobrada em quatro, foi para o bolso de dentro do casaco, ao lado das palavras cruzadas. Não mandou cópia a ninguém. O homem do casaco azul havia de a pedir um dia. Ainda não.
 
@@ -121,7 +121,7 @@ Ela abriu a porta até meio e ficou com a mão no aro, uma mão seca do álcool-
 
 — Não vim pelo Gonçalo.
 
-Contou-lhe primeiro o mais fácil. A linha do ficheiro, «Não confies na Joana.», escrita no portátil dele, numa quinta-feira, por alguém que tinha chave. A segunda quinta, em que ela estava sentada à mesa do pai, a partir o pão em quatro. O Rui.
+Contou-lhe primeiro o mais fácil. A linha do ficheiro, «Não confies na Joana.», escrita no portátil dele, numa quinta-feira, por alguém que tinha chave. A terceira quinta, em que ela estava sentada à mesa do pai, a partir o pão em quatro. O Rui.
 
 — Então foi preciso a minha cara num jantar — disse a Joana — para deixares de acreditar numa frase.
 
@@ -164,10 +164,9 @@ A raiva veio mais tarde, entre a explicação das quatro e a das cinco, e quando
 Às seis e um quarto, quando saiu o último aluno das quintas, abriu a sessão.
 
 ```
-> esta noite quero começar uma coisa. o ostrakon tem as contas
-  num registo público em londres. quero ler tudo, ano a ano,
-  encontrar o buraco que o marr anda a tapar e pô-lo na rua.
-  passo a noite nisto.
+> esta noite quero ler as contas do ostrakon, que estão num
+  registo público em londres, ano a ano. encontrar o buraco que
+  o marr anda a tapar e pô-lo na rua. passo a noite nisto.
 
 ● Read(CLAUDE.md)
   ⎿  Read 249 lines
@@ -234,7 +233,7 @@ Trinta e oito.
 
 Contou outra vez, porque é isso que se faz a uma medição que não se quer. Trinta e oito.
 
-Sabia de cor, como sabia a velocidade da luz, que o coração de um homem de setenta anos, sentado à mesa a comer sopa, não desce abaixo dos sessenta sem uma razão. Tirou o telemóvel do bolso com a outra mão, sem largar o pulso do pai, e marcou três números.
+Sabia de cor, como sabia a velocidade da luz, que um coração em repouso bate entre sessenta e cem, e que o de um homem de quase setenta anos, sentado à mesa a comer sopa, não desce aos trinta e oito sem uma razão. Tirou o telemóvel do bolso com a outra mão, sem largar o pulso do pai, e marcou três números.
 
 — Que estás a fazer, rapaz?
 

@@ -2,7 +2,7 @@
 
 *Cacilhas, terça-feira, 14 de abril de 2015*
 
-A Joana subiu os sessenta e oito degraus sem parar nos patamares e entrou na cozinha com a respiração curta e os olhos já no frigorífico.
+A Joana subiu os quatro andares sem parar nos patamares e entrou na cozinha com a respiração curta e os olhos já no frigorífico.
 
 — O que é isso?
 
@@ -197,7 +197,7 @@ No domingo à noite, às onze e quarenta, uma impressora de talões que o Rui ar
 
 O Ivo fotografou-o com o telemóvel, contra a luz, como se fosse um bilhete de concerto. O papel do frigorífico dizia 180. Havia noventa e um commits novos no histórico, e o Simão, que lera tudo antes de os autorizar, sabia que um programador sozinho, a trabalhar bem, levaria seis meses a fazê-los.
 
-Na segunda-feira, o pedido de certificação seguiu para as Finanças. A Dulce, que não viera, mandou-lhe nessa manhã um email com onze perguntas numeradas sobre o que o programa fazia aos dados de quem pagava. O Simão respondeu às onze, uma a uma, e percebeu ao carregar em enviar que era a primeira pessoa, depois da Joana, a pedir-lhe que mostrasse as contas antes de acreditar nelas.
+Na segunda-feira, o pedido de certificação seguiu para as Finanças. A Dulce, que não viera, mandou-lhe nessa manhã um email com onze perguntas numeradas sobre o que o programa fazia aos dados de quem pagava. O Simão respondeu a todas, uma a uma, e percebeu ao carregar em enviar que era a primeira pessoa, depois da Joana, a pedir-lhe que mostrasse as contas antes de acreditar nelas.
 
 * * *
 
@@ -219,7 +219,7 @@ O Rui tirou do bolso do casaco o talão de domingo e pousou-o no balcão, entre 
 
 Ela riu-se e disse que sim. O Simão pagou a bica e pediu talão, por princípio, e ficou ao balcão enquanto o Rui seguia para o Laranjeiro. As mensagens foram chegando ao longo da tarde: «2 mano». «4». «5 e uma oficina mas essa n conta». «7 tas a ver».
 
-Ficou a olhar para o sete. Sem o Rui não havia empresa: havia um programa perfeito numa cozinha, à espera de que alguém o viesse buscar. E sem o Rui, em 2012, não teria havido muito mais do que isso. Quando a errata saiu, o Simão passou quatro dias deitado de cara para a parede. Ao quinto, o Rui bateu-lhe à porta durante vinte minutos. O Simão contou as pancadas até cento e tal e depois deixou de contar, e abriu, porque o Rui não ia parar. O Rui não lhe falou de Física. Sentou-o na mota, levou-o à Fonte da Telha, a um bar de madeira, e pôs-lhe uma imperial à frente.
+Ficou a olhar para o sete. Sem o Rui não havia empresa: havia um programa perfeito numa cozinha, à espera de que alguém o viesse buscar. E não era a primeira vez que o Rui o vinha buscar a ele. Quando a errata saiu, em 2012, o Simão passou quatro dias deitado de cara para a parede. Ao quinto, o Rui bateu-lhe à porta durante vinte minutos. O Simão contou as pancadas até cento e tal e depois deixou de contar, e abriu, porque o Rui não ia parar. O Rui não lhe falou de Física. Sentou-o na mota, levou-o à Fonte da Telha, a um bar de madeira, e pôs-lhe uma imperial à frente.
 
 — Bebe, mano — disse. — O resto logo se vê.
 
@@ -227,11 +227,11 @@ Foi a única coisa sensata que alguém lhe disse nesse ano.
 
 * * *
 
-Nessa noite, o Rui subiu os sessenta e oito degraus a dois e dois e pediu a cadeira.
+Nessa noite, o Rui subiu a escada a dois e dois e pediu a cadeira.
 
 — Deixa-me falar com ele.
 
-O Simão deu-lha e ficou encostado à bancada, na mesma divisão, porque fora disso o Rui teria encontrado só um comando que não existia. O Rui escrevia com dois dedos, depressa, como quem manda mensagens a conduzir.
+O Simão deu-lha e ficou encostado à bancada, na mesma divisão, porque fora disso o Rui teria encontrado só um comando que não existia. O Rui escrevia com dois dedos, depressa, como escrevia as mensagens a conduzir.
 
 ```
 > aqui é o rui o socio. o gajo do seixal cobra 30 euros por
@@ -288,8 +288,8 @@ Na sexta-feira, 24 de abril, à meia-noite menos um quarto, o papel do frigoríf
 
   - as chaves, incluindo a que assina as faturas;
   - os dados: os dos cafés e os da Joana;
-  - o CLAUDE.md, que já está fora desde março. É o teu
-    diário, não é código.
+  - o CLAUDE.md, que está no .gitignore desde março e não
+    é código.
 
 ● Bash(git log --oneline | wc -l)
   ⎿  143
@@ -311,7 +311,7 @@ O Simão endireitou-se na cadeira.
 
 Era uma oferta sensata. Era, aliás, a oferta mais sensata que lhe tinham feito naquela cozinha, e o Simão demorou a perceber porque é que não a queria.
 
-Sem a linha, os cento e quarenta e três commits ficavam com um nome só: o dele. Meio ano de trabalho de um programador, quase todo feito num fim de semana, assinado por um explicador de Cacilhas. Ninguém perguntaria nada, era verdade. E ele passaria a ser, em público, para quem quisesse ver, um homem que fizera sozinho aquilo que não fizera sozinho. Lembrou-se da Joana à porta do prédio, com o cartão do instituto no bolso: *Não posso pôr o meu nome sozinho numa coisa que não fiz sozinha.* Ela tinha dito aquilo como quem descreve um castigo. Era só a descrição de uma pessoa honesta.
+Sem a linha, os cento e quarenta e três commits ficavam com um nome só: o dele. Meio ano de trabalho de um programador, quase todo feito num fim de semana, assinado por um explicador de Cacilhas. Ninguém perguntaria nada, era verdade. E ele passaria a ser, em público, para quem quisesse ver, um homem que fizera sozinho aquilo que não fizera sozinho. Lembrou-se da Joana à porta do prédio, com o cartão do instituto no bolso: *Não posso pôr o meu nome sozinho numa coisa que não fiz sozinha.* Ela tinha dito aquilo como se descrevesse um castigo. Era só a descrição de uma pessoa honesta.
 
 Escreveu devagar, com a pontuação toda.
 

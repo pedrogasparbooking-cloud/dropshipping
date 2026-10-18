@@ -32,7 +32,7 @@ Fechou a tampa sem ter escrito uma letra. No café do rés-do-chão, a rádio j�
 
 * * *
 
-Em Almada, às dez da manhã de feriado, a porta da rua continuava encostada e o nome dela continuava escrito à mão na caixa do correio. Ele subiu a contar os degraus, cinquenta e um, e desta vez acertou.
+Em Almada, às dez da manhã de feriado, a porta da rua estava encostada, como sempre, e o nome dela continuava escrito à mão na caixa do correio. Ele subiu a contar os degraus, cinquenta e um, e desta vez acertou.
 
 Quem abriu foi o Gonçalo, de pijama e com o boné novo, o do corredor da Judiciária.
 
@@ -128,6 +128,8 @@ Copiou a carta para o terminal letra a letra, outra vez. Os dedos já sabiam o c
   ⎿  Read 254 lines
 ```
 
+A Joana puxou a cadeira para o lado dele.
+
 ```
 ● Li a carta e o ficheiro. Duas coisas, e depois faço o que
   decidirem.
@@ -182,7 +184,7 @@ Os dados dela, os de março do ano anterior, as estirpes e as tabelas, foram par
 
 Aos oitenta e nove minutos, a França marcou outra vez. Do café subiu o grito de um único homem, em francês, e depois o silêncio de todos os outros.
 
-Às onze em ponto, o Simão pediu o telemóvel à Joana. Não tinha nenhum.
+Às onze em ponto, o Simão pediu o telemóvel à Joana. O dele estava na Judiciária.
 
 A Dulce atendeu ao quinto toque, com uma televisão ao fundo e a voz de quem já estava de pijama no Feijó.
 
@@ -250,9 +252,9 @@ Tinha quatro nós, todos de papel público. A constituição da Valdarco, de mar
 > põe o bastos. foi ele que comprou a dívida do rui, mandou
   copiar os discos e ditou as linhas.
 
-● Isso não está em registo nenhum: é o que o Rui te contou, e o
-  Rui já o contou a quem tinha de o ouvir. Aqui fica o que se
-  lê. O que se lê é isto:
+● Isso não está em registo nenhum: é o que o Rui te contou.
+  Isso conta-se à polícia, com o teu nome por baixo. Aqui fica
+  só o que se lê, e o que se lê é isto:
 
   Nota 11. Entre 2014 e 2015, uma empresa de segurança privada
   com sede em Oeiras teve a sede registada na mesma morada da
@@ -291,7 +293,7 @@ O Simão tirou o que dizia NÃO e ligou-o ao portátil. Lá dentro só havia uma
   ❯ 1. Yes   2. Yes, and don't ask again   3. No
 ```
 
-Ficou um segundo a olhar para a segunda opção. Havia um homem com a cara dele, o da capa da revista, que dissera sempre que sim e deixara de querer que lhe perguntassem. A Joana não disse nada. Tinha as mãos fechadas uma na outra em cima da mesa.
+Ficou um segundo a olhar para a segunda opção. Havia um Simão, o da capa da revista, que dissera sempre que sim e deixara de querer que lhe perguntassem. A Joana não disse nada. Tinha as mãos fechadas uma na outra em cima da mesa.
 
 Carregou em 1.
 
@@ -338,7 +340,7 @@ Fechou a tampa. Deitou-se no chão da sala, com uma almofada do sofá debaixo da
 
 Acordou às nove e dez com o pescoço torto e o sol já na cozinha. A Joana tinha ido buscar o Gonçalo. Deixara o casaco dobrado em quatro nas costas da cadeira, como a avó dobrava os panos, e um papel ao lado do pão, na letra dela: *Domingo às cinco. J.*
 
-Abriu o ficheiro antes do café, como sempre. Duzentas e cinquenta e cinco linhas.
+Ainda de pescoço torto, abriu o ficheiro. Duzentas e cinquenta e cinco linhas.
 
 A última não era dele.
 

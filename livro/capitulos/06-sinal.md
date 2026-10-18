@@ -10,7 +10,7 @@ A maré estava vazia. O Tamisa mostrava as margens de lodo castanho e o que a á
 
 Em casa, bebeu de pé o chá da véspera, preto, sem açúcar, frio. Fazia-o à noite e deixava-o arrefecer de propósito; o ex-marido dizia que ela era a única pessoa que conhecia capaz de planear um chá frio. Em cima da mesa estavam três cadernos quadriculados, um por assunto, nunca mais de três. Debaixo da cama, num sítio que não via mas sabia de cor, havia uma caixa de arquivo de cartão com «2008» escrito a marcador na lombada. Não a abria havia anos, nem a deitava fora.
 
-Às seis e quarenta apanhou o metro em Bermondsey. A linha Jubilee levava-a a Green Park sem mudar de linha.
+Às seis e quarenta apanhou o metro em Bermondsey. A Jubilee levava-a a Green Park sem mudanças.
 
 * * *
 
@@ -26,7 +26,7 @@ Um autor só. Duzentos e onze commits. O ritmo de uma equipa de doze. Localizaç
 
 — Dropshipping — leu ela em voz alta, para a sala vazia.
 
-Era um nome de loja: encomendas que vêm da China direitas para casa de quem compra, sem passar pela mão de ninguém. Abriu o repositório à espera de uma loja e encontrou duas coisas. Uma era a loja, morta desde fevereiro, com um carrinho de compras que nunca vendera nada. A outra crescia por cima dela como hera numa parede: um programa de faturação para cafés, chamado Talão, todo em português. A Nell tinha o português de duas semanas no Algarve em 1996 e um tradutor automático aberto noutro separador. Chegava.
+Era um nome de loja: encomendas que vêm da China direitas para casa de quem compra, sem passarem pelas mãos de quem as vende. Abriu o repositório à espera de uma loja e encontrou duas coisas. Uma era a loja, morta desde fevereiro, com um carrinho de compras que nunca vendera nada. A outra crescia por cima dela como hera numa parede: um programa de faturação para cafés, chamado Talão, todo em português. A Nell tinha o português de duas semanas no Algarve em 1996 e um tradutor automático aberto noutro separador. Chegava.
 
 O primeiro commit era de uma terça-feira de fevereiro, à uma e sete da manhã. Depois vinham semanas de pouca coisa. A meio de abril, num só fim de semana, noventa e um commits, cada um com os seus testes, todos verdes. E por baixo de quase todos, a mesma linha:
 
@@ -38,7 +38,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 
 Leu-a três vezes. Um co-autor. Alguém escrevia com ele, e esse alguém tinha um nome, um número de versão e um endereço.
 
-Pesquisou o nome. «Claude» devolveu-lhe Debussy, Monet e Claude Shannon, o pai da teoria da informação, que ela lera aos vinte anos como outras pessoas leem poesia. «Opus» era um formato de compressão de áudio, uma organização católica e uma banda austríaca com um único êxito. «Anthropic» levava a um verbete de enciclopédia sobre o princípio antrópico, a ideia de que o universo tem as propriedades que tem porque, se não as tivesse, não haveria ninguém para reparar nelas. A Nell achou a frase vaidosa e fechou o separador.
+Pesquisou o nome. «Claude» devolveu-lhe Debussy, Monet e Claude Shannon, o pai da teoria da informação, que ela lera aos vinte anos como outras pessoas leem poesia. «Opus» era um formato de compressão de áudio, uma organização católica e uma banda austríaca com um único êxito. «Anthropic» levava a um verbete de enciclopédia sobre o princípio antrópico: o universo parece afinado à medida de quem o observa porque, se não fosse, não haveria cá ninguém para o achar. A Nell achou a ideia vaidosa e fechou o separador.
 
 O domínio do endereço estava registado, mas a nada que se parecesse com uma empresa de programação. A página não levava a lado nenhum. O dono, pelo que os registos públicos mostravam, não tinha nada a ver com cafés, nem com Portugal, nem com ninguém chamado Claude. Escreveu duas linhas para o endereço, de uma conta pessoal: quem são, o que fazem. Ninguém respondeu.
 
@@ -72,11 +72,11 @@ O fim mudava todos os dias. O recomeço nunca.
 
 — Nenhum humano trabalha assim — disse, e ficou incomodada por o ter dito em voz alta.
 
-No sábado, em casa, com o portátil em cima dos joelhos e o vidro aberto para o barulho da rua, fez a única experiência ao seu alcance: esperou. O último commit do dia chegara à uma e cinquenta e dois. Às quatro e meia abriu a página do repositório. Às cinco menos um quarto, foi pôr água a ferver e não a usou. Às cinco menos um minuto, a página continuava igual.
+No sábado, em casa, com o portátil em cima dos joelhos e a janela aberta para o barulho da rua, fez a única experiência ao seu alcance: esperou. O último commit do dia chegara à uma e cinquenta e dois. Às quatro e meia abriu a página do repositório. Às cinco menos um quarto, foi pôr água a ferver e não a usou. Às cinco menos um minuto, a página continuava igual.
 
 Às cinco e quatro apareceu um commit novo. Um ajuste à impressão dos talões, com testes, com a linha do co-autor por baixo.
 
-A Nell escreveu a hora no caderno e ficou a olhar para ela até a luz da rua acender.
+A Nell escreveu a hora no caderno e ficou a olhar para ela até se acender a luz da rua.
 
 * * *
 
@@ -142,7 +142,7 @@ Na vitrina, do outro lado do vidro, o óstraco apanhava a luz de cima. Um caco d
 
 O pai vendia peixe por grosso no porto de Marselha. Em 1981, numa semana de março, veio uma regra nova sobre o que se podia pescar e vender, e houve homens que a souberam antes dos jornais. Esses compraram e venderam na véspera. O pai soube-a no cais, ao mesmo tempo que os peixeiros, e passou o mês seguinte de mãos fechadas uma na outra a ver os camiões irem para outros armazéns. O Lucien tinha catorze anos. Não percebeu o que era uma regra nova. Percebeu, para o resto da vida, que alguém soubera primeiro.
 
-Alguém sabe sempre. Era o que dizia aos clientes, num inglês sem sotaque, *someone always knows*, e eles ouviam uma promessa. Ele dizia-o como quem diz que vai chover.
+Fizera disso um lema, que dizia aos clientes em inglês, *someone always knows*, e eles ouviam uma promessa. Ele dizia-o como quem diz que vai chover.
 
 Bateram à porta de vidro. Era a Nell, com um caderno debaixo do braço e a cara de quem tinha dormido mal por razões profissionais.
 
@@ -172,7 +172,7 @@ O Marr voltou-se para ela. Tinha cabelo prateado, um fato que não fazia barulho
 
 O Marr olhou para o caderno sem lhe tocar, e depois para o óstraco, ao fundo, e a Nell percebeu que ele já estava a fazer contas que não eram as dela. Lá fora passou um autocarro de dois andares quase vazio.
 
-— Tenho negócios em Lisboa — disse ele, como quem fala do tempo. — Apartamentos. É uma cidade que se vende barata a quem chega cedo.
+— Tenho negócios em Lisboa — disse ele, sem mudar de tom. — Apartamentos. É uma cidade que se vende barata a quem chega cedo.
 
 Ela não respondeu. Não sabia que havia uma pergunta.
 

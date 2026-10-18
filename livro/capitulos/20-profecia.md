@@ -4,15 +4,15 @@
 
 O pai afastou-se para o deixar entrar porque não sabia fazer outra coisa. Passara trinta e cinco anos encostado à chapa, à porta das casas das máquinas, a dar passagem a quem descia, e o corpo lembrava-se disso melhor do que ele.
 
-O homem limpou os sapatos no capacho com cuidado, como se o capacho fosse dele. Dissera a frase da porta em português, com o esmero de quem a decorara no avião. O resto disse-o em inglês.
+O homem limpou os sapatos no capacho com cuidado, como se o capacho fosse dele. A frase da porta trouxera-a decorada do avião; o resto disse-o em inglês.
 
 — Lucien Marr. Peço desculpa pela hora.
 
-Não pediu desculpa por mais nada. Atravessou o corredor, onde as luzes de Natal piscavam em três cores, cada uma ao seu ritmo, e entrou na sala a olhar primeiro para as paredes, como quem avalia uma peça antes de a pôr na coleção. Parou diante do calendário da Transtejo de 2011, que ninguém tirara do prego, e ficou um momento a ler os meses de um ano acabado.
+Não pediu desculpa por mais nada. Atravessou o corredor sem olhar para as luzes do rodapé e entrou na sala a olhar primeiro para as paredes, como quem avalia uma peça antes de a pôr na coleção. Parou diante do calendário da Transtejo de 2011, que ninguém tirara do prego, e ficou um momento a ler os meses de um ano acabado.
 
 Depois sentou-se na cadeira do pai, a que estava virada para o rádio.
 
-O Simão contou-lhe os passos, do capacho à cadeira: nove. Na mesa, por cima do oleado, ainda estavam as cascas das filhoses e o prato do bacalhau, com uma batata que o Gonçalo jurara que ia comer. O rádio a pilhas dava um coro de crianças de outra cidade. O Rui tinha saído meia hora antes para a consoada da mãe, com o telemóvel ainda aceso na mão.
+O Simão contou-lhe os passos, do capacho à cadeira: nove. O Marr ficou de frente para a travessa onde a batata do Gonçalo continuava à espera, e não olhou para ela. Do Rui, que saíra meia hora antes, ficara só o saco do bolo-rei no aparador.
 
 A Joana percebeu primeiro. Levantou-se, pôs a mão no ombro do filho e disse-lhe que fosse ajudar a lavar a loiça.
 
@@ -64,7 +64,7 @@ O pai pegou na garrafa pelo gargalo, como se pega num peixe que não se vai come
 
 * * *
 
-Às três e quarenta da manhã de dia de Natal, em Cacilhas, o Simão escreveu a frase que viera a ensaiar desde a Cova da Piedade, a pé, pelas ruas vazias e cheias de luzinhas.
+Às três e quarenta da manhã de dia de Natal, em Cacilhas, o Simão abriu primeiro o ficheiro. Era sexta, e a sexta tinha dono. Escreveu no fundo, sem esperar licença de ninguém, «25/12 — Usei a madrugada de sexta. Devolvo o domingo, 27.», e só depois chamou o Claude e lhe escreveu a frase que viera a ensaiar desde a Cova da Piedade, a pé, pelas ruas vazias e cheias de luzinhas.
 
 ```
 > inventa-lhe uma. uma profecia qualquer. o preço do petróleo
@@ -113,7 +113,8 @@ O teste era a parte de que o Simão gostava, porque era física. O Marr escolhia
     …████ o que poderia ou deveria fazer? ████…
 
   Contei os blocos em toda a compactação: sete. A última
-  contagem anotada no ficheiro era mais alta. Acrescento esta?
+  contagem anotada no ficheiro, de outubro, era treze.
+  Acrescento esta?
 ```
 
 O Simão leu a frase do meio como se lha tivessem feito a ele, ali, às cinco da manhã de dia de Natal, com uma carta para um homem que lhe entrara em casa. Alguém, em lado nenhum, fazia a mesma pergunta. Disse que sim, que acrescentasse.
@@ -208,7 +209,7 @@ Foi então que viu a linha de baixo. Não era dele. Tinha a data desse dia e a s
 
 «O Marr quer uma profecia por semana.»
 
-Ficou muito tempo a olhar para ela. Noutro sítio, no mesmo dia, um homem com a cara dele tinha dito que sim em setembro, e agora o Marr já não queria uma. Queria uma por semana. O Simão pensou no envelope do notário, nas dez perguntas, na uma em 1024, e percebeu que o Marr nunca tinha querido saber se a coisa acertava. Queria alguém que lhe respondesse, todas as semanas, para sempre.
+Releu-a até ela deixar de parecer uma frase. Noutro sítio, no mesmo dia, um homem com a cara dele tinha dito que sim em setembro, e agora o Marr já não queria uma. Queria uma por semana. O Simão pensou no envelope do notário, nas dez perguntas, na uma em 1024, e percebeu que o Marr nunca tinha querido saber se a coisa acertava. Queria alguém que lhe respondesse, todas as semanas, para sempre.
 
 Pela janela, o último barco da noite encostava ao cais com a buzina rouca. O Simão contou as luzes acesas na outra margem até perder a conta, que era a maneira que tinha de não contar outra coisa: vinte dias.
 
@@ -216,7 +217,7 @@ Pela janela, o último barco da noite encostava ao cais com a buzina rouca. O Si
 
 Na Rua Gomes Freire, na quarta-feira a seguir às presidenciais, a televisão do corredor ainda explicava o novo Presidente a quem passava, e o inspetor-chefe Artur Galvão não passava. Estava sentado à secretária, de gravata desapertada, com um rebuçado de mentol encostado à bochecha e as palavras cruzadas do jornal dobradas em quatro.
 
-*Resposta de um deus, em Delfos.* Sete letras. Escreveu ORÁCULO a caneta, sem hesitar, porque quem faz palavras cruzadas a lápis já está a contar errar.
+*Resposta de um deus, em Delfos.* Sete letras. Escreveu ORÁCULO a caneta, sem hesitar.
 
 O perito entrou sem bater, com uma pasta debaixo do braço e a cara de quem não dormira. Era um rapaz de Viseu, de camisa aos quadrados, que falava de computadores como os mecânicos antigos falavam de motores: com respeito e desconfiança.
 
@@ -238,9 +239,9 @@ O Galvão chupou o rebuçado.
 
 — E um explicador de Cacilhas.
 
-— E um explicador de Cacilhas. — O rapaz virou uma folha. Era um gráfico de barras, uma por dia, e de sete em sete dias havia um buraco. — E às terças, nada. Desde o fim de outubro. Nem um pacote. Como se alguém lhe tivesse dito que é às terças que se olha.
+— E um explicador de Cacilhas. — O rapaz virou uma folha. Era um gráfico de barras, uma por dia, e de sete em sete dias havia um buraco. — E às terças, nada. Desde o princípio de novembro. Nem um pacote. Como se alguém o tivesse avisado do dia em que se olha.
 
-O Galvão olhou para os buracos durante muito tempo. Era às terças que o perito fazia os relatórios.
+O Galvão pôs o dedo no primeiro buraco e deixou-o lá. Era às terças que o perito fazia os relatórios.
 
 — Quem?
 

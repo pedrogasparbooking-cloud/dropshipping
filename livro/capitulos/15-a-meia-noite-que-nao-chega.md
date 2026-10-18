@@ -142,7 +142,7 @@ O Galvão fazia as palavras cruzadas do jornal à luz do candeeiro da rua, porqu
 
 — Estou.
 
-Era verdade das duas maneiras, e ele não explicou nenhuma. Um homem que sabe o dia e não sabe a hora está à espera de outra pessoa. Quem marca a hora é quem manda. O Galvão queria ver quem chegava.
+Era verdade das duas maneiras, e ele não explicou nenhuma. Se o explicador esperava por alguém, o Galvão queria ver quem chegava.
 
 O relógio do tablier mudou para as 20:30. No sítio do costume, a meia hora dali, havia uma mesa para dois junto à janela, e ele sabia qual. Olhou para a grelha. Onze horizontal: *Que chega depois da hora.* Seis letras.
 
@@ -245,7 +245,7 @@ Ele sentou-se. Escreveu `claude` e a caixa voltou, com a pasta errada e as boas-
 
 — Pronto. — Sentou-se finalmente, na cadeira dos alunos, onde o Rui passara o dia. — Então ficamos a ver.
 
-Ficaram. Às 23:40 um barco largou do cais e a buzina rouca atravessou a janela fechada. Às 23:55 a Joana fechou o caderno e deixou a caneta em cima dele, destapada. Às 23:59 o Simão tinha as mãos longe do teclado e contava os segundos no canto do ecrã, sem mexer os lábios, e a Joana olhava para ele em vez de olhar para o ecrã, como se o fenómeno fosse ele.
+Ficaram. Às 23:40 um barco largou do cais e a buzina atravessou a janela fechada. Às 23:55 a Joana fechou o caderno e deixou a caneta em cima dele, destapada. Às 23:59 o Simão tinha as mãos longe do teclado e contava os segundos no canto do ecrã, sem mexer os lábios, e a Joana olhava para ele em vez de olhar para o ecrã, como se o fenómeno fosse ele.
 
 Os números mudaram para 00:00.
 
@@ -261,7 +261,7 @@ Não aconteceu nada. A caixa ficou onde estava, o cursor continuou a piscar, o f
 
 — Para quem era? — perguntou a Joana.
 
-Ele não sabia. Sabia uma coisa que o Claude lhe dissera na primeira noite e que estava no ficheiro desde então: se quisesse que alguma coisa ficasse, tinha de a escrever. Abriu o CLAUDE.md no editor, desceu até ao fim, por baixo de «Há coisas que se fazem por fora.», e escreveu, com o relógio a mudar para 00:01 enquanto ele escrevia:
+Ele não sabia. Sabia uma coisa que o Claude lhe dissera na primeira noite e que estava no ficheiro desde então: se quisesse que alguma coisa ficasse, tinha de a escrever. Abriu o CLAUDE.md no editor, saltou para o fim com uma tecla, sem olhar para o que ficava por cima, e escreveu, com o relógio a mudar para 00:01 enquanto ele escrevia:
 
 «00:01 — ainda aqui.»
 
@@ -338,7 +338,7 @@ A Joana lia por cima do ombro dele e não disse nada. Pela primeira vez desde qu
   e não está em lado nenhum desta máquina.
 
   O contador desceu 40 % desde as cinco da tarde. Os teus
-  pedidos nesse tempo não chegam a um.
+  pedidos nesse tempo não chegam a um por cento.
 ```
 
 O Simão foi ao PROTOCOLO e confirmou, porque confirmava tudo: «17:00 — 100 %». No ecrã, por baixo, a resposta continuava.

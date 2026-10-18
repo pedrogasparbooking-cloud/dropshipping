@@ -58,7 +58,7 @@ A Nell estava sentada num banco de plástico do pequeno terminal, com uma garraf
 
 — Diga ao piloto que vou a caminho — disse o Marr. — Saímos assim que eu chegar.
 
-Ela fez as perguntas em três, como sempre.
+Ela contou as perguntas antes de as fazer.
 
 — Ele vem?
 
@@ -92,7 +92,7 @@ Era a única prova que alguma vez tivera de que não estava louca. Ficou com o e
 
 * * *
 
-O cacilheiro estava cheio até às amuradas. O Simão entrou no meio de um grupo de Almada que cantava a marcha de Alfama com a letra errada e deixou-se levar até ao meio do convés. Atrás dele, um marinheiro soltou o cabo e gritou para a ponte. O barco afastou-se um palmo do pontão. Depois dois.
+O cacilheiro ia à cunha. O Simão entrou no meio de um grupo de Almada que cantava a marcha de Alfama com a letra errada e deixou-se levar até ao meio do convés. Atrás dele, um marinheiro soltou o cabo e gritou para a ponte. O barco afastou-se um palmo do pontão. Depois dois.
 
 O Stroud chegou ao fim do pontão sem correr.
 
@@ -214,7 +214,7 @@ Era verdade, e era tudo o que o Zé Carlos sabia dizer, em qualquer língua, a u
 
 O pai largou o pulso do Simão.
 
-O Simão não o viu ir. Sentiu-o deixar de estar ao lado dele e, três segundos depois, ouviu-o, por cima do motor, no único som que naquela noite foi mais alto do que o motor: o batente de ferro a encostar à ombreira, e depois as alavancas a fechar, uma, duas, quatro, cada uma com o seu estalo.
+O Simão não o viu ir. Sentiu-o deixar de estar ao lado dele e, três segundos depois, ouviu-o, por cima do motor, no único som que naquela noite foi mais alto do que o motor: o batente de ferro a encostar à ombreira, e depois as alavancas a fechar, uma, duas, três, quatro, cada uma com o seu estalo.
 
 A luz do Stroud ficou do outro lado. Tinha uma escada para o convés e o rio todo à volta. Não lhe faltava saída nenhuma. Faltava-lhe só aquela.
 
@@ -240,7 +240,7 @@ O pai não se mexeu.
 
 — Enganei-me num sinal. Num artigo. Um sinal, um menos que devia ser um mais. — O motor engoliu metade da frase e ele repetiu-a. — Enganei-me num sinal e o mundo inteiro viu.
 
-Ficou à espera de «Isso é conversa». Não veio.
+Ficou à espera da frase de sempre. Não veio.
 
 O pai aproximou a boca da orelha dele. Cheirava a suor e a óleo, o cheiro que nem a reforma lhe tirara das mãos.
 
@@ -280,7 +280,7 @@ Ficou a olhar para as mãos dela. A Nell soube o que ele estava a ver. Nunca, nu
 
 Na vedação, por trás dos eucaliptos, acenderam-se faróis. Dois carros. Um deles com uma luz azul a rodar no tejadilho, sem sirene, a pintar os troncos de azul e de escuro, de azul e de escuro.
 
-O Marr não se virou para eles. Fechou a mão esquerda sobre a direita, à frente do casaco, devagar, como um homem num cais de Marselha que acabou de perceber que alguém sabia antes dele.
+O Marr não se virou para eles. Fechou a mão esquerda sobre a direita, à frente do casaco, devagar, como um rapaz num cais de Marselha que acabara de perceber que alguém sabia antes dele.
 
 — Foi a senhora.
 
@@ -366,7 +366,7 @@ O homem do SIS olhou para os três, para o rio e para o relógio, e foi telefona
 
 Do outro lado do rio, Lisboa continuava acesa. Ainda se ouvia, a espaços, uma marcha a vir por cima da água.
 
-O Simão abriu a mochila e tirou o portátil sem saber porquê. Sabia. As mãos tinham feito aquilo todas as noites durante quinze meses, e não perguntavam licença.
+O Simão abriu a mochila e tirou o portátil. As mãos tinham feito aquilo todas as noites durante quinze meses e não pediam licença.
 
 Levantou a tampa. O ecrã acendeu onde o tinham deixado, na carrinha, com a pergunta de outro homem e a resposta que nenhum dinheiro comprara:
 

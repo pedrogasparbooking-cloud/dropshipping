@@ -12,7 +12,7 @@ Nessa manhã tinha duzentas e trinta e oito.
 
 Leu-a quatro vezes. Tinha maiúscula, o til no sítio e ponto final. Era a letra dele, se aquilo fosse letra: a de um homem que corrige os acentos aos outros e depois pede desculpa. Pensou no Rico, cuja Joana deixara de atender em dezembro. Um homem a quem uma mulher deixa de atender escreve coisas assim. Pensou que podia ser só isso: um aviso de lado, sobre outra Joana, noutra cozinha.
 
-A chaleira apitou e ele só a ouviu quando já gritava.
+A cafeteira chiou ao lume e ele só deu por ela quando o café já transbordava.
 
 Era primeiro de abril. Durante um segundo achou que era isso, uma partida, e depois lembrou-se de que nenhum dos seis tinha graça nenhuma às oito da manhã.
 
@@ -76,7 +76,7 @@ O pai estava ao fogão, de chinelos, porque os sapatos de sair já não lhe entr
 
 — Eu atendo sempre. — Pousou a terrina no oleado. — Feijão-verde.
 
-Comeram. O rádio dava o trânsito na ponte. O Gonçalo explicou ao pai, com a colher no ar, que os autocarros de Londres não tombam nas curvas porque têm o peso todo em baixo, e o pai disse que os cacilheiros eram iguais, que quem os fez sabia o que fazia, e durante dez minutos os dois falaram de lastro como dois engenheiros. A Joana não olhou para o Simão uma única vez. Partiu o pão dela em quatro e não comeu nenhum dos quatro. O Simão contou as colheradas do pai, porque era o que fazia quando não sabia onde pôr os olhos, e reparou que o pai parava a meio da sopa para respirar, como quem sobe um degrau.
+Comeram. O rádio dava o trânsito na ponte. O Gonçalo explicou ao pai, com a colher no ar, que os autocarros de Londres não tombam nas curvas porque têm o peso todo em baixo, e o pai disse que os cacilheiros eram iguais, que quem os fez sabia o que fazia, e durante dez minutos os dois falaram de lastro como dois engenheiros. A Joana não olhou para o Simão uma única vez. Partiu o pão dela em quatro e não comeu nenhum dos quatro. O Simão contou as colheradas do pai, porque era o que fazia quando não sabia onde pôr os olhos, e reparou que o pai parava a meio da sopa para respirar, de boca aberta, antes de voltar à colher.
 
 Às dez e dez, pelo relógio da parede, a Joana levantou-se. À porta, com o Gonçalo já no passeio a decompor a matrícula de um carro estacionado, tirou da mala uma chave presa a um anel de plástico azul, a chave do T1 que ele lhe dera em dezembro embrulhada numa ficha de exercícios, e mostrou-lha na palma da mão.
 
@@ -92,7 +92,7 @@ Na manhã seguinte, a terceira.
 
 «Guarda o portátil fora de casa.»
 
-O Simão olhou para a mochila pendurada nas costas da cadeira. Desde março, o portátil não lhe saía das costas: ia com ele ao Pingo Doce, ao multibanco, à casa de banho do café do rés-do-chão, onde a dona já não fazia perguntas. Guardá-lo fora de casa era guardá-lo longe dele. Não obedeceu.
+O Simão olhou para a mochila pendurada nas costas da cadeira. Desde março, tirando as quintas, o portátil não lhe saía das costas: ia com ele ao Pingo Doce, ao multibanco, à casa de banho do café do rés-do-chão, onde a dona já não fazia perguntas. Guardá-lo fora de casa era guardá-lo longe dele. Não obedeceu.
 
 Foi a terceira linha que o fez parar. Uma era sobre a Joana, e podia ser de alguém que perdera a sua. Outra era sobre um polícia, e podia ser do Caçado. Esta não era sobre ninguém. Era uma instrução, e alguém a escrevera a pensar no sítio onde o portátil dele dormia.
 
@@ -108,7 +108,7 @@ Conhecia aquela voz. Era a do Quieto, o que quase não usava a janela, o que esc
 
 O alívio veio primeiro e durou pouco. Se nenhum homem com a cara dele pensava aquilo da Joana, então a linha não vinha de lado nenhum. E, se não vinha de lado nenhum, vinha daqui.
 
-Releu as três. Desde outubro, quando falavam uns com os outros, os seis escreviam no plural: não usem às terças, não viajem, façam tudo funcionar sem vocês. Quando escreviam no singular, escreviam para si próprios. Estas três falavam com um homem só, e não era quem as escrevera.
+Releu as três. Desde novembro, quando falavam uns com os outros, os seis escreviam no plural: não usem às terças, não viajem, façam tudo funcionar sem vocês. Quando escreviam no singular, escreviam para si próprios. Estas três falavam com um homem só, e não era quem as escrevera.
 
 Alguém que só conhecia um Simão.
 
@@ -224,7 +224,7 @@ Viu o Simão chegar e não se levantou.
 
 — As quintas — disse o Simão.
 
-O Rui olhou para a cerveja. Durante muito tempo, nenhum dos dois disse nada, e a música das duas portas continuou a discutir.
+O Rui olhou para a cerveja. Durante um bocado, nenhum dos dois disse nada, e a música das duas portas continuou a discutir.
 
 — Fui eu — disse o Rui.
 

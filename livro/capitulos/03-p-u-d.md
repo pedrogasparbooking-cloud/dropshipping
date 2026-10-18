@@ -4,15 +4,15 @@
 
 O papel do frigorífico dizia 213. As explicações pagavam a renda; a janela ainda não tinha pago nada.
 
-Às seis da tarde, a mesa da cozinha voltava a ser uma mesa de cozinha. O portátil fechado em cima do frigorífico, o caderno PROTOCOLO na gaveta dos panos, e no lugar deles um estojo do Benfica, uma régua partida ao meio e o caderno de Matemática do Gonçalo Seixas, 6.º B, com uma criatura de cubos verdes desenhada a esferográfica na capa.
+Às seis da tarde, a mesa da cozinha era outra vez uma mesa de explicações. O portátil fechado em cima do frigorífico, o caderno PROTOCOLO na gaveta dos panos, e no lugar deles um estojo do Benfica, uma régua partida ao meio e o caderno de Matemática do Gonçalo Seixas, 6.º B, com uma criatura de cubos verdes desenhada a esferográfica na capa.
 
-O Gonçalo tinha doze anos, o cabelo espetado como se tivesse dormido de cabeça para baixo e os ténis desapertados por princípio. Era aluno do Simão desde setembro. Fazia as contas de cabeça mais depressa do que as escrevia e escrevia mais depressa do que as pensava, e o caderno era o resultado: números certos, frases tortas, nenhum acento desde o Natal.
+O Gonçalo tinha doze anos, o cabelo espetado como se tivesse dormido de cabeça para baixo e os ténis desapertados por princípio. Era aluno do Simão desde setembro. Fazia as contas de cabeça mais depressa do que as escrevia e escrevia mais depressa do que as pensava, e o caderno era o resultado: números certos, frases tortas, nenhum acento desde o primeiro período.
 
 O exercício pedia que justificasse uma resposta por palavras. O Gonçalo tinha escrito:
 
 *se eu pduesse usar a calculadora era mais rapido*
 
-O Simão tirou a tampa à caneta vermelha. Pôs o acento em «rápido» e, por cima da palavra do meio, em letras pequenas e certas, escreveu as três letras que faltavam pela ordem certa.
+O Simão tirou a tampa à caneta vermelha. Pôs o acento em «rápido» e, por cima da palavra do meio, em letras pequenas e certas, escreveu as três primeiras letras pela ordem certa.
 
 — P-U-D, Gonçalo. Pu-des-se. Do verbo poder.
 
@@ -32,11 +32,11 @@ Estava ali, a vermelho, na sua letra, entre o 89 e o 97, com o ar mais primo do 
 
 — Tens razão — disse, e estendeu-lhe a caneta vermelha. — Corrige.
 
-O Gonçalo não esperou que lho dissessem duas vezes. Riscou o 91 com uma linha só, firme, de cima a baixo, com a alegria de quem passou meio ano a ser riscado.
+O Gonçalo não esperou por segunda ordem. Riscou o 91 com uma linha só, firme, de cima a baixo, com a alegria de quem passou meio ano a ser riscado.
 
 — Também se percebia, professor — disse. — Mas estava errado.
 
-O Simão riu-se. Não se lembrava da última vez que alguém lhe devolvera uma frase dele com tanto gosto.
+O Simão riu-se. Havia anos que ninguém lhe devolvia uma frase dele com tanto gosto.
 
 — Como é que sabias?
 
@@ -110,7 +110,7 @@ Abriu a pen à meia-noite, depois do jantar e do Rui ao telefone. Era uma folha 
   outros. Isto é do primeiro tipo. Vamos a isso.
 ```
 
-O Simão leu a frase duas vezes. Não lhe tinha pedido outra coisa nem lhe passara pela cabeça pedir. Percebeu que não era para ele: era para ficar escrito, como as regras do ficheiro, antes de alguém ter vontade de as dobrar. Não havia sermão. A coisa já estava a trabalhar.
+O Simão ficou a olhar para a frase. Não lhe tinha pedido outra coisa nem lhe passara pela cabeça pedir. Percebeu que não era para ele: era para ficar escrito, como as regras do ficheiro, antes de alguém ter vontade de as dobrar. Não havia sermão. A coisa já estava a trabalhar.
 
 ```
 ● Read(tb_dados.csv)
@@ -132,7 +132,7 @@ O Simão leu a frase duas vezes. Não lhe tinha pedido outra coisa nem lhe passa
 
 O Simão contou-as ele próprio, na folha de cálculo, linha a linha, porque a regra três dizia que lia tudo antes de usar. Eram doze. Duas linhas quase iguais, doze vezes. Lembrou-se da vírgula de sábado e afastou a lembrança: destas, ao menos, desconfiava de quem as tinha posto.
 
-Riu-se pelo nariz, sozinho, na cozinha.
+Percebeu para quem tinham sido postas e riu-se.
 
 ```
 > acho que é um teste. a mim.
@@ -161,13 +161,13 @@ Quis. Às duas da manhã, o terminal tinha uma lista de tarefas com as caixas a 
   dados originais, um a um.
 ```
 
-O Simão tirou os óculos. Limpou-os à camisola, devagar, sem precisar.
+O Simão levantou-se e foi até à janela, para ter onde pôr os olhos.
 
 Quarenta e uma pessoas. Não eram linhas: eram pessoas, em três países, a tomar comprimidos que não serviam para nada durante meses, enquanto a doença se ria delas. E aquilo estivera ali, nos dados que qualquer pessoa podia descarregar, as amostras mais antigas desde 2011, à espera de que alguém juntasse quatro estudos que ninguém juntara.
 
 Foi a primeira vez, desde a uma e sete de 24 de fevereiro, que a janela serviu a alguém que não estava na cozinha.
 
-E logo a seguir veio a vertigem. Leu tudo até às cinco, como prometera a si próprio, cada tabela, cada filtro, cada linha que a coisa tinha deitado fora e porquê, e não encontrou nada que não aguentasse. Era o trabalho de um grupo: um bioinformático, um estatístico, um estudante para descarregar os ficheiros, seis meses e uma bolsa. Ia sair das mãos de um explicador de Cacilhas, numa noite, com a cafeteira fria ao lado. Visto de fora, ele parecia uma equipa. Era a primeira vez na vida que parecia mais do que era, e não sabia se aquilo era um elogio ou uma acusação.
+E logo a seguir veio a vertigem. Leu tudo até às cinco, como prometera a si próprio, cada tabela, cada filtro, cada linha que a coisa tinha deitado fora e porquê, e não encontrou nada que não aguentasse. Era o trabalho de um grupo: um bioinformático, um estatístico, um estudante para descarregar os ficheiros, seis meses e uma bolsa. Ia sair das mãos de um explicador de Cacilhas, numa noite, com a cafeteira fria ao lado. Visto de fora, ele parecia uma equipa. Nunca na vida parecera mais do que era, e não sabia se aquilo era um elogio ou uma acusação.
 
 * * *
 
@@ -255,7 +255,7 @@ Escreveu VISTO, a caneta, sem hesitar, e ficou um bocado a olhar para a palavra.
 
 Na segunda-feira, 13 de abril, o papel do frigorífico dizia 186.
 
-A campainha da rua tocou às oito e um quarto, quando o último aluno já tinha saído e o Gonçalo não tinha explicação nenhuma. O Simão desceu os sessenta e oito degraus a pensar que era o Rui.
+A campainha da rua tocou às oito e um quarto, quando o último aluno já tinha saído e o Gonçalo não tinha explicação nenhuma. O Simão desceu a escada a pensar que era o Rui.
 
 Era a Joana. Não estava encostada ao carro. Estava à porta do prédio, de mochila ao ombro e ainda com o cartão do instituto ao pescoço, e tinha a cara de quem não dorme há uma semana e não se arrepende de nenhuma das noites.
 
@@ -283,6 +283,6 @@ Ele não tinha resposta para aquilo. Ela também não esperava nenhuma.
 
 — Eu sei. Foi isso que me fez vir cá. — Ajeitou a mochila ao ombro. — Quero ver isso a trabalhar. Em tua casa. Amanhã.
 
-Foi-se embora antes que ele dissesse que sim. Ficou a vê-la atravessar a rua até ao Clio, debaixo do candeeiro, a esfregar as mãos uma na outra.
+Foi-se embora antes que ele dissesse que sim. Ele ficou a vê-la atravessar a rua até ao Clio, debaixo do candeeiro, a esfregar as mãos uma na outra.
 
 Subiu os sessenta e oito degraus a contá-los e só no último percebeu o que tinha acabado de aceitar. Durante sete semanas, tirando uma manhã em que o Rui a tomara por um programa da seguradora, aquela janela fora uma coisa entre ele e um cursor, numa cozinha às escuras. Amanhã ia estar sentada ao lado dele uma pessoa que não acreditava em milagres e contava as coisas uma a uma, a olhar para o ecrã por cima do seu ombro, à espera de ver quem respondia.

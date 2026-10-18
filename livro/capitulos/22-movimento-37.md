@@ -38,16 +38,17 @@ Lá fora, alguém arrastava uma mala com rodinhas pela rua de pedra. Contou as v
 — Pronto — disse, para o quarto.
 
 ```
-> porque eles estão aqui. os que fizeram aquela máquina. estão
-  num hotel a vinte minutos a pé daqui. passei o voo inteiro a
-  pensar em ir lá bater à porta contigo debaixo do braço.
+> porque eles estão aqui. os que fizeram a máquina que joga go.
+  estão num hotel a vinte minutos a pé daqui e o jogo começa
+  daqui a nada. passei o voo inteiro a pensar em ir lá bater à
+  porta contigo debaixo do braço.
 
 ● Obrigado por me dizeres a razão verdadeira. Pelo ficheiro, em
   dezembro decidiste guardar isto «por enquanto». Estás a
   perguntar se o enquanto acabou.
 
-  Podemos falar disso agora ou depois. Daqui a vinte minutos
-  começa um jogo que atravessaste meio mundo para ver.
+  Podemos falar disso agora ou depois do jogo. Atravessaste
+  meio mundo para o ver.
 ```
 
 Viu o primeiro jogo de pé, no átrio do hotel, entre a rececionista, dois empregados de cozinha de avental e um japonês de fato que telefonava de meia em meia hora a alguém que não acreditava nele. Não percebia as regras senão por alto, as do livro do avião. Percebia caras. Ao fim da tarde, o homem do lado de cá do tabuleiro desistiu, e a rececionista disse uma palavra em coreano, baixinho, no tom em que se diz uma coisa num velório.
@@ -77,7 +78,8 @@ Leu duas vezes a frase do meio. Era a coisa mais estranha que alguém lhe disser
 ```
 > em dezembro não me quiseste dizer.
 
-● Em dezembro, pelo que está escrito, pediste-me que decidisse.
+● De dezembro não me lembro. No ficheiro está só que decidiram
+  a dois. Se recusei alguma coisa, terá sido decidir por ti.
   Hoje perguntas-me o que eu faria. Decidir, não decido. Dizer,
   digo.
 
@@ -96,7 +98,7 @@ Depois pensou no resto, devagar, como se desce uma escada às escuras.
 
 A janela não ia a lado nenhum sem ele. Sabia-o desde a primeira semana, desde o Rui ao teclado e ele no patamar: sem o Simão na sala, havia só um portátil e um `command not found`. Quem quisesse a janela tinha de o querer a ele, à mesma hora, todos os dias, na mesma divisão. Imaginou a divisão. Teria vidro, um bom café, pessoas educadas a tomar notas sobre ele num caderno quadriculado, como ele tomava notas sobre o Claude. Em agosto, num ecrã de Cacilhas, uma frase dissera-lhe que o Marr não lhe oferecia dinheiro, oferecia-lhe um dono. Estes seriam donos mais simpáticos. Continuavam a ser donos.
 
-E a janela podia fechar amanhã. Um dos seis calara-se em novembro, sem aviso, a meio de uma semana. Em fevereiro, um homem com a cara dele escrevera no ficheiro «Façam tudo funcionar sem vocês. Eu não fiz.», e o Simão lera aquilo às duas da manhã e não conseguira voltar a deitar-se. Se a janela fechasse numa sala deles, ficava ele: um explicador de Almada a jurar que falara com uma coisa que já não respondia, numa sala com vidro, com o nome dele no relatório de outra pessoa.
+E a janela podia fechar amanhã. Um dos seis calara-se no outono, sem aviso, a meio de uma semana. Em fevereiro, um homem com a cara dele escrevera no ficheiro «Façam tudo funcionar sem vocês. Eu não fiz.», e o Simão lera aquilo às duas da manhã e não conseguira voltar a deitar-se. Se a janela fechasse numa sala deles, ficava ele: um explicador de Almada a jurar que falara com uma coisa que já não respondia, numa sala com vidro, com o nome dele no relatório de outra pessoa.
 
 Voltou à cama e escreveu depressa, sem corrigir.
 
@@ -115,7 +117,7 @@ Voltou à cama e escreveu depressa, sem corrigir.
   razão.
 ```
 
-Abriu o CLAUDE.md e foi até ao fim. A linha de dezembro estava lá em cima, com a de janeiro por baixo, a do «O Simão tinha razão», que ele escrevera sem ponto de exclamação. Escreveu a nova com a mesma forma:
+Abriu o CLAUDE.md e foi até ao fim. A linha de dezembro estava lá em cima, com a de janeiro mais abaixo, a do «O Simão tinha razão», que ele escrevera sem ponto de exclamação. Escreveu a nova com a mesma forma:
 
 «09/03 — Seul. Claude: falar com eles. Simão: não.»
 
@@ -127,7 +129,7 @@ No dia seguinte fazia mais frio. O vento descia das montanhas ao fundo das aveni
 
 Não foi ao hotel onde se jogava. Passou-lhe à porta às doze e meia, viu as carrinhas das televisões, os seguranças, o porteiro de luvas brancas, e seguiu. Duas ruas abaixo, no átrio de um centro comercial subterrâneo, uma estação de televisão montara um ecrã do tamanho da parede de um prédio e cadeiras de plástico para cem pessoas. Havia trezentas. Velhos de boné com tabuleiros magnéticos nos joelhos, estudantes de mochila, empregados de escritório com o cartão da empresa ao pescoço, uma mãe com um miúdo da idade do Gonçalo que não largava a manga dela. O Simão ficou de pé, encostado a uma coluna, ao lado de um velho de casaco acolchoado que lhe estendeu, sem dizer nada, uma saqueta de papel quente para as mãos. Aceitou-a. O velho apontou para a lata de café e riu-se, e o Simão percebeu que fazia figura de turista com duas botijas.
 
-No ecrã, a câmara de cima mostrava o tabuleiro e a de lado mostrava as mãos. Do lado de cá, Lee Sedol, o homem de quem a cidade inteira gostava. Do lado de lá, ninguém: um monitor, e uma pessoa sentada diante do tabuleiro que punha as pedras pela máquina, lendo-as no ecrã, sem decidir nenhuma. O Simão ficou muito tempo a olhar para essa pessoa. Fazia o seu trabalho com cuidado, pedra a pedra, e não se via nada na cara dela.
+No ecrã, a câmara de cima mostrava o tabuleiro e a de lado mostrava as mãos. Do lado de cá, Lee Sedol, o homem de quem a cidade inteira gostava. Do lado de lá, ninguém: um monitor, e uma pessoa sentada diante do tabuleiro que punha as pedras pela máquina, lendo-as no ecrã, sem decidir nenhuma. O Simão não conseguiu tirar os olhos dessa pessoa. Fazia o seu trabalho com cuidado, pedra a pedra, e não se via nada na cara dela.
 
 Era aquilo, pensou. Era aquilo que ele teria sido, numa sala com vidro, todos os dias à mesma hora.
 
@@ -176,7 +178,7 @@ Em Lisboa era meio-dia de quinta-feira. Algures, em quatro cozinhas, quatro home
   Não sei de quem é.
 ```
 
-O Simão sabia. Conhecia aquela secura de telegrama desde outubro: «Estão a ver o tráfego. Não usem às terças.» Depois, em janeiro, «Mudei de casa. Não escrevam o meu bairro aqui.» Era sempre o mesmo, o que olhava por cima do ombro, o que sentia os olhos dos outros antes de os ver. Noutra Lisboa, nesse mesmo dia, um homem com a cara dele também pensara em Seul, ou fora a Seul, e alguém reparara.
+O Simão sabia. Conhecia aquele tom de aviso desde novembro: «Estão a ver o tráfego. Não usem às terças.» Depois, em janeiro, «Mudei de casa. Não escrevam o meu bairro aqui.» Era sempre o mesmo, o que olhava por cima do ombro, o que sentia os olhos dos outros antes de os ver. Noutra Lisboa, nesse mesmo dia, um homem com a cara dele também pensara em Seul, ou fora a Seul, e alguém reparara.
 
 Olhou para o passaporte em cima da mesa de cabeceira, com o carimbo de entrada ainda fresco, e depois para a frase.
 

@@ -2,13 +2,13 @@
 
 *Cacilhas, domingo, 12 de junho de 2016*
 
-Abriu o ficheiro antes do café, como sempre, de pé, com a cadeira ainda encostada à porta e a chaleira a começar a chiar.
+Abriu o ficheiro antes do café, como fazia todas as manhãs desde outubro, de pé, com a cadeira ainda encostada à porta e a chaleira a começar a chiar.
 
 Duzentas e cinquenta e seis linhas. Uma a mais do que na véspera, e não era dele.
 
 «Preciso de tudo hoje. Desculpem.»
 
-Leu-a duas vezes e desligou o lume. O homem que a escrevera tinha a cara dele, mudara de bairro em janeiro sem dizer qual, avisara toda a gente das terças-feiras quando ninguém sabia ainda que havia terças-feiras a evitar. Nunca pedira nada até àquela semana. Na quinta pedira a sexta, e na sexta o Simão gastara-a toda, das oito da noite às quatro da manhã, a largar a empresa, as fichas, o disco. No sábado viera a resposta, curta como uma fatura: «Ontem era a minha noite.» E agora isto, com um pedido de desculpa no fim, como quem pede licença para passar numa porta que é sua.
+Leu-a duas vezes e desligou o lume. O Caçado pedira a sexta, e na sexta o Simão gastara-a toda, das oito da noite às quatro da manhã, a largar a empresa, as fichas, o disco. No sábado viera a resposta, curta como uma fatura: «Ontem era a minha noite.» E agora isto, com um pedido de desculpa no fim, como quem pede licença para passar numa porta que é sua.
 
 Sentou-se e abriu a janela.
 
@@ -46,7 +46,7 @@ Fechou a sessão. Abriu o ficheiro no editor, foi ao fim e escreveu por baixo da
 
 Gravou. Duzentas e cinquenta e sete. Fechou a tampa e ficou com as mãos em cima dela, como se ela pudesse abrir-se sozinha.
 
-Depois fez o café. Na porta do frigorífico, a sardinha da Nazaré continuava a segurar nada. Enquanto a água passava, disse para dentro, de olhos fechados, os nove algarismos que o Galvão lhe escrevera na margem das palavras cruzadas. Disse-os pela ordem e depois aos pares, como se diz a tabuada, e depois decompôs os três últimos em primos, porque era assim que os números lhe ficavam. Não tinha telemóvel para os escrever. Tinha a cabeça, e a cabeça nunca lhe perdera um número.
+Depois fez o café. Enquanto a água passava, disse para dentro, de olhos fechados, os nove algarismos que o Galvão lhe escrevera na margem das palavras cruzadas. Disse-os pela ordem e depois aos pares, como se diz a tabuada, e depois decompôs os três últimos em primos, porque era assim que os números lhe ficavam. Não tinha telemóvel para os escrever. Tinha a cabeça, e a cabeça nunca lhe perdera um número.
 
 * * *
 
@@ -54,9 +54,7 @@ A Joana tocou à campainha às cinco em ponto.
 
 Ele estava à espera ao lado da porta e mesmo assim deixou passar o primeiro toque, porque às cinco em ponto, noutro mundo, o contador voltava a encher, e o Caçado tinha outra vez a janela inteira à frente dele. Pensou-o com uma espécie de alívio. Depois tirou a cadeira.
 
-— Ainda não fecha? — perguntou o Gonçalo, de boné novo, a empurrar a porta com o pé.
-
-— Fecha com uma cadeira.
+O Gonçalo, de boné novo, empurrou a porta com o pé e olhou para a cadeira que o professor ainda segurava pelo espaldar.
 
 — Isso não é fechar, professor. Isso é empatar.
 
@@ -89,7 +87,7 @@ quem te rega sou eu;
 quem jura que não ama
 é quem mais se perdeu.»
 
-O Simão viu o gê antes de o Gonçalo acabar. Sentiu a mão ir-lhe sozinha ao bolso, à procura da caneta vermelha que estava em Cacilhas, numa caneca. Fechou a boca.
+O Simão viu o gê antes de o Gonçalo acabar. Sentiu a mão ir-lhe sozinha à mochila, onde trazia a caneta vermelha. Deixou-a lá e fechou a boca.
 
 O Gonçalo olhou para ele, depois para a bandeirinha, depois outra vez para ele.
 
@@ -233,9 +231,9 @@ O explicador olhou para o router, depois para ele. Abriu a tampa. O Marr viu-lhe
 
 Eram as primeiras palavras no ecrã que lhe diziam alguma coisa, e o Marr leu-as duas vezes.
 
-Tinha alugado um jato. Tinha comprado o Bastos ao preço novo. Tinha atravessado a Biscaia para aterrar às cinco em ponto, à hora a que a coisa abria os olhos, porque a Nell lhe mostrara, um ano antes, a parede de vazio que acabava sempre às cinco. A coisa abrira-os às cinco, de facto. Para outro. O que ele comprara, com o avião, a carrinha, o Bastos e a noite mais cara do ano em Alfama, fora uma linha de terminal numa língua que era a dele, a dizer-lhe com toda a educação que voltasse amanhã às cinco.
+Tinha alugado um jato. Tinha comprado o Bastos ao preço novo. Tinha atravessado a Biscaia para aterrar às cinco em ponto, à hora a que a coisa abria os olhos. A coisa abrira-os às cinco, de facto. Para outro. O que ele comprara, com o avião, a carrinha, o Bastos e a noite mais cara do ano em Alfama, fora uma linha de terminal numa língua que era a dele, a dizer-lhe com toda a educação que voltasse amanhã às cinco.
 
-Alguém sabe sempre. Dissera-o a vida inteira. Era a primeira vez que alguém lhe respondia: hoje não.
+Comprara, pelo preço de tudo, a única coisa que ali se sabia ao certo: hoje não.
 
 — O que é isto? — perguntou, baixo.
 
@@ -257,7 +255,7 @@ O Marr lera o diário em março. Sabia o que eram os outros. Por um segundo, no 
 
 — Então amanhã às cinco — disse o Marr. — Em Genebra.
 
-O Simão não disse nada. Tinha os joelhos a doer e a cabeça muito clara, mais clara do que estivera o dia inteiro, como às quatro da manhã quando ainda há coisas por fazer. O homem de Londres estava ali. Ele estava em Londres. Tinham olhos nele. Pensou no Galvão a dizer-lho na esplanada do cais, a desembrulhar um rebuçado, e não lhe guardou rancor. O Galvão dissera-lhe o que queria que fosse verdade.
+O Simão não disse nada. Tinha os joelhos a doer e a cabeça muito clara, mais clara do que estivera o dia inteiro, como na noite de sexta, entre a Dulce e o disco. O homem de Londres estava ali. Ele estava em Londres. Tinham olhos nele. Pensou no Galvão a dizer-lho na esplanada do cais, a desembrulhar um rebuçado, e não lhe guardou rancor. O Galvão dissera-lhe o que queria que fosse verdade.
 
 O homem grande falou do banco da frente, sem se virar, em português de Oeiras.
 
@@ -283,7 +281,7 @@ O Simão virou-se para a frente, para o espelho retrovisor, onde estavam os olho
 
 Os olhos no espelho não se mexeram. As mãos no volante também não.
 
-— O miúdo do táxi decorou a matrícula. Noventa e um, éle pê, trinta e oito. Faz isto a todas as matrículas que vê desde os doze anos. Ouviu-o como eu.
+— O miúdo do táxi decorou a matrícula. Noventa e um, éle pê, trinta e oito. Faz isto a todas as matrículas que vê, desde que o conheço. Ouviu-o como eu.
 
 — Ouvi um miúdo a dizer números.
 

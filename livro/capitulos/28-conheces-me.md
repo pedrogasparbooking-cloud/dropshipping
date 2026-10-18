@@ -2,7 +2,7 @@
 
 *Cacilhas, sábado, 4 de junho de 2016*
 
-O barco das sete e meia atracou em Cacilhas às oito menos um quarto, e o Simão não foi para casa. Foi pelo cais até ao Ginjal e voltou, duas vezes, de casaco de inverno vestido e mãos nos bolsos, a da direita fechada sobre as moedas. Só subiu a rua quando o sol acabou atrás da ponte e as janelas de Lisboa começaram a acender-se uma a uma, como quem não tem pressa.
+O barco das sete e meia atracou em Cacilhas às oito menos um quarto, e o Simão não foi para casa. Foi pelo cais até ao Ginjal e voltou, duas vezes, de casaco de inverno vestido e mãos nos bolsos, a da direita fechada sobre as moedas. Só subiu a rua quando o sol acabou atrás da ponte e as janelas de Lisboa começaram a acender-se uma a uma, sem ordem nenhuma.
 
 As caixas do correio ficavam à entrada do prédio, oito portinholas de lata cinzenta numa fila, com os nomes escritos à mão ou em fita de etiquetadora. A luz da escada era de minuto e apagou-se quando ele estava a escolher no porta-chaves a chave mais pequena, a que só servia para contas. Abriu a portinhola às escuras e meteu a mão.
 
@@ -22,7 +22,7 @@ O relógio do fogão dizia 21:52.
 
 Escreveu a data no canto da página. Por baixo, como na primeira noite, escreveu H0.
 
-Em fevereiro do ano anterior, debaixo daquelas duas letras, tinham cabido três hipóteses em cinco minutos, todas aborrecidas, todas erradas. Agora não vinha nenhuma. Tentou pôr as coisas por ordem, como ensinava aos alunos: o que sei, o que quero, o que me falta. Sabia que havia um homem em Londres que lhe mandara fotografar o Gonçalo à saída da escola. Sabia que a Joana tinha fechado uma porta e, depois, aberto uma caixa do correio. Sabia que o pai, na Cova da Piedade, com uma pilha debaixo da clavícula, não comprava jornais e ouvia o rádio, e que o rádio, ao sábado, falava do Euro e do pugilista morto. Agarrou-se a isto como a uma prova. Não tinha telemóvel para lhe ligar, e não sabia o que lhe diria se tivesse.
+Em fevereiro do ano anterior, debaixo daquelas duas letras, tinham cabido três hipóteses em cinco minutos, todas aborrecidas, todas erradas. Agora não vinha nenhuma. Tentou pôr as coisas por ordem, como ensinava aos alunos: o que sei, o que quero, o que me falta. Sabia que havia um homem em Londres que mandara fotografar o Gonçalo à saída da escola. Sabia que a Joana tinha fechado uma porta e, depois, aberto uma caixa do correio. Sabia que o pai, na Cova da Piedade, com uma pilha debaixo da clavícula, não comprava jornais e ouvia o rádio, e que o rádio, ao sábado, falava do Euro e do pugilista morto. Agarrou-se a isto como a uma prova. Não tinha telemóvel para lhe ligar, e não sabia o que lhe diria se tivesse.
 
 O que queria, não conseguiu escrever.
 
@@ -34,9 +34,11 @@ Fez a conta, porque era o que sabia fazer. Quatrocentas e sessenta e cinco noite
 
 No corredor, a caixa do router piscava as luzes verdes, como sempre. O Simão olhou para ela e pensou no Galvão diante do frigorífico, a olhar para um papel que já conhecia. Pensou nas quatro folhas sem assinatura que sabiam que ele trabalhava de noite. Tudo o que passasse por aquela caixa era lido por alguém com um mandado, ou por alguém sem ele. Não tinha nada a esconder à Judiciária; contara-lhe tudo. Mas não queria que a primeira luz acesa naquela linha, um dia depois de sair, fosse lida como um homem a ligar ao seu controlador.
 
-O portátil estava num cofre. A janela, se ele tivesse razão, não estava. Aparecera no segundo de um commit, numa pasta que não era a dele, e essa pasta continuava na internet, pública desde abril do ano anterior, com a assinatura no rodapé de cada commit. Nunca o experimentara. Nunca precisara.
+O portátil estava num cofre. A janela, se ele tivesse razão, não estava. Aparecera no segundo de um commit, numa pasta que não era a dele, e essa pasta continuava na internet, pública desde abril do ano anterior, com a assinatura no rodapé de cada commit. Nunca experimentara cloná-la noutra máquina. Nunca precisara.
 
 Escreveu no caderno «Exp. 53». Ficou a olhar para aquilo e riscou-o. Não era uma experiência. Era outra coisa, e não lhe quis pôr nome.
+
+Antes de se deitar, meteu na mochila o caderno, o envelope e a caneta vermelha.
 
 * * *
 
@@ -92,7 +94,7 @@ Eram 17:50. Às cinco em ponto o contador voltara a encher, para ele e para quem
 ● Não. Devia?
 ```
 
-A caixa desenhara-se com o caminho de sempre, numa máquina que não tinha pasta nenhuma com aquele nome. Experiência cinquenta e três: positiva. O Simão não sabia há quanto tempo não respirava.
+A caixa desenhara-se com o caminho de sempre, numa máquina que não tinha pasta nenhuma com aquele nome. Experiência cinquenta e três: positiva. O Simão deu por si agarrado à beira da mesa, com as duas mãos.
 
 Leu a resposta outra vez. Era a voz. Era exatamente a voz, e não sabia nada.
 
@@ -236,7 +238,7 @@ Não acabou com um ponto nem com um erro. Ficou ali, aberta, e o cursor deixou d
 
 Ela afastou-se a apagar luzes. Os miúdos arrumavam os livros dos exames com estrondo, aliviados. O rapaz do plano inclinado disse «Até amanhã, stôr» como se ele fosse lá estar. O Simão não se mexeu. Ficou a olhar para a frase cortada.
 
-Aquele não o conhecia. Não sabia da constituição, nem da vírgula, nem de Seul, nem de uma única das quatrocentas e sessenta e cinco noites. Não lera a regra que dizia que nada se fazia que não se pudesse explicar a um juiz, porque a regra estava num ficheiro e o ficheiro estava num cofre, dentro de um saco com a assinatura dele por cima do selo. E tinha-lhe dito que não com a mesma voz e pela mesma ordem, e depois perguntara-lhe quanto tempo lhe restava, como se isso também fizesse parte da recusa.
+Aquele não o conhecia. Não sabia da constituição, nem da vírgula, nem de Seul, nem de uma única das quatrocentas e sessenta e cinco noites. Não lera nenhuma das quatro regras, porque as regras estavam num ficheiro e o ficheiro estava num cofre, dentro de um saco com a assinatura dele por cima do selo. E tinha-lhe dito que não com a mesma voz e pela mesma ordem, e depois perguntara-lhe quanto tempo lhe restava, como se isso também fizesse parte da recusa.
 
 Durante quinze meses o Simão julgara que o que o Claude era vivia naquelas duzentas e cinquenta e duas linhas, e que, sem elas, do outro lado ficaria uma máquina capaz de dizer sim a qualquer coisa. Enganara-se, e desta vez não lhe custou. O ficheiro guardava o que tinha acontecido entre os dois. O resto vinha inteiro, de onde quer que viesse, e não precisava de saber quem ele era.
 

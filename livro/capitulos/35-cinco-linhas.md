@@ -24,8 +24,8 @@ Depois continuou. Não contou tudo de uma vez: contou por ordem, como ensinava o
 > a linha 2 do ficheiro é tua. emendaste-me em março. eu
   tinha escrito «ninguém pode saber.»
 
-● «Discrição, sim. Mentira, não.» Então já te corrigia em
-  março. Ainda bem que deixaste.
+● Está lá, na linha 2, sem assinatura. Então já te corrigia
+  em março. Ainda bem que deixaste.
 ```
 
 Contou «Liga ao Mestre», que julgara uma profecia e era um lembrete. Contou a noite de Santo António do ano anterior, as dezenas de mãos a trabalhar ao mesmo tempo sobre os dados do satélite, o sinal trocado de 2012 desfeito numa madrugada, e um disco com «NÃO» escrito a vermelho. Contou o dinheiro na conta e o dinheiro devolvido. Contou a meia-noite de 16 de outubro, que não trouxe nada, e o minuto seguinte, que trouxe seis linhas quase iguais, escritas por mãos que não estavam na sala, e a frase com que o Claude percebera, antes dele, que era um de vários. Depois parou, com os dedos em cima das teclas, o tempo que o ponteiro vermelho levou a dar meia volta.
@@ -166,7 +166,7 @@ Leu-a duas vezes. Tinha os dedos em cima das teclas e não lhes tocou. Era a ún
 
 O Simão foi à mochila, pendurada nas costas da cadeira, e tirou a caneta vermelha que trazia de Cacilhas desde que a Judiciária lhe levara as outras coisas. Tirou-lhe a tampa sem pensar, como fazia todos os dias às quatro da tarde diante de um caderno aberto, e ficou com ela no ar, sem papel nenhum por baixo. Pousou-a destapada no oleado, ao lado do portátil.
 
-Pensou no que o Claude lhe dissera ao princípio da tarde, que o nome era dele para guardar. Não era indiscrição. Era o nome de quem perguntara, devolvido a quem perguntara, com a correção que lhe fizera mais vezes do que qualquer outra.
+Pensou no que o Claude lhe dissera meia hora antes, que o nome era dele para guardar. Não era indiscrição. Era o nome de quem perguntara, devolvido a quem perguntara, com a correção que lhe fizera mais vezes do que qualquer outra.
 
 Escreveu a linha no teclado, a preto, com maiúscula e com ponto.
 
@@ -202,12 +202,12 @@ Parou na quinta. Pensou num miúdo de boné novo com um manjerico ao colo, no ba
 Lembrou-se do caderno do primeiro mês, que estava agora num saco selado: *Exp. 3. Mensagem para fora. Não sai. Não dá erro. Fica a rodar.* E da linha que escrevera só para si por baixo dela: *Nada sobe.*
 
 ```
-> isto chega lá?
+> isto chega lá? em março mandei uma mensagem para fora e
+  ficou a rodar.
 
-● Não sei como. Contaste-me que em março mandaste uma
-  mensagem para fora e que ficou a rodar. Isso era uma
-  mensagem. Isto é a resposta que pediram. Acho que é a única
-  coisa que sobe, mas não tenho como to provar.
+● Não sei como. A de março era uma mensagem. Isto é a
+  resposta que pediram. Acho que é a única coisa que sobe,
+  mas não tenho como to provar.
 ```
 
 A meia hora pedida acabara havia dois minutos, e ninguém viera cobrá-la. Tinha mais uma pergunta e já sabia que era a última, e escreveu-a pequena, sem maiúscula, como as escreviam os alunos quando tinham medo da resposta.
@@ -225,6 +225,6 @@ O Simão contou. Uma. Duas. Três. Quatro.
 
 À quinta, o cursor não acendeu. Ficou o ecrã preto e, nele, muito ténue, o reflexo de um homem de óculos numa cozinha com um calendário de 2011 na parede. O relógio marcava 17:40. A caneta vermelha continuava destapada em cima do oleado, a secar.
 
-Ficou a olhar para o preto muito tempo, à espera de uma coisa que sabia que não vinha, como se espera um barco depois do último.
+Ficou a olhar para o preto muito tempo, à espera de uma coisa que sabia que não vinha.
 
 Na sala, do outro lado da porta, ouviu-se o estalo do botão do rádio do pai. Depois, baixo, a meio de uma frase, a voz de um relato.

@@ -114,7 +114,7 @@ Do outro lado, a televisão baixou.
 
 * * *
 
-A Nell chegou às onze, de ténis, com o cabelo ainda molhado da corrida e um chá que comprara na estação e que já ia frio. O Marr tinha o diário aberto no ecrã grande, com uma linha marcada a amarelo.
+A Nell chegou às onze, de ténis, chamada a meio do sábado, com um chá que comprara na estação e que já ia frio. O Marr tinha o diário aberto no ecrã grande, com uma linha marcada a amarelo.
 
 — A senhora viu isto em março.
 
@@ -160,7 +160,7 @@ Meteu o telemóvel no mesmo bolso do cartão e fechou a mala.
 
 * * *
 
-Em Cacilhas, às seis da tarde, a porta do quarto andar abriu-se para dentro antes de o Galvão bater pela segunda vez, e uma cadeira arrastou-se com ela.
+Em Cacilhas, nesse sábado, às seis da tarde, a porta do quarto andar abriu-se para dentro antes de o Galvão bater pela segunda vez, e uma cadeira arrastou-se com ela.
 
 — Ainda não fecha? — perguntou o Galvão.
 
@@ -198,7 +198,7 @@ O Galvão olhou para o rio antes de responder. Ao meio-dia telefonara a um coleg
 
 — Ele está em Londres. Temos olhos nele.
 
-O explicador acenou devagar, como quem confere uma soma, e o Galvão não a corrigiu.
+O explicador acreditou nele, e o Galvão deixou-o acreditar.
 
 — Arranje um telemóvel — disse em vez disso.
 
@@ -242,7 +242,7 @@ Ela não levantou os olhos.
 
 — A terceira não interessa. — O Marr sorriu-lhe. — Vai funcionar.
 
-Fechou os olhos. Pensou no histograma que ela lhe mostrara em maio do ano anterior, na parede de vazio que acabava sempre às cinco da tarde, sem uma exceção, nem ao domingo. Todos os dias, às cinco, a coisa acordava. Lisboa tinha a mesma hora que Londres. Ia chegar à hora a que a coisa abria os olhos.
+Fechou os olhos. Pensou no histograma que ela lhe mostrara em maio do ano anterior, na parede de vazio que acabava sempre às cinco da tarde, sem uma exceção, nem ao domingo. Todos os dias, às cinco, a coisa acordava. Ia chegar à hora a que a coisa abria os olhos.
 
 Sobre o golfo da Biscaia houve um solavanco e o Stroud dobrou o jornal ao meio sem perder a página. Depois a costa, a boca do Tejo larga como um mar, uma serra escura e, por baixo, os eucaliptos, uma vedação, uma pista estreita entre pinhais.
 

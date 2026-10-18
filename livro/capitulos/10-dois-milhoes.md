@@ -2,7 +2,7 @@
 
 *Cacilhas, quinta-feira, 27 de agosto de 2015*
 
-A cafeteira ficou em cima do fogão, vazia. O Simão abriu o portátil primeiro, coisa que nunca fazia antes do café, e começou a escrever «lembras-te de ontem à noite» antes de se lembrar de que não. Apagou. A janela daquela manhã não sabia do Rui, nem do Marr, nem das sardinhas abertas sem rasgar. Sabia o que estivesse escrito num ficheiro, e ele não escrevera nada.
+A cafeteira ficou em cima do fogão, vazia. O Simão abriu o portátil, como todas as manhãs, mas não foi ao ficheiro: chamou o Claude antes do café, coisa que nunca fazia, e começou a escrever «lembras-te de ontem à noite» antes de se lembrar de que não. Apagou. A janela daquela manhã não sabia do Rui, nem do Marr, nem das sardinhas abertas sem rasgar. Sabia o que estivesse escrito num ficheiro, e ele não escrevera nada.
 
 ```
 > entraram 2 milhões na conta da empresa. ordenante: uma
@@ -31,11 +31,11 @@ Leu duas vezes. Lá fora, um barco encostou ao cais e apitou.
 
 A agência abria às oito e meia, num rés-do-chão de Almada com as montras forradas de juros que ninguém queria. O Simão subiu a pé de Cacilhas, com a camisa colada às costas antes de chegar a meio da subida. Nas rotundas, os cartazes das legislativas já sorriam uns para os outros, de braços cruzados, a prometer coisas a outubro.
 
-Tirou a senha A31. O ecrã por cima dos balcões dizia A22. Contou as pessoas sentadas à frente dele: nove. Uma senhora com a caderneta da reforma dentro de um saco de plástico, para não se molhar num dia em que não chovia. Um homem de fato de treino a pagar a Segurança Social com notas dobradas em quatro. Um casal novo com uma pasta de papéis de uma casa que, pela cara dos dois, ainda não era deles. O ar condicionado pingava para um balde. O Simão, sentado na cadeira de plástico, tinha numa conta dois milhões de euros que não eram dele e sentia-se o mais pobre da sala.
+Tirou a senha A31. O ecrã por cima dos balcões dizia A22. Contou as pessoas sentadas à frente dele: nove. Uma senhora com a caderneta da reforma dentro de um saco de plástico, para não se molhar num dia em que não chovia. Um homem de fato de treino a pagar a Segurança Social com notas dobradas em quatro. Um casal novo com uma pasta de papéis de uma casa que, pela cara dos dois, ainda não era deles. O ar condicionado soprava frio só para um lado da sala. O Simão, sentado na cadeira de plástico, tinha numa conta dois milhões de euros que não eram dele e sentia-se o mais pobre da sala.
 
 Fez a conta sem querer. Nove mil euros eram zero vírgula quarenta e cinco por cento daquilo. Não era uma conta que se fizesse numa sala de espera, e fê-la duas vezes.
 
-Às nove e um quarto chamaram o A31. O funcionário era um rapaz de manga curta e gravata, com o nome num crachá que o Simão não leu. Ouviu o pedido, escreveu o número da conta, olhou para o ecrã e depois para o Simão, e depois outra vez para o ecrã, como quem confirma uma matrícula.
+Às nove e um quarto chamaram o A31. O funcionário era um rapaz de manga curta e gravata, com o nome num crachá que o Simão não leu. Ouviu o pedido, escreveu o número da conta, olhou para o ecrã e depois para o Simão, e depois outra vez para o ecrã, para ter a certeza.
 
 — O senhor quer devolver isto.
 
@@ -75,7 +75,7 @@ Não contou ao Rui. Disse a si próprio que era para não lhe mostrar um número
 
 * * *
 
-A Dulce subiu os sessenta e oito degraus na segunda-feira, às oito e dez, quando a Marta acabara de descer com o caderno debaixo do braço. Trazia uma pasta de cartão e o caderno de capa dura. Não se sentou logo. Ficou a olhar para o papel do frigorífico, que dizia 46, e o Simão viu-a guardar o número algures, sem perguntar o que era.
+A Dulce subiu ao quarto andar na segunda-feira, às oito e dez da noite, quando a Marta acabara de descer com o caderno debaixo do braço. Trazia uma pasta de cartão e o caderno de capa dura. Não se sentou logo. Ficou a olhar para o papel do frigorífico, que dizia 46, e o Simão viu-a guardar o número algures, sem perguntar o que era.
 
 Depois sentou-se na cadeira dos alunos e abriu a pasta.
 
@@ -99,7 +99,7 @@ Virou a página. Do outro lado tinha uma lista numerada, como todas as listas de
 
 — E depois há o código. Eu escrevo uma função três vezes antes de ela prestar. O Ivo escreve-a dez e jura que foi à primeira. Aqui, cada coisa aparece feita. Leio isto há quatro meses e ainda não encontrei um rascunho. — Fechou o caderno. — Ninguém tem só versões boas, Simão.
 
-Ele tirou os óculos e limpou-os à camisola. Do lado de lá da janela, um cacilheiro largava do cais, iluminado como uma montra, e ele contou-lhe as janelas, catorze, e não lhe serviu de nada.
+Ele tirou os óculos e limpou-os à camisola. Do lado de lá da janela, um cacilheiro largava do cais, iluminado como uma montra, e ele contou os segundos que levou a afastar-se, e não lhe serviu de nada.
 
 Havia uma frase que acabava com aquilo. Começava por «é uma coisa que eu uso» e não tinha fim que se pudesse dizer. Havia outra, mais fácil, que começava por «tenho uma equipa». Essa tinha fim e era mentira.
 
@@ -129,7 +129,7 @@ Ela não se riu, mas a boca fez o princípio de qualquer coisa e desistiu. Levan
 
 — Preciso de uma noite.
 
-Ele ouviu-a descer. Desta vez contou os passos, sem querer, como contava tudo, e eram sessenta e oito, certos, sem paragem nenhuma.
+Ele ouviu-a descer. Desta vez contou-lhe os passos, como contava tudo, e eram sessenta e oito, certos, sem paragem nenhuma.
 
 Na terça-feira, às sete e dois da manhã, antes do papel e antes do café, chegou um email sem assunto.
 
@@ -155,7 +155,7 @@ Na quinta, o Simão chegou à Cova da Piedade às sete e vinte e oito e encontro
 
 Entre a porta da rua e o rés-do-chão havia oito degraus de mármore gasto, com um corrimão de ferro pintado de verde muitas vezes. O pai subiu à frente. Ao terceiro degrau parou, com a mão no corrimão e a broa apertada contra as costelas, e ficou ali o tempo de uma respiração comprida. Retomou. Ao sexto, parou outra vez.
 
-O Simão, dois degraus abaixo, contou-os sem querer. Oito degraus. Duas paragens. O pai, que subira as escadas de ferro das casas das máquinas durante trinta e cinco anos com uma caixa de ferramentas em cada mão.
+O Simão, dois degraus abaixo, contou-os. Oito degraus. Duas paragens. O pai, que subira as escadas de ferro das casas das máquinas durante trinta e cinco anos com uma caixa de ferramentas em cada mão.
 
 — É do calor — disse o pai, sem se voltar.
 
@@ -185,7 +185,7 @@ Ao sair, o Simão desceu os oito degraus devagar, como quem os mede. Na rua, vol
 
 O papel chegou à Rua Gomes Freire na quarta-feira seguinte, 9 de setembro, num envelope interno com três carimbos, e o inspetor-chefe Artur Galvão estranhou primeiro a velocidade. Tinha pedidos de abril que ainda andavam a passear de secretária em secretária. Aquilo vinha da Unidade de Informação Financeira, que era da casa, e chegara em treze dias, como se alguém tivesse pressa dele.
 
-Desapertou a gravata mais um dedo, coisa que já não era possível, e desembrulhou um rebuçado de mentol. No corredor, a televisão mostrava gente a pé, de mochila às costas, ao longo de uma linha de comboio na Hungria. Abriu o envelope.
+Desapertou a gravata mais um dedo, coisa que já não era possível, e desembrulhou um rebuçado de mentol. No gabinete ao lado, uma impressora encravava de dois em dois minutos. Abriu o envelope.
 
 Uma folha e meia. Um banco de Almada comunicava uma operação: dois milhões de euros, entrados a 26 de agosto na conta de uma Talão, Lda., de Cacilhas, com o descritivo «pagamento — consultoria de software». Devolvidos ao ordenante a 27, de manhã, a pedido do próprio cliente, que declarara por escrito não conhecer o ordenante nem ter prestado serviço nenhum. Anexa, uma fotocópia da declaração. Letra direita, de quem passou anos a escrever em quadros.
 
@@ -229,7 +229,7 @@ O Galvão chupou o rebuçado.
 
 — Ou noutro sítio qualquer onde se entre às nove.
 
-— Ou noutro sítio. — O rapaz carregou numa tecla e apareceu uma linha de texto em inglês. — E há isto. Por baixo de quase tudo o que ele escreve, aparece outro nome. Um tal Claude. Com um endereço de uma empresa que não existe. Procurei. Há um princípio de física com o mesmo nome, e mais nada.
+— Ou noutro sítio. — O rapaz carregou numa tecla e apareceu uma linha de texto em inglês. — E há isto. Por baixo de quase tudo o que ele escreve, aparece outro nome. Um tal Claude. Com um endereço de uma empresa que não existe. Procurei. Há um princípio de física com um nome parecido, e mais nada.
 
 — Claude quê?
 

@@ -6,11 +6,11 @@ Londres acordava ao domingo como um hotel caro: devagar, sem barulho, com um hom
 
 A assistente não vinha ao domingo. A máquina do café da sala dos ecrãs tinha nove botões, cada um com o desenho de uma chávena diferente, e nenhum dizia café. Escolheu um ao acaso e saiu leite quente. Bebeu-o à mesma, de pé, por princípio: um homem que gere o dinheiro dos outros não deita fora o resultado de uma decisão.
 
-Ligou um ecrã só, o das notícias, e foi para o gabinete de vidro. Na faixa de baixo, entre o petróleo e o futebol, passava uma linha sobre Portugal: legislativas, as urnas abertas desde as oito. Lisboa e Londres tinham a mesma hora, e o Marr achou isso, por um segundo, uma coincidência simpática. Depois deixou de pensar no assunto. Tinha apartamentos em Lisboa e nenhum interesse em quem os governava. Os governos de lá mudavam e os apartamentos do Príncipe Real continuavam a vender-se pelo dobro a quem só perguntava quando podia tratar do visto.
+Ligou um ecrã só, o das notícias, e foi para o gabinete de vidro. Na faixa de baixo, entre o petróleo e o futebol, passava uma linha sobre Portugal: legislativas, as urnas abertas desde as oito. Tinha apartamentos em Lisboa e nenhum interesse em quem os governava. Os governos de lá mudavam e os apartamentos do Príncipe Real continuavam a vender-se pelo dobro a quem só perguntava quando podia tratar do visto.
 
 Em cima da secretária estavam os números do trimestre, que fechara na quarta-feira. Seguiam para os clientes na segunda de manhã, e o Stroud lia-os sempre antes dos clientes. O Marr já os sabia de cor e leu-os outra vez, como se lê uma carta de um hospital. Agosto. Setembro. O buraco de 2014 por baixo de tudo, tapado com dinheiro que não era dele. Não precisava de um bom trimestre, nem de dois. Precisava de uma coisa que tapasse num só dia o que catorze meses tinham aberto, e sabia que coisas dessas não existem. Era por saber isso tão bem que lhes chamava milagres. Em setembro, os clientes do Stroud tinham pedido para o ouvir antes das quatro, e ele falara-lhes ao telefone durante quarenta minutos sem lhes dizer nada, com a voz das visitas. Tinha resultado. Não voltaria a resultar.
 
-Passou o dia ali. Releu a folha da Nell. Releu, de memória, a manhã de setembro: o explicador sentado naquela cadeira, a olhar para os pés, a dizer-lhe que aquilo não sabia o futuro. *Se eu soubesse o futuro, não dava explicações a catorze euros à hora.* Era a frase mais bonita que alguém lhe dissera em muito tempo para recusar dinheiro. Não acreditara numa palavra, e continuava sem acreditar, mas tinha-a guardado, como guardava os cacos.
+Passou o dia ali. Releu a folha da Nell. Releu, de memória, a manhã de setembro: o explicador sentado naquela cadeira, de mãos quietas em cima dos joelhos, a dizer-lhe que aquilo não sabia o futuro. *Se eu soubesse o futuro, não dava explicações a catorze euros à hora.* Era a frase mais bonita que alguém lhe dissera em muito tempo para recusar dinheiro. Não acreditara numa palavra, e continuava sem acreditar, mas tinha-a guardado, como guardava os cacos.
 
 Às sete menos dez, com a rua já a azular, o telemóvel tocou. Era um número de Oeiras.
 
@@ -34,7 +34,7 @@ O Marr puxou um bloco para a frente e não escreveu nada.
 
 — Diga.
 
-— Há uma data. A máquina só conhece uma. Sexta-feira, 16 de outubro. — O Bastos disse o dia em português e depois traduziu-o, devagar, como quem dita uma matrícula. — Ele tem-na escrita num papel, no frigorífico, à vista de quem entra. Desde o inverno. Era um número que descia todos os dias. Agora diz dezasseis barra dez, traço, doze.
+— Há uma data. A máquina só conhece uma. Sexta-feira, 16 de outubro. — O Bastos disse o dia em português e depois traduziu-o, devagar, como se dita uma morada a um taxista. — Ele tem-na escrita num papel, no frigorífico, à vista de quem entra. Desde o inverno. Era um número que descia todos os dias. Agora diz dezasseis barra dez, traço, doze.
 
 — Doze dias.
 
@@ -76,11 +76,11 @@ Desligaram às sete e quatro. Às oito, o ecrã das notícias mostrou um mapa de
 
 Fez a conta como fazia todas, sem caneta, de pé diante da vitrina, com as luzes da sala apagadas e só o óstraco aceso.
 
-Um homem tinha uma coisa que fazia numa noite o trabalho de um grupo durante anos. A coisa tinha uma data, uma só, e o homem pusera-a na porta do frigorífico e contava os dias até ela, como um credor conta os dias até ao vencimento. Em setembro, sentado naquela cadeira, o explicador jurara que a coisa não sabia o futuro. Talvez fosse verdade. Não precisava de saber o futuro inteiro. Bastava-lhe saber o seu próprio fim. Os condenados também sabem a data e não lhes chamam profetas.
+Um homem tinha uma coisa que fazia numa noite o trabalho de uma equipa durante um ano. A coisa tinha uma data, uma só, e o homem pusera-a na porta do frigorífico e contava os dias até ela, como um credor conta os dias até ao vencimento. Em setembro, sentado naquela cadeira, o explicador jurara que a coisa não sabia o futuro. Talvez fosse verdade. Não precisava de saber o futuro inteiro. Bastava-lhe saber o seu próprio fim. Os condenados também sabem a data e não lhes chamam profetas.
 
 E uma coisa daquelas não acaba sem barulho. Alguém a fizera, alguém pagava aquilo, alguém a ia desligar ou levar ou vender. Um governo, uma empresa, um laboratório, um tribunal: não interessava quem. Quando uma coisa destas acaba, alguma coisa se mexe. Quem sabe o dia não precisa de saber o quê.
 
-Foi ao calendário da parede, que a assistente mudava todos os meses. Outubro começava numa quinta-feira. A primeira sexta era dia 2, a segunda dia 9, a terceira dia 16. A terceira sexta-feira do mês: o dia em que vencem as opções de outubro, o dia em que meio mundo das finanças fecha as contas que abriu. O mercado já tinha aquele dia marcado no calendário, sem saber porquê. O Marr sentiu o que sentia diante das peças da coleção quando encaixavam, e que nunca dizia a ninguém porque soava a vaidade: a impressão de que o mundo estava arrumado para que alguém reparasse nele, e de que esse alguém era ele.
+Foi ao calendário da parede, que a assistente mudava todos os meses. Outubro começava numa quinta-feira. A primeira sexta era dia 2, a segunda dia 9, a terceira dia 16. A terceira sexta-feira do mês: o dia em que vencem as opções de outubro. O mercado já tinha aquele dia marcado no calendário, sem saber porquê. O Marr sentiu o que sentia diante das peças da coleção quando encaixavam, e que nunca dizia a ninguém porque soava a vaidade: a impressão de que o mundo estava arrumado para que alguém reparasse nele, e de que esse alguém era ele.
 
 Pensou no pai, em 1981, de mãos fechadas uma na outra no cais de Marselha, a ver os camiões irem para outros armazéns. Durante trinta e quatro anos tinha comprado e vendido à procura de uma única coisa, que era saber primeiro. Agora tinha uma data, doze dias antes dos outros, e o dinheiro do mundo estava fechado à chave porque era domingo.
 

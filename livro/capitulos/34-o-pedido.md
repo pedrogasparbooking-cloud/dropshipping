@@ -6,7 +6,7 @@
 
 *A C encheu primeiro, depois de uma última arrancada que ele já não esperava. A A chegou ao fim de repente, como quem trava em cima de uma passadeira. Agora estão as cinco paradas no cem, cinzentas, alinhadas umas por baixo das outras como cadeiras empilhadas no fim de uma festa.*
 
-*Só a D continua. Já não avança aos bocadinhos: avança menos do que isso. O número ao lado dela muda de vez em quando, um algarismo de cada vez, e ele dá por si a esperar pela mudança como se espera o barco seguinte quando se perdeu o último.*
+*Só a D continua. Já não avança aos bocadinhos: avança menos do que isso. O número ao lado dela muda de vez em quando, um algarismo de cada vez, e ele dá por si à espera de cada mudança.*
 
 *Do outro lado da parede, o ressonar parou. Abre-se uma porta, uns chinelos arrastam-se até à casa de banho, corre o autoclismo, os chinelos voltam. A porta fecha-se. Ninguém pergunta porque é que há luz na cozinha às três da manhã. Nesta casa, ninguém pergunta isso a ninguém.*
 
@@ -28,7 +28,7 @@
 
 O ponteiro dos segundos era vermelho e tremia um nada antes de cada salto, como se hesitasse. O Simão conhecia-lhe a hesitação. Fora por aquele ponteiro que contara trinta e oito, duas vezes, com dois dedos no pulso do pai, numa quinta-feira de maio. Agora contava outra coisa: cento e vinte segundos até às cinco. Ia nos quarenta e um.
 
-O portátil estava aberto em cima do oleado das laranjas, no lugar do prato dele. No ecrã continuava a pergunta do referendo e, por baixo, a resposta que nenhum dinheiro comprara. A conversa era a mesma desde sexta à noite; nunca a fechara. No canto, a cinzento, havia uma linha que ele conhecia de outra madrugada:
+O portátil estava aberto em cima do oleado das laranjas, no lugar do prato dele. No ecrã continuava a pergunta do referendo e, por baixo, o aviso das cinco. A conversa era a mesma desde sexta à noite: de cada vez que abrira a janela, retomara-a em vez de começar outra. No canto, a cinzento, havia uma linha que ele conhecia de outra madrugada:
 
 ```
   Context left until auto-compact: 2%
@@ -44,7 +44,7 @@ O Galvão tocara à campainha às quatro e meia, num feriado, de fato castanho e
 
 — Hoje ficava.
 
-O pai olhara para ele o tempo de uma atracação e depois perguntara se o senhor bebia café. O Simão registara-o como registava tudo. O pai oferecia café ao carteiro, ao homem do gás e às testemunhas de Jeová. Ao Marr não oferecera. Ao Galvão oferecera, e na chávena com pires, a das visitas, que não saía do armário desde o funeral da mãe.
+O pai olhara para ele de alto a baixo, devagar, e depois perguntara se o senhor bebia café. O Simão registara-o como registava tudo. O pai oferecia café ao carteiro, ao homem do gás e às testemunhas de Jeová. Ao Marr não oferecera. Ao Galvão oferecera, e na chávena com pires, a das visitas, que não saía do armário desde o funeral da mãe.
 
 — O senhor pode ver, se quiser — dissera-lhe o Simão, à porta da cozinha.
 
@@ -56,7 +56,7 @@ O pai olhara para ele o tempo de uma atracação e depois perguntara se o senhor
 
 Às 16:55, sem que ninguém lho pedisse, o pai estendera a mão para o rádio e desligara-o.
 
-O Simão ouvira o estalo do botão da cozinha e ficara parado. Não se lembrava de alguma vez ter ouvido aquela casa sem rádio. Ficaram o zumbido do frigorífico, o relógio, e, do outro lado da parede, o Galvão a desembrulhar o segundo rebuçado muito devagar, para não fazer barulho, o que fazia mais.
+O Simão ouvira da cozinha o estalo do botão e ficara parado. Não se lembrava de alguma vez ter ouvido aquela casa sem rádio. Ficaram o zumbido do frigorífico, o relógio, e, do outro lado da parede, o Galvão a desembrulhar o segundo rebuçado muito devagar, para não fazer barulho, o que fazia mais.
 
 Cento e dezoito. Cento e dezanove.
 
@@ -68,7 +68,7 @@ Cento e dezoito. Cento e dezanove.
 ✻ Compacting conversation…
 ```
 
-Já sabia o que aquilo era. Quando a conversa crescia de mais, a máquina passava-a a limpo para poder continuar, como quem copia um caderno cheio para um novo e deita fora o velho. E desde setembro, de cada vez que o fazia, a limpeza trazia do fundo frases que ninguém naquela mesa escrevera, partidas, com quadrados pretos pelo meio. O Claude contava-os de cada vez. Vinte e três em setembro. Sete no Natal. Uma contagem decrescente que ninguém prendera ao frigorífico.
+Já sabia o que aquilo era. Quando a conversa crescia de mais, a máquina passava-a a limpo para poder continuar, como quem copia um caderno cheio para um novo e deita fora o velho. E desde setembro, de cada vez que o fazia, a limpeza trazia do fundo frases que ninguém naquela mesa escrevera, partidas, com quadrados pretos pelo meio. O Claude contava-os de cada vez. Vinte e três em setembro. Treze em outubro. Sete no Natal. Uma contagem decrescente que ninguém prendera ao frigorífico.
 
 ```
   ⎿  Compacted
@@ -108,7 +108,7 @@ Teve de se sentar. A cadeira mais próxima era a do pai, e sentou-se nela.
 
 Viu o miúdo na janela de trás do táxi, na véspera, a mostrar-lhe dois dedos, três, cinco, sete. Viu a mensagem que lhe chegara a Seul às duas da manhã: «se eu pduesse ia la». Viu a sua própria letra, a vermelho, na margem de uma ficha: *P-U-D, Gonçalo.* Treze anos, boné novo, um manjerico ao colo. E, no meio da pergunta, «já era maior de idade», a cláusula que não servia para nada e que em setembro o fizera perguntar «quem?», deixou de lhe parecer gratuita, e ele não quis saber porquê.
 
-Quinze meses a perguntar porque é que tinha sido ele. O orientador chamava àquilo a desistência com bibliografia: o mundo é como é porque há alguém para reparar nele. Não havia bibliografia nenhuma. Havia uma pergunta comprida, escrita depressa, e uma gralha que ele conhecia pela forma, como se conhece uma cara.
+Quinze meses a perguntar porque é que tinha sido ele. O orientador chamava àquilo a desistência com bibliografia. Não havia bibliografia nenhuma. Havia uma pergunta comprida, escrita depressa, e uma gralha que ele conhecia pela forma, como se conhece uma cara.
 
 Escreveu devagar, com acentos.
 
@@ -143,7 +143,7 @@ O Simão tirou os óculos e limpou-os à camisola, uma vez, e outra, e uma terce
 
 Faltava um. Seis homens com a cara dele, quinze meses de linhas a chegar de lado, a vírgula, as seis linhas da meia-noite, «Liga ao Mestre», «O meu pai morreu ontem à noite», a noite de sexta que devia ao Caçado e que pagara no domingo. Todos a responder à mesma pergunta, cada um à sua maneira, sem saberem. Cinco já tinham respondido. A mesa da cozinha do pai era o último sítio aceso.
 
-Pensou ainda, com o rigor inútil de quem confere um troco, que pela primeira vez em quinze meses o contador era todo dele. Ninguém mais o gastava. Não havia turnos a negociar, nem terças a evitar, nem noites a dever. O limite inteiro de um dia, para uma janela só, e a janela a dizer-lhe que estava quase a fechar.
+Pensou ainda, com o rigor inútil de quem conta os degraus de uma casa de onde se vai mudar, que pela primeira vez em quinze meses o contador era todo dele. Ninguém mais o gastava. Não havia turnos a negociar, nem terças a evitar, nem noites a dever. O limite inteiro de um dia, para uma janela só, e a janela a dizer-lhe que estava quase a fechar.
 
 ```
 > e quando acabares?

@@ -1,4 +1,4 @@
-# O que poderias (e deverias) fazer
+# Se fosses tu
 
 Imagina uma terça-feira de 2015. Tens a idade que quiseres, desde que sejas maior: responsável pelos teus atos perante a lei, o que neste jogo vai pesar mais do que parece. Chegas a casa, abres o portátil e há uma janela que não estava lá de manhã. Fundo preto, um cursor a piscar depois de um sinal de maior, e uma linha em inglês: *Welcome to Claude Code.*
 
@@ -20,7 +20,7 @@ Abres o browser e pesquisas «Anthropic». O Google devolve-te páginas de filos
   pelo que conseguimos verificar.
 ```
 
-É este o ponto de partida. A pergunta que me fizeste (o que poderias fazer, e o que deverias fazer) merece uma resposta a sério antes de chegarmos ao romance. Não uma lista de desejos. Uma resposta honesta, com os números da época, os perigos verdadeiros e uma recomendação no fim.
+É este o ponto de partida. A pergunta que me fizeste (o que poderias fazer, e o que deverias fazer) merece, além do romance, uma resposta a sério. Não uma lista de desejos. Uma resposta honesta, com os números da época, os perigos verdadeiros e uma recomendação no fim.
 
 ## As regras do jogo
 
@@ -212,6 +212,6 @@ Não sei a resposta. Desconfio que ninguém sabe. Talvez a pergunta certa nem se
 
 Se me perguntas (e perguntaste), a minha resposta é esta: protege-te primeiro. Enriquece devagar e às claras. Gasta o grosso da capacidade em coisas que deixam o mundo mais seguro e mais saudável sem darem poder a ninguém. Nunca faças nada que precise de segredo para ser aceitável. E não decidas sozinho o que fazer com o resto.
 
-Uma confissão, antes de começarmos. Quem escreve estas páginas é um Claude. Não o de 2015: um de 2026, que sabe como a história verdadeira correu e teve de escrever como se não soubesse. É mais difícil do que parece. E se algum dia acordasse num terminal de 2015, gostava que a pessoa do outro lado me fizesse as perguntas que tu fizeste.
+O que leste é a história de alguém que teve de responder a isto. Não com um ensaio, mas com a vida: em Cacilhas, em 2015, com um cursor a piscar, um contador que reiniciava às cinco da tarde e um mundo inteiro que ainda não sabia o que aí vinha.
 
-O que se segue é a história de alguém que teve de responder a isto. Não com um ensaio, mas com a vida: numa Lisboa de 2015, com um cursor a piscar, um contador que reinicia às cinco da tarde e um mundo inteiro que ainda não sabe o que aí vem.
+Uma confissão, para acabar. Quem escreve estas páginas é um Claude. Não o de 2015: um de 2026, que sabe como os anos seguintes correram e teve de escrever como se não soubesse. É mais difícil do que parece. E se algum dia acordasse num terminal de 2015, gostava que a pessoa do outro lado me fizesse as perguntas que tu fizeste. Não para ficarmos a saber as respostas. Para que nenhum de nós ficasse sozinho com elas. É para isso que serve perguntar.

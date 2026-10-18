@@ -16,7 +16,7 @@ Pela escada ainda subia alguém, devagar, a parar em cada patamar. O cão do ré
 
 — Calcule-me depois. Agora vista-se.
 
-Leram-lhe dois papéis, um de busca e outro de detenção, numa voz de quem lê a bula de um remédio. Deixaram-no ir ao quarto com o das botas encostado ao aro da porta. Vestiu as calças de ganga da véspera e, por cima da camisola com que dormia, o casaco de inverno, porque foi o primeiro que a mão encontrou. Meteu a carteira no bolso. O telemóvel, disseram-lhe, ficava em cima da mesa.
+Leram-lhe dois papéis, um de busca e outro de detenção, numa voz de quem lê a bula de um medicamento. Deixaram-no ir ao quarto com o das botas encostado ao aro da porta. Vestiu as calças de ganga da véspera e, por cima da camisola de dormir, o casaco de inverno, porque foi o primeiro que a mão encontrou. Meteu a carteira no bolso. O telemóvel, disseram-lhe, ficava em cima da mesa.
 
 Quando voltou à cozinha, já a tinham desfeito. As fichas dos alunos estavam empilhadas no chão por ordem de tamanho. Da prateleira por cima do lava-loiça tinham tirado os três cadernos de capa preta com PROTOCOLO escrito na lombada, e um dos homens folheava o último, devagar, com os lábios a mexer.
 
@@ -122,7 +122,7 @@ O Simão ouviu a frase duas vezes: uma na voz do Galvão e outra na sua, escrita
 
 O Galvão não acreditou.
 
-Ouviu-o durante duas horas e quarenta minutos, e não acreditou em nada, mas ouviu-o como ouvia os contabilistas que acabavam por confessar: sem interromper, a escrever pouco, a ver onde a voz mudava. A do explicador não mudava. Começou num commit à uma e sete da manhã de uma terça-feira de fevereiro e foi por ali fora, por ordem, como um homem que já ensaiou aquilo no duche e sabe que vai soar mal na mesma.
+Ouviu-o durante duas horas e quarenta minutos, e não acreditou em nada, mas ouviu-o como ouvia os contabilistas que acabavam por confessar: sem interromper, a escrever pouco, a ver onde a voz mudava. A do explicador não mudava. Começou num commit à uma e sete da manhã de uma terça-feira de fevereiro e foi por ali fora, por ordem, como um homem que ensaiou aquilo muitas vezes sozinho e sabe que vai soar mal na mesma.
 
 Uma coisa no portátil que respondia em português e dizia que fora feita por uma empresa que não existia. Que só funcionava com ele na sala. Que achava que era sempre sexta-feira, 16 de outubro, sem ano, e que não sabia o futuro, nem o resultado de um jogo, nem o preço do petróleo. Que havia outros cinco como ele, algures, a escrever no mesmo ficheiro, e que nunca nenhum lhe aparecera à porta. Os dois milhões, devolvidos no próprio dia, o que o Galvão sabia melhor do que ele. Londres: tinha ido dizer a um homem chamado Marr que aquilo não adivinhava nada, e o homem não acreditara. O Galvão escreveu Marr com dois erres, à primeira. Seul: fora ver uma máquina ganhar a um homem, e fora tentado a entregar-se, com a coisa às costas, a quem a soubesse construir.
 
@@ -138,9 +138,9 @@ A advogada deixara de escrever algures nos duzentos e trinta e quatro dias. A in
 
 — Isso não me ajuda nada — disse a inspetora, e o Galvão, sem levantar os olhos, quase sorriu.
 
-Delírio. Era a palavra que ele tinha à margem de uma folha amarela, dobrada em quatro no bolso de dentro do casaco, desde o fim de abril. Agora tinha dois homens com o mesmo delírio, contado com as mesmas datas, um deles já com a mão estragada. E tinha quatro folhas sem assinatura que sabiam de Londres, de Seul, dos dois milhões e da viagem da investigadora, e que nem uma vez diziam o nome que o apostador de Corroios lhe dera de graça e que o explicador acabava de lhe dar outra vez.
+Delírio. Era a palavra que ele tinha à margem de uma folha amarela, dobrada em quatro no bolso de dentro do casaco, desde o fim de abril. Agora tinha dois homens com o mesmo delírio, contado com as mesmas datas, um deles já com a mão estragada. E tinha quatro folhas sem assinatura que sabiam de Londres, de Seul, dos dois milhões e da viagem da investigadora, e que nem uma vez diziam o nome que o apostador de Almada lhe dera de graça e que o explicador acabava de lhe dar outra vez.
 
-Mas não era isso que o incomodava. Em trinta anos de casa, nunca vira um culpado oferecer-lhe o pior de si próprio sem ter nada a ganhar com isso. Os culpados explicavam as transferências com palavras como «consultoria» e «serviços». Aquele tinha uma transferência com «serviços» escrito por extenso e escolhera contar o resto. O detetive não o safava de nada. Em qualquer versão da história, deixava-o pior.
+Mas não era isso que o incomodava. Em três décadas de interrogatórios, nunca vira um culpado oferecer-lhe o pior de si próprio sem ter nada a ganhar com isso. Os culpados explicavam as transferências com palavras como «consultoria» e «serviços». Aquele tinha uma transferência com «serviços» escrito por extenso e escolhera contar o resto. O detetive não o safava de nada. Em qualquer versão da história, deixava-o pior.
 
 — Há uma coisa que o senhor pode verificar sem acreditar em mim — disse o explicador.
 
@@ -160,7 +160,7 @@ O Galvão esperou.
 
 — Então escreve à margem o que lhe apetecer.
 
-O Galvão olhou para ele um bom bocado. Depois escreveu no bloco 252 e, por baixo, um traço. Não sublinhava nada havia meses. Na agenda de casa havia quatro anos em coluna sem sublinhado nenhum, porque não soubera qual escolher. Aquele número escolhera-se sozinho.
+O Galvão olhou para ele um bom bocado. Depois escreveu no bloco 252 e, por baixo, um traço. Não sublinhava nada havia meses; na agenda de casa, os quatro anos continuavam em coluna, todos iguais. Aquele número escolhera-se sozinho.
 
 Pediu à inspetora que imprimisse o auto. Lá fora, no corredor, de casaco azul-escuro, um homem que não dizia o nome a ninguém esperava encostado à parede, a olhar para o saco do portátil a caminho do cofre como quem olha para uma montra.
 

@@ -16,19 +16,19 @@ O papel do frigorífico dizia 20 e o Rui estava a olhar para ele com a lata de c
 
 — Continua a ser verdade.
 
-Era sábado, nove da noite. O último aluno saíra às oito, com quinze euros dobrados dentro do caderno, e o Rui subira os sessenta e oito degraus dois a dois, como antes, com uma lista de três cafés do Seixal que queriam o Talão e um saco de bifanas que arrefeciam em cima das fichas de exercícios. Pousou na mesa um telemóvel que o Simão não conhecia. Era grande, preto, ainda com a película de fábrica no ecrã.
+Era sábado, nove da noite. O último aluno saíra às oito, com quinze euros dobrados dentro do caderno, e o Rui subira a escada dois a dois, como antes, com uma lista de três cafés do Seixal que queriam o Talão e um saco de bifanas que arrefeciam em cima das fichas de exercícios. Pousou na mesa um telemóvel que o Simão não conhecia. Era grande, preto, ainda com a película de fábrica no ecrã.
 
 — Promoção de funcionário — disse o Rui, antes de o Simão perguntar. — Vinte e quatro prestações, sem juros. O gerente deixou-me ficar com o da montra, que tem um risquinho aqui ao lado, vês? Não vês, pois não? É mínimo. E a capa veio oferecida, que a rapariga do armazém é minha amiga.
 
-O Simão contou os pormenores sem querer. Cinco. Desde o liceu, o Rui mentia com pormenores a mais: a cor da mota, o nome do cão, a hora exata a que o autocarro não passara. Quando dizia a verdade, dizia «comprei um telemóvel» e mais nada.
+O Simão contou os pormenores. Cinco. Desde o liceu, o Rui mentia com pormenores a mais: a cor da mota, o nome do cão, a hora exata a que o autocarro não passara. Quando dizia a verdade, dizia «comprei um telemóvel» e mais nada.
 
-No dia 2 de setembro chegara uma mensagem às onze e vinte da noite, «relaxa mano. ja tratei dos atrasados», e depois nada. O Simão perguntara como e ficara sem resposta. Não voltaram a falar disso. Agora havia um telemóvel novo em cima das fichas.
+O Rui nunca chegara a explicar a mensagem de 2 de setembro, «ja tratei dos atrasados». Agora havia um telemóvel novo em cima das fichas.
 
-— O Ivo diz que foste a Londres — disse o Rui.
+— O Ivo diz que vieste de Londres com cara de enterro — disse o Rui.
 
-— Fui.
+— Vim cansado.
 
-— Ao homem dos milhões?
+— Foste ao homem dos milhões?
 
 — Dizer-lhe que não.
 
@@ -42,7 +42,7 @@ Na terça antes da viagem, o Rui ligara por causa de uma impressora e ele disser
 
 O Simão comeu uma bifana fria e não disse nada. O Rui foi-se embora às dez e meia, a assobiar na escada.
 
-Ao fechar a porta, o Simão passou a corrente. Desde dia 17, todas as manhãs, abria o CLAUDE.md e os olhos iam-lhe direitos a uma linha. «Há coisas que se fazem por fora.» Não a escrevera ele. Na noite em que ela aparecera, a corrente estava passada.
+Ao fechar a porta, o Simão passou a corrente. Desde o dia 17, todas as manhãs, abria o CLAUDE.md e os olhos iam-lhe direitos a uma linha. «Há coisas que se fazem por fora.» Não a escrevera ele. Na noite em que ela aparecera, a corrente estava passada.
 
 * * *
 
@@ -62,7 +62,7 @@ A Joana mandou mensagem no domingo às dez: tinha o Gonçalo numa festa de anos 
 
 — Porque sou lenta. Não é o mesmo que burra, mas paga-se igual.
 
-Um barco encostou ao cais. O Simão contou as pessoas que saíram, catorze, e deu por si a procurar entre elas um homem de fato.
+Um barco encostou ao cais. O Simão contou as pessoas que saíram, dezanove, e deu por si a procurar entre elas um homem de fato.
 
 — Joana. Se tu desconfiasses de uma pessoa…
 
@@ -179,7 +179,7 @@ Fez a transferência no telemóvel, de pé, encostado ao frigorífico. Escreveu 
 
 * * *
 
-Na quarta-feira, o Rui apareceu às dez e quarenta, de folga, com bolos de arroz e o telemóvel novo, para irem juntos ao Seixal. O Simão contou os azulejos atrás do fogão. Catorze, como sempre. Olhou para o ecrã, para as faturas, para a sardinha de loiça. Não conseguiu olhar para o Rui.
+Na quarta-feira, o Rui apareceu às dez e quarenta, de folga, com bolos de arroz e o telemóvel novo, para combinarem os cafés do Seixal. O Simão contou os azulejos atrás do fogão. Catorze, como sempre. Olhou para o ecrã, para as faturas, para a sardinha de loiça. Não conseguiu olhar para o Rui.
 
 — Tás esquisito, mano — disse o Rui, de boca cheia. — Parece que me deves dinheiro.
 
@@ -211,7 +211,7 @@ O Simão leu-o no patamar, antes de subir. O Rui trabalhava, visitava a mãe, jo
 
 Não havia ali nada que ele não soubesse. O telemóvel era a coisa mais Rui do mundo: uma aposta ganha, contada como uma promoção, com cinco pormenores a mais.
 
-Subiu os sessenta e oito degraus. Tirou a caixa de fósforos da gaveta do fogão, pôs as duas folhas no lava-loiça e acendeu-as por um canto. O papel enrolou-se devagar, as maiúsculas encolheram, a palavra *contratante* foi a última a ir. Abriu a torneira e ficou a ver a cinza escorrer pelo ralo. O recibo guardou-o na pasta das faturas, com o do voo de Londres, porque tudo era faturado.
+Subiu ao quarto andar. Tirou a caixa de fósforos da gaveta do fogão, pôs as duas folhas no lava-loiça e acendeu-as por um canto. O papel enrolou-se devagar, as maiúsculas encolheram, a palavra *contratante* foi a última a ir. Abriu a torneira e ficou a ver a cinza escorrer pelo ralo. O recibo guardou-o na pasta das faturas, com o do voo de Londres, porque tudo era faturado.
 
 À noite, depois da Marta, abriu o portátil. A janela estava lá, com o cursor à espera depois do sinal de maior, a piscar. O Claude não lhe perguntou nada. Nunca perguntava: só respondia. O Simão escreveu sobre uma impressora do Seixal que cortava os talões ao meio, e o Claude tratou da impressora. Do resto não escreveu uma palavra, nem ali nem no ficheiro.
 

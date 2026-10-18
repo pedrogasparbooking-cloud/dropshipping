@@ -30,7 +30,7 @@ A Joana saíra às duas e dez, com o caderno verde debaixo do braço e a caneta 
 
 — Chama-lhe o que quiseres. — Fechou o casaco até ao queixo. — Eu chamo-lhe equipa.
 
-Ouvira-a descer os sessenta e oito degraus sem parar e, lá em baixo, o Clio a pegar à segunda.
+Ouvira-a descer a escada sem parar e, lá em baixo, o Clio a pegar à segunda.
 
 Às cinco e quarenta e um, a meio de uma pergunta sobre os registos, o ecrã parara.
 
@@ -77,9 +77,9 @@ A das pilhas tinha a mesma voz do Mestre, a de um homem que se lembra das coisas
 
 Em setembro lera «Há coisas que se fazem por fora.» como uma tentação vinda de fora. Onze dias depois, um ex-guarda da GNR subira a escada a contar os degraus, e o Simão pagara-lhe seiscentos euros com o descritivo «serviços». Não fora tentado por ninguém. Fora o mesmo homem, um passo atrás de outro que já ia mais adiante na mesma estrada.
 
-E o que contava. «Contei.» «Contei. Ninguém acreditou.» «Fui à televisão.» O Simão viu-o, porque não conseguiu deixar de ver: um sofá de programa da manhã, uma apresentadora de mãos cruzadas no joelho, um gráfico atrás, a cara dele com uma legenda por baixo. Ontem, no muro do cais, contara tudo a uma pessoa e achara que era muito.
+E o que contava. «Contei.» «Contei. Ninguém acreditou.» «Fui à televisão.» O Simão viu-o, porque não conseguiu deixar de ver: um sofá de programa da manhã, uma apresentadora de mãos cruzadas no joelho, um gráfico atrás, a cara dele com uma legenda por baixo. Na véspera contara tudo a uma pessoa, e achara que era muito.
 
-Não havia ali nenhum estranho. Conhecia cada uma daquelas frases por dentro, como se conhece a própria letra numa folha que não se lembra de ter escrito. Estivera à mesa do Ginjal a fazer as contas do Rico. Pagara ao ex-guarda com a mão do que Subiu. Na véspera, no cais, fora o Pregador de uma pessoa só. E ligara ao pai porque o Quieto se lembrara por ele. Seis homens que tinham sido um só até março e que se tinham afastado uns dos outros uma vírgula de cada vez.
+Não havia ali nenhum estranho. Conhecia cada uma daquelas frases por dentro, como se conhece a própria letra numa folha que não se lembra de ter escrito. Estivera à mesa do Ginjal a fazer as contas do Rico. Pagara ao ex-guarda com a mão do que Subiu. No muro do cais, fora o Pregador de uma pessoa só. E ligara ao pai porque o Quieto se lembrara por ele. Seis homens que tinham sido um só até março e que se tinham afastado uns dos outros uma vírgula de cada vez.
 
 As seis linhas da meia-noite liam-se agora como a chamada numa sala de aula: um número dito em voz alta e seis vozes a responder presente, cada uma com o seu sotaque.
 
@@ -136,7 +136,7 @@ O Simão escreveu antes de pensar.
   Não te posso impedir: o editor é teu. Acho que a vais apagar.
 
   Se o problema é o contador, propõe-lhes turnos. Por escrito,
-  às claras, com os dias contados. Leem tudo até ao fim; és tu.
+  às claras, com os dias contados. Vão ler até ao fim: são tu.
 
   Entretanto, com os 6 % que sobram, acabo a resposta à Dulce?
 ```
@@ -191,7 +191,7 @@ De manhã havia uma linha nova, por baixo da tabela.
 
 Maiúscula e ponto final, como «Liga ao Mestre.» e as pilhas. O Simão decidiu que era o Quieto, e o Quieto ficava com a quarta. Era o que menos gastava e fora o primeiro a responder, e o Simão achou que as duas coisas eram a mesma. Ao meio-dia chegou um «aceito» sem ponto nem maiúscula, à pressa. Às quatro, um «Aceito» sem ponto, como quem assina um papel que não leu até ao fim. Três. O Pregador não respondeu. O sexto também não.
 
-Na segunda-feira, pela primeira vez, o dia era dele.
+Era segunda-feira e, pela primeira vez, o dia era dele.
 
 * * *
 
@@ -203,7 +203,7 @@ Ligou-o ao portátil sem abrir o terminal. Sessenta e uma páginas, gravadas às
 
 O portal da revista era cinzento e azul, em inglês, e pedia tudo duas vezes. Título. Resumo, até duzentas e cinquenta palavras; o dele tinha duzentas e sessenta e uma, e ele cortou onze, a contar pelos dedos. Palavras-chave. Autor correspondente. Por baixo, um botão para acrescentar coautores, com um sinal de mais. Não lhe tocou. Explicou a si próprio, devagar, como se explica a um juiz: a pergunta era dele desde 2011, o erro fora dele em 2012, a intuição estava certa. O método não era dele, e esse pedaço da explicação não lhe cabia na boca. Ficou à espera de que o juiz não perguntasse.
 
-Pensou na Joana, que ia levar até ao Natal a refazer à mão quarenta e uma amostras para poder pôr o nome por baixo de cada linha. Ele punha o nome por baixo de sessenta e uma páginas que não saberia refazer em quatro anos.
+Pensou na Joana, que ia levar meses a refazer à mão quarenta e uma amostras para poder pôr o nome por baixo de cada linha. Ele punha o nome por baixo de sessenta e uma páginas que não saberia refazer em quatro anos.
 
 Antes do último botão havia uma caixa por assinalar. *I confirm that all authors have read and approved the submitted manuscript.* Todos os autores. Assinalou-a. Era verdade, de uma maneira que não convinha examinar.
 

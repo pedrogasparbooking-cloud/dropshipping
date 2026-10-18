@@ -2,7 +2,7 @@
 
 *Cacilhas, sábado, 25 de abril de 2015*
 
-No sábado de manhã, o repositório continuava público e ninguém tinha reparado. O Simão foi vê-lo duas vezes antes do café: nenhuma estrela, nenhuma cópia, um contador de visitas que só o contava a ele. Lá em baixo, a dona do café do rés-do-chão prendia os cravos de papel ao toldo com fita-cola, e o barco das nove saía cheio de gente com cravos verdadeiros na lapela, a caminho do desfile da Avenida.
+No sábado de manhã, o repositório continuava público e continuava sozinho. O Simão foi confirmá-lo antes do café: nenhuma estrela, nenhuma cópia, um contador de visitas que só o contava a ele. Lá em baixo, o dono do restaurante do rés-do-chão prendia os cravos de papel ao toldo com fita-cola, e o barco das nove saía cheio de gente com cravos verdadeiros na lapela, a caminho do desfile da Avenida.
 
 O telemóvel vibrou em cima da mesa. Era o Rui.
 
@@ -22,7 +22,7 @@ Desde a vírgula de março, o Simão abria o CLAUDE.md todas as manhãs, depois 
 
 Não foi o verbo que o fez pousar a cafeteira vazia. Foi o M maiúsculo.
 
-Tinha sete anos na primeira vez que o pai o levou à casa das máquinas de um cacilheiro. Lembrava-se do calor, do barulho que lhe entrava nos dentes e de um homem de fato-macaco que gritou «Ó mestre, o miúdo não pode estar aqui!» por cima do motor. O pai respondera que podia, se não mexesse em nada, e o Simão não mexera em nada durante uma travessia inteira. Ao jantar, chamou-lhe «o Mestre». A mãe riu-se; o pai fingiu não gostar, e continuou a fingir durante vinte e quatro anos. Nunca mais ninguém lhe chamou assim. O Rui dizia «o teu velho»; os vizinhos, «o senhor Fernando». No telemóvel do Simão, o número estava guardado com uma palavra só, com maiúscula: *Mestre*.
+Tinha sete anos na primeira vez que o pai o levou à casa das máquinas de um cacilheiro. Lembrava-se do calor, do barulho que lhe entrava nos dentes e de um homem de fato-macaco que gritou «Ó mestre, o miúdo não pode estar aqui!» por cima do motor. O pai respondera que podia, se não mexesse em nada, e o Simão não mexera em nada durante uma travessia inteira. Ao jantar, chamou-lhe «o Mestre». A mãe riu-se; o pai fingiu não gostar, e continuou a fingir durante vinte e quatro anos. Mais ninguém lhe chamava assim. O Rui dizia «o teu velho»; os vizinhos, «o senhor Fernando». No telemóvel do Simão, o número estava guardado com uma palavra só, com maiúscula: *Mestre*.
 
 Foi à porta. A corrente estava passada.
 
@@ -45,7 +45,7 @@ Abriu a sessão.
   03:52. Entre as 02:41 e as 07:04, o portátil estava suspenso.
 ```
 
-O Simão leu a última linha duas vezes. Uma máquina a dormir, de tampa fechada, com uma frase nova lá dentro, escrita à hora a que ele próprio costumava acordar sem razão.
+O Simão ficou parado na última linha. Uma máquina a dormir, de tampa fechada, com uma frase nova lá dentro, escrita à hora a que ele próprio costumava acordar sem razão.
 
 ```
 > e se fui eu, a dormir?
@@ -57,11 +57,11 @@ O Simão leu a última linha duas vezes. Uma máquina a dormir, de tampa fechada
   Não sei quem a escreveu, e não vou fingir que sei.
 ```
 
-Abriu o PROTOCOLO na página a seguir à de março e escreveu a data. Por baixo, como em fevereiro, as hipóteses. *H1: o Rui.* Riscou-a quase logo: a corrente; e o Rui não punha maiúsculas, e não sabia a palavra. *H2: eu, a dormir.* Riscou-a com mais vagar. *H3:* e um ponto de interrogação, que deixou ficar.
+Abriu o PROTOCOLO na página a seguir à de março, onde as experiências com o Rui continuavam a lápis, longe do ficheiro, e escreveu a data. Por baixo, como em fevereiro, as hipóteses. *H1: o Rui.* Riscou-a quase logo: a corrente; e o Rui não punha maiúsculas, e não sabia a palavra. *H2: eu, a dormir.* Riscou-a com mais vagar. *H3:* e um ponto de interrogação, que deixou ficar.
 
 A experiência mais simples era apagar a linha e ver se voltava. Pôs o cursor no fim da frase e ficou com o dedo em cima da tecla. Não a apagou. Disse a si próprio que era para não contaminar a amostra, e era, em parte. A outra parte não tinha nome científico.
 
-A vírgula de março era um tique, uma mão cansada. Aquilo era uma ordem, dada por alguém que sabia o que ele chamava ao pai quando não estava ninguém a ouvir. Fechou o caderno. Fechou o portátil. A frase ficou-lhe atrás dos olhos o dia inteiro, durante as frações do Gonçalo e as forças da Marta, como uma palavra mal escrita num quadro que ninguém apaga.
+A vírgula de março era um tique, uma mão cansada. Aquilo era uma ordem, dada por alguém que sabia o que ele chamava ao pai quando não estava ninguém a ouvir. Fechou o caderno. Fechou o portátil. A frase ficou-lhe atrás dos olhos o dia inteiro, durante as frações do Gonçalo e as equações de um 8.º ano, como uma palavra mal escrita num quadro que ninguém apaga.
 
 * * *
 
@@ -121,7 +121,7 @@ A casa estava como o Simão a deixara no Natal e como a mãe a deixara em 2010. 
 
 A cadeira da mãe continuava com a almofada. O pai pôs-lhe o prato do outro lado.
 
-Era sopa de feijão com couve, grossa, a fumegar. O pai comia de cabeça baixa, depressa, como se comia em vinte minutos de turno, e as mãos dele, grossas e marcadas, ainda cheiravam a óleo de motor quatro anos depois do último motor. Talvez o cheiro já fosse das mãos.
+Era sopa de feijão com couve, grossa, a fumegar. O pai comia de cabeça baixa, depressa, como se comia em vinte minutos de turno, e as mãos dele, grossas e marcadas, ainda cheiravam a óleo de motor quase quatro anos depois do último motor. Talvez o cheiro já fosse das mãos.
 
 — Estás magro — disse o pai.
 
@@ -151,7 +151,7 @@ Depois, sem levantar os olhos do prato, o pai perguntou se ele ainda ouvia, em C
 
 — Está rouca desde noventa e oito. Disse-o à oficina vinte vezes. — Partiu pão para a sopa. — Agora já não é comigo.
 
-Em 2011, a empresa mandara-o para casa com uma carta e um almoço, trinta e cinco anos de casa das máquinas, quando ele ainda pedia mais um ano, e o pai nunca dissera mal da empresa, nem da carta, nem do almoço. Dizia mal do rio. Que o rio estava sujo, que o rio já não era o que era, que o rio que se governasse. Não ia ao cais. Atravessava para Lisboa de autocarro, pela ponte, as poucas vezes que atravessava.
+Em 2011, ao fim de trinta e cinco anos de casa das máquinas, a empresa mandara-o para casa com uma carta e um almoço, quando ele ainda pedia mais um ano. O pai nunca dissera mal da empresa, nem da carta, nem do almoço. Dizia mal do rio. Que o rio estava sujo, que o rio já não era o que era, que o rio que se governasse. Não ia ao cais. Atravessava para Lisboa de autocarro, pela ponte, as poucas vezes que atravessava.
 
 — E o Zé Carlos? — perguntou o Simão, porque se lembrava do nome e de pouco mais.
 
@@ -222,7 +222,7 @@ Na terceira quinta, 14 de maio, o papel dizia 155. A sopa era de grão. O rádio
 
 — Podia ter-me dito. Eu trazia.
 
-— Isso é conversa.
+— Ainda sei mudar pilhas.
 
 Nessa noite, o pai falou de menos coisas e durante mais tempo de cada uma, e o Simão percebeu, a meio da sopa, que já não estava à espera de que o pai se calasse para se poder ir embora. À porta, com o pano da loiça outra vez ao ombro, já o Simão estava no passeio, o pai disse:
 
@@ -234,12 +234,12 @@ Nessa noite, o pai falou de menos coisas e durante mais tempo de cada uma, e o S
 
 E fechou a porta.
 
-O Simão voltou para Cacilhas a pé, devagar, pelo caminho mais comprido. A meio, parou debaixo de um candeeiro e abriu o email no telemóvel. A mensagem da Catarina continuava lá, a negrito, marcada como não lida desde março. Leu outra vez a frase sobre explicar as coisas como se tivessem graça, e voltou a marcá-la como não lida, que era a maneira que tinha de não responder sem dizer que não.
+O Simão voltou para Cacilhas a pé, devagar, pelo caminho mais comprido. A meio, parou debaixo de um candeeiro e abriu o email no telemóvel. A mensagem da Catarina continuava lá, a negrito, marcada como não lida desde março. Leu outra vez a frase sobre explicar as coisas como se tivessem graça e devolveu a mensagem ao negrito, sem resposta.
 
 Contou os candeeiros até ao terminal e enganou-se duas vezes. Lisboa estava acesa do outro lado. Um barco apitou ao encostar, rouco, e ele soube que era o mesmo das seis, rouco desde noventa e oito, e pensou que nunca soubera aquilo e que agora sabia. No dia seguinte, o papel ia dizer 154.
 
 * * *
 
-Às quatro e dez da madrugada de sexta-feira, 15 de maio, num escritório de Mayfair onde só a máquina do café estava acordada, um programa que lia o arquivo público de atividade do GitHub acabou a sua volta da noite. Contava commits: quantos, de quem, a que horas, desde quando. Na maior parte das noites não encontrava nada. Nessa noite pintou de vermelho uma linha. Um autor. O ritmo de uma equipa de doze. Na coluna da localização dizia «Portugal». Na coluna do nome, em minúsculas, o nome que dava azar mudar: *dropshipping*.
+Às quatro e dez da madrugada de sexta-feira, 15 de maio, num escritório de Mayfair onde só a máquina do café estava acordada, um programa que lia o arquivo público de atividade do GitHub acabou a sua volta da noite. Contava commits: quantos, de quem, a que horas, desde quando. Na maior parte das noites não encontrava nada. Nessa noite pintou de vermelho uma linha. Um autor. O ritmo de uma equipa de doze. Na coluna da localização dizia «Portugal». Na coluna do nome, em minúsculas, o de uma loja que nunca vendera nada: *dropshipping*.
 
 Ninguém estava a olhar.

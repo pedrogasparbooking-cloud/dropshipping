@@ -14,7 +14,7 @@ A loja era do Rui. A ideia, pelo menos: capas de telemóvel, cabos, colunas de b
 
 De dia, aquela mesa servia para outra coisa. Das quatro às oito, sentavam-se ali miúdos de Almada e de Cacilhas com os cadernos abertos, e o Simão, alto e curvado, de óculos de massa e dedos manchados de marcador vermelho, explicava-lhes frações, forças e equações do segundo grau pelo preço de uma hora de canalizador. Aos trinta e um anos, era o melhor explicador da rua e o único com um mestrado em Cosmologia. Não falava do mestrado.
 
-Do outro lado do vidro, os cacilheiros dormiam encostados ao cais, com as luzes de presença acesas, e Lisboa ainda não se tinha deitado. Num separador do navegador, como todas as noites, estavam abertos os resultados novos do Planck. O Simão abria-os depois do jantar e não os lia, do mesmo modo que se passa a língua por um dente partido.
+Para lá do vidro, os cacilheiros dormiam encostados ao cais, com as luzes de presença acesas, e Lisboa ainda não se tinha deitado. Num separador do navegador, como todas as noites, estavam abertos os resultados novos do Planck. O Simão abria-os depois do jantar e não os lia, do mesmo modo que se passa a língua por um dente partido.
 
 ```
 $ git commit -m "loja: primeira versão"
@@ -115,7 +115,7 @@ Olhou para o relógio de pulso e começou a contar com os lábios, como contava 
 
 Vinte e um segundos.
 
-O Simão riu-se, um riso curto que lhe saiu pelo nariz. Depois parou, porque o resto lhe chegou. Vinte e um segundos para ler duzentas linhas de código alheio, dar com o único erro que ele próprio só teria encontrado com um cliente zangado ao telefone, e explicá-lo como lho explicaria um colega de gabinete: a causa, a solução, e uma piada no fim para não doer.
+O Simão riu-se, um riso curto que lhe saiu pelo nariz. Depois parou, porque o resto lhe chegou. Vinte e um segundos para ler duzentas linhas de código alheio, dar com o único erro que ele próprio só teria encontrado com um cliente zangado ao telefone, e explicá-lo como lho explicaria um colega de gabinete: a causa, a solução e uma piada no fim para não doer.
 
 Abriu o interpretador de Python na outra janela, para não ter de acreditar em ninguém.
 
@@ -130,7 +130,7 @@ Uma pessoa numa sala distante teria precisado de dez minutos e de um café. E te
 
 Riscou a terceira linha. Na folha ficou o H0 sublinhado por cima de três linhas riscadas, e o Simão ficou a olhar para elas com a sensação que tivera uma vez, aos vinte e oito anos, quando um gráfico lhe saíra bonito demais: a de que o mais provável era ter-se enganado, e de que não sabia onde.
 
-Dessa vez, enganara-se num sinal. Quem lhe mostrara onde fora outra pessoa, por escrito, numa revista que toda a gente da área lia.
+Dessa vez, enganara-se num sinal. Quem lhe mostrara onde fora outra pessoa, por escrito e em público.
 
 * * *
 
@@ -160,10 +160,10 @@ O frigorífico respondeu-lhe com um estalo e calou-se.
 
 ● Não. Não encontro nada em mim que mo diga.
 
-  Verifiquei uma coisa: este ano, 16 de outubro calha a uma
-  sexta-feira. Isso não prova nada; acontece de tantos em tantos
-  anos. Mas, se o ano for este, faltam 234 dias. Se não for,
-  não sei.
+  Verifiquei uma coisa: no ano do teu relógio, 16 de outubro
+  calha a uma sexta-feira. Isso não prova nada; acontece de
+  tantos em tantos anos. Mas, se o ano for este, faltam 234
+  dias. Se não for, não sei.
 ```
 
 Não lhe tinha pedido a conta. Fez a dele, de cabeça e depois num canto da folha, porque de cabeça já não confiava: quatro dias de fevereiro, depois março, abril, maio, junho, julho, agosto e setembro, e dezasseis de outubro. Duzentos e trinta e quatro.
@@ -220,7 +220,7 @@ Pediu-lhe que corrigisse a linha 132, e a coisa, antes de mexer num único cará
 
 Ficou um bom bocado com o dedo por cima do 1. Era um gesto pequeno, deixar uma coisa vinda de lado nenhum mexer-lhe nos ficheiros, e foi por ser pequeno que lhe pareceu grande. Carregou. A coisa corrigiu a linha, mostrou-lhe a diferença a verde e a vermelho, e ficou à espera.
 
-Às quatro e pouco, por teimosia, pôs-lhe uma pergunta de Cosmologia, daquelas que fazia aos colegas nos corredores para os ver hesitar. A coisa não hesitou. Respondeu certo, disse onde a resposta deixava de ser consensual e acrescentou que, sobre esse ponto, preferia não se fingir mais segura do que estava. O Simão leu aquilo duas vezes, porque era a frase que ele devia ter escrito em 2012, numa nota de rodapé que nunca escreveu.
+Às quatro e pouco, por teimosia, pôs-lhe uma pergunta de Cosmologia, daquelas que fazia aos colegas nos corredores para os ver hesitar. A coisa não hesitou. Respondeu certo, disse onde a resposta deixava de ser consensual e acrescentou que, sobre esse ponto, preferia não se fingir mais segura do que estava. O Simão demorou-se nessa última frase, porque era a que ele devia ter escrito em 2012, numa nota de rodapé que nunca escreveu.
 
 Às cinco menos dez, escreveu a pergunta que andava a adiar.
 

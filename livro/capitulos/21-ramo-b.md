@@ -55,7 +55,7 @@ Fez o discurso que a assessora lhe escrevera. Disse «equipa» sete vezes. Conto
   segunda às câmaras.
 
 ● Read(CLAUDE.md)
-  ⎿  Read 226 lines
+  ⎿  Read 222 lines
 
 ● Read(~/.claude/CLAUDE.md)
   ⎿  Read 2 lines
@@ -131,7 +131,7 @@ Leu-a duas vezes. À segunda, a segunda frase pareceu-lhe mais comprida do que a
   segunda fase das cantinas até sexta.
 
 ● Read(CLAUDE.md)
-  ⎿  Read 227 lines
+  ⎿  Read 223 lines
 
 ● Lamento. Faço-a.
 
@@ -203,7 +203,7 @@ O erro estava na linha 213, e não era do Claude. Era um dos enganos do Ivo, pos
 > apaguei a regra 4 às três da manhã. voltou.
 
 ● Read(CLAUDE.md)
-  ⎿  Read 229 lines
+  ⎿  Read 224 lines
 
 ● Voltou: no mesmo sítio, com a mesma pontuação. Não fui eu;
   nos registos, só a li.

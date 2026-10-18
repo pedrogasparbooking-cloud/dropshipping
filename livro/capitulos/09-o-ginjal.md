@@ -10,7 +10,7 @@
 
 *Passa das duas e meia quando a D para.*
 
-*Não acaba: para. A barra fica com o mesmo comprimento, um traço curto, e o número ao lado deixa de subir. As outras continuam. Ele espera um minuto, que conta pelo relógio do canto do ecrã, e depois outro. A D não se mexe. Chega-se à frente na cadeira. Pensa que partiu alguma coisa. Pensa na palavra que escreveu mal e não corrigiu, e imagina-a a ir parar àquela barra e a encravá-la, como uma pedra numa engrenagem. Pensa, sem querer, que há coisas que se começam sem se saber como se param.*
+*Não acaba: para. A barra fica com o mesmo comprimento, um traço curto, e o número ao lado deixa de subir. As outras continuam. Ele espera um minuto, que conta pelo relógio do portátil, e depois outro. A D não se mexe. Chega-se à frente na cadeira. Pensa que partiu alguma coisa. Pensa na palavra que escreveu mal e não corrigiu, e imagina-a a ir parar àquela barra e a encravá-la, como uma pedra numa engrenagem. Pensa, sem querer, que há coisas que se começam sem se saber como se param.*
 
 *Tem o dedo em cima da tecla que interromperia tudo. Não carrega. Também não o tira de lá.*
 
@@ -36,7 +36,7 @@ Na segunda-feira, 24 de agosto, o Lucien Marr chegou ao Ostrakon às seis e meia
 
 Londres abriu às oito e caiu. Frankfurt caiu. Às duas e meia da tarde abriu Nova Iorque, que perdeu mais de mil pontos nos primeiros minutos, e fez-se na sala um silêncio que o Marr ouviu através do vidro do gabinete, como se ouve uma porta a fechar-se noutro andar.
 
-O Ostrakon não estava na China. Estava, como estivera na Grécia, em tudo o que a China arrastava atrás de si: metais, moedas de países que vendiam à China, empresas que juravam aos acionistas que a China ia comprar mais. Perdeu nessa tarde o que levara um ano a ganhar. O Marr fez a conta sem caneta, como fazia todas: o buraco de 2014, o de julho, o desta tarde. O dinheiro que os tapava era de clientes que não perdoavam. Até ali, conseguira não pensar no que diriam. Nessa tarde pensou.
+O Ostrakon não estava na China. Estava, como estivera na Grécia, em tudo o que a China arrastava atrás de si: metais, moedas de países que vendiam à China, empresas que juravam aos acionistas que a China ia comprar mais. Perdeu nessa tarde o que levara um ano a ganhar. O Marr fez a conta de cabeça: o buraco de 2014, o de julho, o desta tarde. O dinheiro que os tapava era de clientes que não perdoavam. Até ali, conseguira não pensar no que diriam. Nessa tarde pensou.
 
 Abriu a gaveta da secretária. Estava lá havia uma semana a folha da Nell, uma só, porque a Nell não escrevia duas quando bastava uma. Noventa dias. Nem um commit antes das cinco da tarde: nem em junho, nem em julho, nem em agosto, nem num feriado, nem nas férias de um homem que, por tudo o que se via, não tinha tido férias. No fim, três linhas numeradas:
 
@@ -70,7 +70,7 @@ Chegou à uma menos dois. O homem já lá estava, na última mesa da esplanada, 
 
 Levantou-se. Era mais alto do que o Simão, coisa que não acontecia muitas vezes, e trazia, com vinte e oito graus e o sol em cima da água, um fato cinzento-claro que não fazia barulho quando se mexia.
 
-— Escolheu bem — disse, num inglês sem sotaque de lado nenhum. — Daqui vê-se a cidade inteira, e ela não nos vê.
+— Escolheu bem — disse, num inglês que parecia passado a ferro. — Daqui vê-se a cidade inteira, e ela não nos vê.
 
 — Escolhi-o por ser perto de casa.
 
@@ -86,9 +86,9 @@ Limpou os dedos que não sujara e pousou o guardanapo.
 
 Deixou passar uma pausa. O Simão não a encheu.
 
-— E depois há quarenta linhas numa pasta chamada *anomalias*. Essas não são boas. São impossíveis. A minha analista procurou-as em tudo o que se publica e não as encontrou. Apareceram inteiras, numa quinta-feira às três da manhã, com um comentário por cima. *O costume.* — Disse as duas palavras em português, com cuidado, como quem pega num copo pelo pé. — E o senhor nunca trabalha antes das cinco da tarde. Acaba a horas diferentes, às duas, às três, ao meio-dia de um domingo. Mas recomeça sempre às cinco. Nem a 25 de abril, que eu sei que é feriado cá. Nem em agosto.
+— E depois há quarenta linhas numa pasta chamada *anomalias*. Essas não são boas. São impossíveis. A minha analista procurou-as em tudo o que se publica e não as encontrou. Apareceram inteiras, numa quinta-feira às três da manhã, com um comentário por cima. *O costume.* — Disse as duas palavras em português, devagar, com as vogais todas. — E o senhor nunca trabalha antes das cinco da tarde. Acaba a horas diferentes, umas vezes às duas, outras às três. Mas recomeça sempre às cinco. Nem a 25 de abril, que eu sei que é feriado cá. Nem em agosto.
 
-O Simão pousou o pão. Atrás do Marr, um cacilheiro largava do cais de Cacilhas, e ele contou-lhe as janelas de um dos lados sem querer, catorze, e voltou a contá-las. Alguém em Londres passara três meses a olhar para as horas dele. Sabia-as melhor do que ele.
+O Simão pousou o pão. Atrás do Marr, um cacilheiro largava do cais de Cacilhas, e ele contou-lhe as janelas de um dos lados, doze, e voltou a contá-las. Alguém em Londres passara três meses a olhar para as horas dele. Sabia-as melhor do que ele.
 
 — Porque é que está aqui?
 
@@ -98,13 +98,13 @@ O Simão pousou o pão. Atrás do Marr, um cacilheiro largava do cais de Cacilha
 
 O Marr sorriu como se sorri a um aluno que jura que não estudou.
 
-— Dois milhões de euros no dia em que disser que sim. Outros dois por cada ano em que o sistema trabalhar para nós. Só para nós. Fica com os seus cafés, com a sua empresa de dois euros, com a sua casa ao pé do rio. Ninguém lhe pede que se mude. — Alinhou os talheres no prato, paralelos, como se ensina aos meninos que acabaram. — Sei que é muito dinheiro para um explicador. Também sei quanto cobra.
+— Dois milhões de euros no dia em que disser que sim. Outros dois por cada ano em que o sistema trabalhar para nós. Só para nós. Fica com os seus cafés, com a sua empresa de dois euros, com a sua casa ao pé do rio. Ninguém lhe pede que se mude. — Alinhou os talheres no prato, paralelos, como se ensina aos miúdos quando acabam de comer. — Sei que é muito dinheiro para um explicador. Também sei quanto cobra.
 
 — Catorze euros à hora — disse o Simão. — Ao sábado, quinze.
 
 O Marr riu-se, pela primeira vez, e pareceu surpreendido por se estar a rir.
 
-O Simão procurou uma razão que pudesse dizer em voz alta. A verdadeira cabia numa frase, *não é meu para vender*, e não se podia dizer sem dizer o resto: a cozinha, a caixa no ecrã à uma e sete da manhã, um comando que só existia com ele na mesma divisão, uma data sem ano presa ao frigorífico com uma sardinha de loiça. *Não existe sistema nenhum* era mentira. *Não está à venda* era verdade e não explicava nada, e ao porquê do Marr só havia outra vez a primeira frase. Experimentou três, de cabeça. Nenhuma era ao mesmo tempo verdadeira e inteira.
+O Simão procurou uma razão que pudesse dizer em voz alta. A verdadeira cabia numa frase, *não é meu para vender*, e não se podia dizer sem dizer o resto: a cozinha, a caixa no ecrã à uma e sete da manhã, um comando que só existia com ele na mesma divisão, uma data sem ano, um número preso ao frigorífico com uma sardinha de loiça. *Não existe sistema nenhum* era mentira. *Não está à venda* era verdade e não explicava nada, e ao porquê do Marr só havia outra vez a primeira frase. Experimentou três, de cabeça. Nenhuma era ao mesmo tempo verdadeira e inteira.
 
 — Não aceito.
 
@@ -209,7 +209,7 @@ O Simão olhou para os azulejos atrás do fogão. Catorze na primeira fila. Sabi
 
 Pensou no Marr a abrir uma sardinha sem a rasgar. Pensou que o Marr não comprava um programa; comprava uma cozinha com um homem lá dentro, a horas certas, todos os dias, e o homem era ele. Ninguém compra uma janela sem comprar a parede onde ela está. Pensou numa coisa que ainda não tinha a forma de uma frase: que um homem que não esconde nada não se pode chantagear, porque não há nada com que o apertar. Era bonita. Não sabia se era verdadeira. Sabia que, se fosse, quem a ia pagar não era ele.
 
-E pensou em 2012, em vinte minutos de pancadas numa porta, que ele contara até cento e tal, e numa mota a descer para a Fonte da Telha.
+E pensou em 2012, no Rui a bater-lhe à porta até ele abrir, e numa mota a descer para a Fonte da Telha.
 
 — Não, Rui.
 
@@ -239,6 +239,6 @@ Carregou no último movimento. Tinha a data da véspera, e o ordenante era uma i
 
 Dois milhões de euros. Descrição: «pagamento — consultoria de software».
 
-Ninguém lhe pedira o número da conta. Vinha no fundo de todas as faturas da Talão, por baixo do nome dele, onde qualquer pessoa o podia ler. Lá fora, um barco apitou ao encostar ao cais.
+Ninguém lhe pedira o número da conta. Vinha no fundo de todas as faturas da Talão, por baixo do nome dele, onde qualquer pessoa o podia ler.
 
 O resto da proposta era isto.

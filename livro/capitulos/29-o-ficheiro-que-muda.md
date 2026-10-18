@@ -17,7 +17,7 @@ Acquisition 2   Mon 06/06/2016 09:12   Verified: OK
 
 — Deu.
 
-O laboratório ficava ao fundo de um corredor do quarto andar e cheirava a pó aquecido pelas ventoinhas. Havia discos em sacos de plástico pendurados num painel de cortiça, cada um com a sua etiqueta, como peças de talho. O Galvão desembrulhou um rebuçado e não o meteu na boca.
+O laboratório ficava ao fundo de um corredor do quarto andar e cheirava a pó aquecido pelas ventoinhas. Havia discos em sacos de plástico pendurados num painel de cortiça, cada um com a sua etiqueta, como peças de talho. O Galvão rodou entre os dedos um rebuçado ainda embrulhado.
 
 — O que é que mudou?
 
@@ -141,9 +141,9 @@ Almoçou à secretária, uma sandes de panado que não acabou, com tudo aberto �
 
 O auto do Rui: um computador que só falava com o explicador na sala e que achava que era sempre sexta-feira, 16 de outubro, sem ano. O papel do frigorífico, num saco de provas, com um zero a vermelho. O gráfico do perito, de janeiro, com um buraco de sete em sete dias, e ao lado, na terceira das oito folhas, uma linha datada de outubro: «Estão a ver o tráfego. Não usem às terças.» Era às terças que o perito fazia os relatórios. Ninguém fora daquele andar o sabia, e alguém o escrevera num ficheiro de texto, em Cacilhas, no mês em que os buracos começaram.
 
-Tirou a agenda da pasta e abriu-a na página dos anos: 2009, 2015, 2020, 2026, em coluna, a caneta, sem sublinhado nenhum. Quinze passara e não acontecera nada que se visse. Ficou a olhar para os outros dois. Não sublinhou nenhum. Por baixo do 252 da semana anterior escreveu 253 e 254.
+Trouxera de casa a agenda do ano anterior. Abriu-a na página dos anos: 2009, 2015, 2020, 2026, em coluna, a caneta, sem sublinhado nenhum. Quinze passara e não acontecera nada que se visse. Ficou a olhar para os outros dois. Não sublinhou nenhum. No bloco amarelo, por baixo do 252 da semana anterior, escreveu 253 e 254.
 
-Cada peça, sozinha, tinha uma explicação que ele conhecia: um polícia que fala demais, um apostador que delira, um explicador que mente bem, um técnico que se engana. Juntas, não havia explicação nenhuma das que conhecia onde coubessem todas. Em trinta anos de casa, fora sempre ao contrário.
+Cada peça, sozinha, tinha uma explicação que ele conhecia: um polícia que fala demais, um apostador que delira, um explicador que mente bem, um técnico que se engana. Juntas, não havia explicação nenhuma das que conhecia onde coubessem todas. Até ali, fora sempre ao contrário.
 
 * * *
 
@@ -247,15 +247,13 @@ O explicador percebeu. Viu-se-lhe na cara: o portátil voltava para casa dele e 
 
 — Já fico. Desde sábado.
 
-O explicador acenou devagar, como quem confirma uma contagem que já tinha feito.
-
-O explicador pegou na caneta. Desta vez a assinatura saiu-lhe do tamanho normal.
+O explicador acenou devagar, como quem confirma uma contagem que já tinha feito. Depois pegou na caneta. Desta vez a assinatura saiu-lhe do tamanho normal.
 
 — Sabe o que está a assinar?
 
 — Sei.
 
-Meteu o saco na mochila, devagar, e pôs a mochila às costas, onde o Galvão sabia, pelas fotografias, que ela andava desde março. Depois levantou-se.
+Meteu o saco na mochila e pôs a mochila às costas, onde o Galvão sabia, pelas fotografias, que ela andava desde março. Depois levantou-se.
 
 — É quinta-feira — disse. — O meu pai janta às sete e meia.
 
@@ -265,6 +263,6 @@ O explicador já tinha a mão na porta quando se voltou.
 
 — O senhor acredita em mim?
 
-O Galvão desembrulhou um rebuçado, devagar, e olhou para ele por cima do papel.
+O Galvão demorou a responder. Desembrulhou um rebuçado e olhou para ele por cima do papel.
 
 — Não sei o que isto é. Mas sei o que não é.
